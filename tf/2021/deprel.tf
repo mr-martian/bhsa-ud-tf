@@ -6,7 +6,7 @@
 @valueType=str
 @version=2021
 @writtenBy=hbo-UD/export_tf.py
-@dateWritten=2025-03-11T21:51:16Z
+@dateWritten=2025-03-11T22:01:44Z
 
 case
 obl
@@ -2041,7 +2041,7 @@ appos
 root
 case
 obj
-2033 flat:name
+2033	flat:name
 appos
 compound:smixut
 compound:smixut
@@ -2051,7 +2051,7 @@ conj
 cc
 nsubj
 compound:smixut
-2042 flat:name
+2042	flat:name
 conj
 cc
 root
@@ -4697,7 +4697,7 @@ obj
 cc
 case
 conj
-4687 flat:name
+4687	flat:name
 cc
 case
 conj
@@ -5653,12 +5653,12 @@ case
 nmod
 case
 nmod
-5642 compound:smixut
+5642	compound:smixut
 cc
 conj
 obj
 xcomp
-5646 compound:smixut
+5646	compound:smixut
 case
 nmod
 cc
@@ -5918,7 +5918,7 @@ obl
 cc
 case
 conj
-5905 compound:smixut
+5905	compound:smixut
 case
 det
 obl
@@ -5931,7 +5931,7 @@ det
 obl
 case
 acl:relcl
-5917 compound:smixut
+5917	compound:smixut
 cc
 case
 det
@@ -6306,7 +6306,7 @@ case
 obj
 case
 nmod
-6291 flat:name
+6291	flat:name
 cc
 case
 det
@@ -6329,7 +6329,7 @@ nmod
 appos
 case
 obl
-6313 flat:name
+6313	flat:name
 mark
 case
 det
@@ -6340,7 +6340,7 @@ cc
 conj
 case
 obl
-6323 flat:name
+6323	flat:name
 nsubj
 parataxis
 cc
@@ -6359,7 +6359,7 @@ mark
 acl:relcl
 case
 obl
-6341 flat:name
+6341	flat:name
 cc
 root
 nsubj
@@ -6576,7 +6576,7 @@ det
 compound:smixut
 cc
 nsubj
-6557 compound:smixut
+6557	compound:smixut
 appos
 compound:smixut
 root
@@ -7307,7 +7307,7 @@ det
 obl
 xcomp
 compound:smixut
-7287 flat:name
+7287	flat:name
 discourse
 case
 parataxis
@@ -9259,7 +9259,7 @@ cc
 conj
 obj
 xcomp
-9238 compound:smixut
+9238	compound:smixut
 nsubj
 parataxis
 compound:smixut
@@ -10776,7 +10776,7 @@ root
 nsubj
 case
 obl
-10754 flat:name
+10754	flat:name
 nsubj
 parataxis
 case
@@ -12342,7 +12342,7 @@ case
 advcl
 obl
 compound:smixut
-12319 flat:name
+12319	flat:name
 cc
 nsubj
 conj
@@ -12629,7 +12629,7 @@ nsubj
 case
 obl
 compound:smixut
-12605 flat:name
+12605	flat:name
 cc
 nsubj
 root
@@ -14903,7 +14903,7 @@ compound:smixut
 det
 det
 xcomp
-14878 compound:smixut
+14878	compound:smixut
 cc
 advmod
 conj
@@ -16626,7 +16626,7 @@ nsubj
 det
 root
 appos
-16600 compound:smixut
+16600	compound:smixut
 mark
 acl:relcl
 advmod
@@ -19080,7 +19080,7 @@ obl
 ccomp
 conj
 obl
-19053 compound:smixut
+19053	compound:smixut
 cc
 conj
 advmod
@@ -19128,7 +19128,7 @@ root
 cc
 conj
 obl
-19100 compound:smixut
+19100	compound:smixut
 cc
 conj
 advmod
@@ -19206,7 +19206,7 @@ acl:relcl
 compound:smixut
 nsubj
 parataxis
-19177 compound:smixut
+19177	compound:smixut
 dislocated
 cc
 conj
@@ -19225,7 +19225,7 @@ det
 obl
 obj
 compound:smixut
-19195 compound:smixut
+19195	compound:smixut
 mark
 advmod
 advcl
@@ -19248,7 +19248,7 @@ case
 obl
 case
 nmod
-19217 compound:smixut
+19217	compound:smixut
 obl
 det
 compound:smixut
@@ -19378,12 +19378,12 @@ case
 advmod
 nsubj
 xcomp
-19346 compound:smixut
+19346	compound:smixut
 cc
 root
 case
 obl
-19350 compound:smixut
+19350	compound:smixut
 cc
 conj
 advmod
@@ -19429,7 +19429,7 @@ cc
 conj
 obj
 xcomp
-19395 compound:smixut
+19395	compound:smixut
 cc
 nsubj
 conj
@@ -19445,7 +19445,7 @@ obl
 compound:smixut
 nsubj
 parataxis
-19410 compound:smixut
+19410	compound:smixut
 cc
 root
 nsubj
@@ -19469,7 +19469,7 @@ case
 advmod
 case
 nmod
-19433 flat:name
+19433	flat:name
 cc
 root
 case
@@ -19551,7 +19551,7 @@ obl
 appos
 obl
 appos
-19514 flat:name
+19514	flat:name
 nsubj
 parataxis
 mark
@@ -20134,13 +20134,13 @@ cc
 conj
 obl
 nsubj
-20096 flat:name
+20096	flat:name
 appos
 compound:smixut
 cc
 root
 nsubj
-20101 flat:name
+20101	flat:name
 appos
 compound:smixut
 cc
@@ -20159,7 +20159,7 @@ appos
 compound:smixut
 appos
 compound:smixut
-20119 flat:name
+20119	flat:name
 cc
 root
 nsubj
@@ -23213,7 +23213,7 @@ nsubj
 obj
 compound:smixut
 xcomp
-23172 flat:name
+23172	flat:name
 cc
 conj
 case
@@ -23221,7 +23221,7 @@ case
 obj
 appos
 compound:smixut
-23179 flat:name
+23179	flat:name
 appos
 compound:smixut
 case
@@ -23331,7 +23331,7 @@ case
 nsubj
 appos
 compound:smixut
-23288 flat:name
+23288	flat:name
 appos
 compound:smixut
 cc
@@ -26353,7 +26353,7 @@ case
 nsubj
 appos
 compound:smixut
-26309 flat:name
+26309	flat:name
 appos
 compound:smixut
 case
@@ -27495,7 +27495,7 @@ obl
 compound:smixut
 nsubj
 parataxis
-27450 compound:smixut
+27450	compound:smixut
 cc
 root
 nsubj
@@ -28519,7 +28519,7 @@ advmod
 parataxis
 obj
 xcomp
-28473 flat:name
+28473	flat:name
 mark
 case
 acl:relcl
@@ -36296,7 +36296,7 @@ conj
 case
 obl
 compound:smixut
-36249 flat:name
+36249	flat:name
 case
 obl
 cc
@@ -36306,7 +36306,7 @@ conj
 case
 obl
 compound:smixut
-36258 flat:name
+36258	flat:name
 obl
 parataxis
 case
@@ -36445,11 +36445,11 @@ cc
 conj
 case
 obl
-36396 flat:name
+36396	flat:name
 case
 obl
 compound:smixut
-36399 flat:name
+36399	flat:name
 cc
 nsubj
 root
@@ -52563,7 +52563,7 @@ compound:smixut
 case
 obl
 compound:smixut
-355796 cc
+355796	cc
 root
 case
 obl
@@ -52581,7 +52581,7 @@ conj
 nsubj
 case
 obl
-355813 compound:smixut
+355813	compound:smixut
 appos
 case
 advcl
@@ -52613,7 +52613,7 @@ conj
 conj
 case
 nmod
-355844 compound:smixut
+355844	compound:smixut
 appos
 cc
 conj
@@ -52929,13 +52929,13 @@ nummod
 case
 advcl
 obl
-356159 compound:smixut
+356159	compound:smixut
 cc
 conj
 case
 advcl
 obl
-356164 compound:smixut
+356164	compound:smixut
 cc
 conj
 nsubj
@@ -52999,7 +52999,7 @@ cc
 nsubj
 conj
 obl
-356227 compound:smixut
+356227	compound:smixut
 case
 obl
 compound:smixut
@@ -53076,7 +53076,7 @@ nsubj
 root
 case
 obl
-356303 compound:smixut
+356303	compound:smixut
 cc
 conj
 case
@@ -54200,7 +54200,7 @@ conj
 obj
 case
 obl
-357426 compound:smixut
+357426	compound:smixut
 cc
 cop
 nsubj

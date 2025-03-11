@@ -6,32 +6,32 @@
 @valueType=str
 @version=2021
 @writtenBy=hbo-UD/export_tf.py
-@dateWritten=2025-03-11T21:51:16Z
+@dateWritten=2025-03-11T22:01:44Z
 
-194 nmod:poss
+194	nmod:poss
 
 nmod:poss
 acl:relcl
-213 nmod:poss
-219 nmod:poss
+213	nmod:poss
+219	nmod:poss
 acl:relcl
 
 nmod:poss
-316 obj
-401 nmod:poss
-408 nmod:poss
-416 obj
-455 nmod:poss
-463 nmod:poss
-475 nmod:poss
-481 nmod:poss
-489 nmod:poss
-501 nmod:poss
+316	obj
+401	nmod:poss
+408	nmod:poss
+416	obj
+455	nmod:poss
+463	nmod:poss
+475	nmod:poss
+481	nmod:poss
+489	nmod:poss
+501	nmod:poss
 
 nmod:poss
-541 nmod:poss
-546 obj
-551 obj
+541	nmod:poss
+546	obj
+551	obj
 
 
 obj
@@ -39,60 +39,60 @@ obj
 
 
 obl
-569 obj
-595 obl
-613 acl:relcl
-618 parataxis
-642 acl:relcl
-683 nmod:poss
-692 nmod:poss
-704 nmod:poss
-716 obj
+569	obj
+595	obl
+613	acl:relcl
+618	parataxis
+642	acl:relcl
+683	nmod:poss
+692	nmod:poss
+704	nmod:poss
+716	obj
 
 obl
 
 
 
 nmod:poss
-736 nsubj
-805 nmod:poss
-953 obj
-958 obj
+736	nsubj
+805	nmod:poss
+953	obj
+958	obj
 
 
 obj
-988 obl
+988	obl
 
 
 
 nsubj
 obl
-1006 nmod:poss
+1006	nmod:poss
 
 obl
 
 
 nmod:poss
-1038 obl
+1038	obl
 
 
 
 
 obl
-1049 nmod:poss
-1077 nmod:poss
-1092 nmod:poss
+1049	nmod:poss
+1077	nmod:poss
+1092	nmod:poss
 
 
 
 nmod:poss
-1112 obj
-1125 nmod:poss
+1112	obj
+1125	nmod:poss
 
 
 
 nmod:poss
-1144 nmod:poss
+1144	nmod:poss
 
 
 nmod:poss
@@ -100,52 +100,52 @@ nmod:poss
 
 
 nmod:poss
-1159 nsubj
+1159	nsubj
 
 
 
 
 nmod:poss
-1225 obl
+1225	obl
 
 
 
 obl
-1248 nsubj
+1248	nsubj
 obl
 
 
 nmod:poss
-1287 nmod:poss
-1294 nmod:poss
+1287	nmod:poss
+1294	nmod:poss
 nmod
-1301 nmod:poss
-1313 obl
-1334 nmod:poss
-1353 obl
+1301	nmod:poss
+1313	obl
+1334	nmod:poss
+1353	obl
 nsubj
 
 
 
 nmod:poss
-1374 obl
-1383 obj
+1374	obl
+1383	obj
 
 
 
 obl
-1397 nmod:poss
+1397	nmod:poss
 
 
 obl
-1422 obj
-1448 nmod:poss
-1455 nmod:poss
+1422	obj
+1448	nmod:poss
+1455	nmod:poss
 
 
 
 obl
-1466 nmod:poss
+1466	nmod:poss
 
 
 nmod:poss
@@ -155,17 +155,17 @@ obj
 
 
 obj
-1483 nmod:poss
+1483	nmod:poss
 
 nmod:poss
-1492 nmod:poss
+1492	nmod:poss
 nmod:poss
 
 
 
 obl
-1506 nmod:poss
-1513 obj
+1506	nmod:poss
+1513	obj
 
 
 
@@ -182,8 +182,8 @@ obj
 
 
 nmod:poss
-1535 obl
-1544 nmod:poss
+1535	obl
+1544	nmod:poss
 
 
 
@@ -193,49 +193,49 @@ nsubj
 
 
 obl
-1567 nmod:poss
-1583 nmod:poss
+1567	nmod:poss
+1583	nmod:poss
 
 
 
 obj
-1598 nmod
-1608 nmod:poss
-1623 obj
-1673 nmod:poss
-1691 nmod:poss
-1726 nmod:poss
+1598	nmod
+1608	nmod:poss
+1623	obj
+1673	nmod:poss
+1691	nmod:poss
+1726	nmod:poss
 
 
 nmod:poss
-1737 nmod:poss
-1743 nmod:poss
-1753 nmod:poss
-1761 obl
+1737	nmod:poss
+1743	nmod:poss
+1753	nmod:poss
+1761	obl
 
 
 
 nmod:poss
-1781 conj
+1781	conj
 nmod:poss
 
 
 
 obl
-1792 nmod:poss
+1792	nmod:poss
 
 
 
 nsubj
-1805 nmod:poss
+1805	nmod:poss
 
 obj
-1815 nmod:poss
-1822 nmod:poss
-1830 nmod:poss
+1815	nmod:poss
+1822	nmod:poss
+1830	nmod:poss
 
 obl
-1846 nmod:poss
+1846	nmod:poss
 
 
 
@@ -243,37 +243,28 @@ obl
 nmod:poss
 
 nmod:poss
-1862 nmod:poss
+1862	nmod:poss
 obl
-1877 nmod:poss
+1877	nmod:poss
 
 
 
 
 obj
-1892 nmod:poss
-1905 obj
+1892	nmod:poss
+1905	obj
 obj
 
 
 obl
-1926 obj
+1926	obj
 
 nmod:poss
-1947 nmod:poss
-1965 nmod:poss
-1990 obl
-2017 nmod:poss
-2048 nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
+1947	nmod:poss
+1965	nmod:poss
+1990	obl
+2017	nmod:poss
+2048	nmod:poss
 
 
 
@@ -283,15 +274,24 @@ nmod:poss
 
 
 nmod:poss
-2081 nmod:poss
-2088 nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+2081	nmod:poss
+2088	nmod:poss
 
 
 
 obl
-2099 obj
-2111 nmod:poss
-2133 obj
+2099	obj
+2111	nmod:poss
+2133	obj
 
 
 
@@ -307,55 +307,55 @@ nmod:poss
 
 
 nsubj
-2159 nmod:poss
+2159	nmod:poss
 
 nmod:poss
 
 
 
 nmod:poss
-2172 nsubj
-2214 nsubj
-2255 nsubj
-2296 nsubj
-2339 nsubj
-2386 nsubj
-2430 nsubj
-2461 nsubj
+2172	nsubj
+2214	nsubj
+2255	nsubj
+2296	nsubj
+2339	nsubj
+2386	nsubj
+2430	nsubj
+2461	nsubj
 
 
 obj
-2484 nsubj
-2531 nmod:poss
-
-
-
-
-obj
-
-nmod:poss
-
-
-
-nmod:poss
+2484	nsubj
+2531	nmod:poss
 
 
 
 
 obj
-2553 nsubj
-2616 obl
-2631 obl
-2642 nmod:poss
-2655 nmod:poss
-2686 obl
-2711 nmod:poss
-2731 nmod:poss
-2760 obj
-2777 nmod:poss
-2822 nmod:poss
-2836 nmod:poss
-2843 nmod:poss
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+obj
+2553	nsubj
+2616	obl
+2631	obl
+2642	nmod:poss
+2655	nmod:poss
+2686	obl
+2711	nmod:poss
+2731	nmod:poss
+2760	obj
+2777	nmod:poss
+2822	nmod:poss
+2836	nmod:poss
+2843	nmod:poss
 
 nsubj
 obj
@@ -364,47 +364,47 @@ obj
 
 
 obl
-2862 obj
-2875 obj
-2884 nmod:poss
+2862	obj
+2875	obj
+2884	nmod:poss
 
 
 
 nmod:poss
-2897 obj
-2906 nmod:poss
-2912 obj
+2897	obj
+2906	nmod:poss
+2912	obj
 
 
 nsubj
-2929 acl:relcl
-2945 nmod:poss
+2929	acl:relcl
+2945	nmod:poss
 obl
-2954 nmod:poss
+2954	nmod:poss
 
 nmod:poss
 
 
 nmod:poss
 nmod
-2978 obl
-2987 nmod:poss
-2993 nmod:poss
-3000 nmod:poss
+2978	obl
+2987	nmod:poss
+2993	nmod:poss
+3000	nmod:poss
 
 
 
 
 obl
-3011 obl
-3019 obl
+3011	obl
+3019	obl
 
 
 obl
 
 conj
-3034 obj
-3047 nmod:poss
+3034	obj
+3047	nmod:poss
 
 
 
@@ -414,54 +414,54 @@ obj
 
 
 nmod:poss
-3069 obl
+3069	obl
 
 
 
 
 nmod:poss
-3086 nmod:poss
-3139 obj
-3159 nmod:poss
+3086	nmod:poss
+3139	obj
+3159	nmod:poss
 
 nmod:poss
 
 
 nmod:poss
 nmod
-3184 nsubj
-3297 nmod:poss
+3184	nsubj
+3297	nmod:poss
 nmod
-3308 nmod:poss
-3314 nmod:poss
-3325 nmod:poss
-3331 nmod:poss
-3350 acl:relcl
-3366 obj
+3308	nmod:poss
+3314	nmod:poss
+3325	nmod:poss
+3331	nmod:poss
+3350	acl:relcl
+3366	obj
 
 
 
 
 obl
-3488 nmod:poss
-3529 conj
-3560 acl:relcl
-3693 obl
-3713 nmod:poss
+3488	nmod:poss
+3529	conj
+3560	acl:relcl
+3693	obl
+3713	nmod:poss
 
 
 obl
-3729 nmod:poss
+3729	nmod:poss
 
 obj
 
 
 obj
 obl
-3756 obl
-3768 nmod:poss
-3795 obl
-3865 nmod:poss
+3756	obl
+3768	nmod:poss
+3795	obl
+3865	nmod:poss
 
 nmod:poss
 
@@ -473,37 +473,37 @@ nmod
 
 
 acl:relcl
-3898 obl
-3915 nmod:poss
+3898	obl
+3915	nmod:poss
 
 nmod:poss
 
 
 nmod:poss
 nmod
-3938 nmod:poss
-3981 nmod:poss
-4001 nmod:poss
-4043 nmod:poss
+3938	nmod:poss
+3981	nmod:poss
+4001	nmod:poss
+4043	nmod:poss
 
 
 obl
-4056 nmod:poss
+4056	nmod:poss
 
 nmod:poss
-4084 nmod:poss
-4091 obl
-4099 obl
-4105 nmod:poss
+4084	nmod:poss
+4091	obl
+4099	obl
+4105	nmod:poss
 nmod:poss
-4112 nmod:poss
+4112	nmod:poss
 
 nmod:poss
-4120 obj
-4129 nmod:poss
-4142 nmod:poss
-4163 obl
-4171 nmod:poss
+4120	obj
+4129	nmod:poss
+4142	nmod:poss
+4163	obl
+4171	nmod:poss
 nmod
 
 
@@ -518,51 +518,51 @@ obl
 
 nmod:poss
 nmod
-4193 acl:relcl
-4206 nmod
-4220 nmod:poss
+4193	acl:relcl
+4206	nmod
+4220	nmod:poss
 obl
-4251 obl
+4251	obl
 
 conj
-4260 acl:relcl
+4260	acl:relcl
 
 
 
 
 nmod:poss
-4275 obl
-4283 nsubj
-4298 nmod:poss
+4275	obl
+4283	nsubj
+4298	nmod:poss
 
 acl:relcl
 
 conj
-4331 obj
-4361 obl
-4420 nmod:poss
-4428 nmod:poss
+4331	obj
+4361	obl
+4420	nmod:poss
+4428	nmod:poss
 
 
 
 
 nmod:poss
-4449 nmod:poss
-4457 nmod:poss
+4449	nmod:poss
+4457	nmod:poss
 
 nmod:poss
 
 
 
 nmod:poss
-4470 nmod:poss
-4476 obl
+4470	nmod:poss
+4476	obl
 nmod:poss
-4488 nmod:poss
-4499 obl
-4513 obl
-4550 obl
-4594 nmod:poss
+4488	nmod:poss
+4499	obl
+4513	obl
+4550	obl
+4594	nmod:poss
 
 
 nmod:poss
@@ -570,76 +570,76 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-4663 nmod:poss
-4737 nmod:poss
-4790 nsubj
+4663	nmod:poss
+4737	nmod:poss
+4790	nsubj
 
 
 
 nsubj
-4808 nmod:poss
+4808	nmod:poss
 
 nmod:poss
 
 nmod:poss
 
 nmod:poss
-4872 nmod:poss
-4878 nmod:poss
-4927 nmod:poss
+4872	nmod:poss
+4878	nmod:poss
+4927	nmod:poss
 
 
 nsubj
-4939 nmod:poss
+4939	nmod:poss
 
 nmod:poss
 
 nmod:poss
 
 nmod:poss
-4951 nmod:poss
+4951	nmod:poss
 
 nmod:poss
-4979 nsubj
-4995 nmod:poss
-5005 obl
-5014 obl
-5022 obl
+4979	nsubj
+4995	nmod:poss
+5005	obl
+5014	obl
+5022	obl
 
 
 
 
 nmod:poss
-5033 obl
-5069 nmod:poss
+5033	obl
+5069	nmod:poss
 
 
 nsubj
-5079 obl
-5090 nmod:poss
-5096 nmod:poss
+5079	obl
+5090	nmod:poss
+5096	nmod:poss
 
 
 
 obj
-5117 nmod:poss
-5130 obj
-5156 nsubj
-5182 nsubj
-5209 nsubj
-5238 nsubj
-5265 nsubj
-5293 nsubj
-5319 nsubj
-5344 nsubj
-5396 nmod:poss
+5117	nmod:poss
+5130	obj
+5156	nsubj
+5182	nsubj
+5209	nsubj
+5238	nsubj
+5265	nsubj
+5293	nsubj
+5319	nsubj
+5344	nsubj
+5396	nmod:poss
 
 
 nmod:poss
-5408 obl
-5431 obl
-5438 nmod:poss
-5445 nmod:poss
+5408	obl
+5431	obl
+5438	nmod:poss
+5445	nmod:poss
 
 
 
@@ -650,7 +650,7 @@ nmod:poss
 
 
 obl
-5490 obl
+5490	obl
 
 nmod:poss
 
@@ -675,20 +675,20 @@ obj
 
 
 nmod:poss
-5520 nmod:poss
+5520	nmod:poss
 
 nmod:poss
 
 
 
 obl
-5537 obl
+5537	obl
 
 
 
 obl
-5552 nsubj
-5560 nmod:poss
+5552	nsubj
+5560	nmod:poss
 
 
 
@@ -698,11 +698,11 @@ nmod:poss
 
 
 nmod:poss
-5617 nmod:poss
-5632 obl
-5645 nmod:poss
-5705 nmod:poss
-5718 obj
+5617	nmod:poss
+5632	obl
+5645	nmod:poss
+5705	nmod:poss
+5718	obj
 
 
 
@@ -729,18 +729,18 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-5764 obj
+5764	obj
 
 
 
 
 obj
-5783 nmod:poss
+5783	nmod:poss
 
 
 conj
-5809 nmod:poss
-5825 obl
+5809	nmod:poss
+5825	obl
 
 
 
@@ -756,8 +756,8 @@ nmod:poss
 
 obj
 obl
-5846 nmod:poss
-5852 obl
+5846	nmod:poss
+5852	obl
 
 
 
@@ -771,7 +771,7 @@ nmod:poss
 
 
 acl:relcl
-5873 nmod:poss
+5873	nmod:poss
 
 
 
@@ -779,11 +779,11 @@ acl:relcl
 
 
 nmod
-5900 nmod:poss
-5912 nmod:poss
-5956 obj
-5964 nmod:poss
-6004 obl
+5900	nmod:poss
+5912	nmod:poss
+5956	obj
+5964	nmod:poss
+6004	obl
 
 conj
 
@@ -792,50 +792,50 @@ nmod:poss
 
 
 nmod:poss
-6023 nmod:poss
+6023	nmod:poss
 
 
 
 obl
-6043 nmod:poss
-6052 nmod:poss
-6069 nsubj
+6043	nmod:poss
+6052	nmod:poss
+6069	nsubj
 
 
 
 obl
-6090 nmod:poss
-6125 obl
+6090	nmod:poss
+6125	obl
 
 
 nmod:poss
-6152 obl
+6152	obl
 obj
 
 
 nmod:poss
-6162 nmod:poss
-6178 nmod:poss
-6186 nmod:poss
+6162	nmod:poss
+6178	nmod:poss
+6186	nmod:poss
 
 
 nmod:poss
 
 obl
 obj
-6285 acl:relcl
-6310 nmod:poss
-6362 obl
-6421 nmod:poss
-6430 nmod:poss
-6474 nmod:poss
+6285	acl:relcl
+6310	nmod:poss
+6362	obl
+6421	nmod:poss
+6430	nmod:poss
+6474	nmod:poss
 
 
 
 nmod:poss
 
 nmod:poss
-6492 obl
+6492	obl
 
 
 
@@ -844,33 +844,33 @@ nmod:poss
 obj
 
 obj
-6518 nmod:poss
+6518	nmod:poss
 
 nmod:poss
-6536 obj
+6536	obj
 
 nsubj
-6548 acl:relcl
-6571 obj
-6589 nmod:poss
+6548	acl:relcl
+6571	obj
+6589	nmod:poss
 
 nmod:poss
 
 
 obl
-6605 obl
-6612 obl
-6620 nmod:poss
-6642 acl:relcl
-6650 root
-6662 obl
-6669 nmod:poss
-6690 nmod
+6605	obl
+6612	obl
+6620	nmod:poss
+6642	acl:relcl
+6650	root
+6662	obl
+6669	nmod:poss
+6690	nmod
 nmod:poss
-6701 obl
-6709 nmod:poss
-6717 obl
-6724 nmod:poss
+6701	obl
+6709	nmod:poss
+6717	obl
+6724	nmod:poss
 
 obj
 
@@ -882,20 +882,20 @@ root
 
 
 obj
-6742 nmod:poss
+6742	nmod:poss
 
 obj
 
 
 obj
-6764 obj
+6764	obj
 
 
 obl
 
 
 nmod:poss
-6776 obj
+6776	obj
 obl
 
 
@@ -905,23 +905,23 @@ obl
 
 
 obj
-6791 obl
-6798 obj
-6807 obj
+6791	obl
+6798	obj
+6807	obj
 
 
 obl
 
 obl
-6827 obl
-6833 obj
-6840 nmod:poss
+6827	obl
+6833	obj
+6840	nmod:poss
 
 
 nmod:poss
-6859 obj
-6878 obl
-6888 nmod:poss
+6859	obj
+6878	obl
+6888	nmod:poss
 
 
 
@@ -931,43 +931,43 @@ obj
 
 
 obj
-6921 nmod:poss
-6976 nmod:poss
-7038 obl
+6921	nmod:poss
+6976	nmod:poss
+7038	obl
 
 conj
 
 
 
 nmod:poss
-7053 obj
-7060 nmod:poss
+7053	obj
+7060	nmod:poss
 
 
 obl
-7079 nmod:poss
-7092 obj
+7079	nmod:poss
+7092	obj
 
 
 nmod:poss
 obl
-7111 nmod:poss
+7111	nmod:poss
 
 nmod:poss
-7119 nmod:poss
+7119	nmod:poss
 ccomp
 
 
 nmod:poss
 
 nmod:poss
-7133 nmod:poss
+7133	nmod:poss
 
 
 obl
 
 conj
-7145 nmod:poss
+7145	nmod:poss
 
 nmod:poss
 
@@ -985,7 +985,7 @@ obj
 nmod:poss
 
 obj
-7195 nmod:poss
+7195	nmod:poss
 
 
 
@@ -1003,44 +1003,44 @@ nmod:poss
 
 
 obl
-7218 nmod:poss
-7226 obl
+7218	nmod:poss
+7226	obl
 
 
 nsubj
-7236 nmod:poss
-7242 nmod:poss
-7248 nmod:poss
-7255 conj
+7236	nmod:poss
+7242	nmod:poss
+7248	nmod:poss
+7255	conj
 
 
 
 
 nmod:poss
-7268 obl
-7279 obj
-7304 nmod:poss
-7340 obl
-7346 nmod:poss
-7352 nmod:poss
+7268	obl
+7279	obj
+7304	nmod:poss
+7340	obl
+7346	nmod:poss
+7352	nmod:poss
 obl
 
 conj
 
 
 obj
-7366 nmod:poss
+7366	nmod:poss
 
 
 obl
-7375 nmod:poss
+7375	nmod:poss
 root
-7388 nmod:poss
+7388	nmod:poss
 
 
 
 nmod:poss
-7398 obl
+7398	obl
 
 
 obj
@@ -1068,7 +1068,7 @@ nmod:poss
 nmod
 
 nmod:poss
-7431 obl
+7431	obl
 
 
 
@@ -1085,8 +1085,8 @@ nmod
 
 
 nmod:poss
-7457 obl
-7468 nmod:poss
+7457	obl
+7468	nmod:poss
 
 
 
@@ -1107,21 +1107,18 @@ nmod:poss
 nmod
 
 obl
-7495 nmod:poss
-7501 obl
+7495	nmod:poss
+7501	obl
 
 conj
-7509 obl
+7509	obl
 
 
 
 nmod:poss
-7526 nmod:poss
+7526	nmod:poss
 
 
-
-
-nmod:poss
 
 
 nmod:poss
@@ -1129,12 +1126,15 @@ nmod:poss
 
 nmod:poss
 
-nmod:poss
-7551 nmod:poss
-7559 nmod:poss
 
 nmod:poss
-7569 nmod:poss
+
+nmod:poss
+7551	nmod:poss
+7559	nmod:poss
+
+nmod:poss
+7569	nmod:poss
 
 
 
@@ -1154,11 +1154,11 @@ obl
 
 
 obj
-7595 parataxis
-7601 nmod:poss
-7607 nmod:poss
-7632 nmod:poss
-7638 nmod:poss
+7595	parataxis
+7601	nmod:poss
+7607	nmod:poss
+7632	nmod:poss
+7638	nmod:poss
 
 obl
 
@@ -1191,11 +1191,11 @@ obj
 
 
 obj
-7679 obj
-7685 nmod:poss
-7691 obl
-7707 obl
-7719 nmod:poss
+7679	obj
+7685	nmod:poss
+7691	obl
+7707	obl
+7719	nmod:poss
 
 
 
@@ -1206,49 +1206,49 @@ nmod:poss
 
 
 nmod:poss
-7740 nmod:poss
-7750 obl
-7760 nsubj
+7740	nmod:poss
+7750	obl
+7760	nsubj
 
 nmod:poss
 
 
 nmod:poss
-7771 nsubj
+7771	nsubj
 
 
 nmod:poss
-7785 nmod:poss
+7785	nmod:poss
 
 
 
 nmod:poss
-7800 obl
+7800	obl
 
 
 obl
-7820 nmod:poss
-7828 obl
-7834 obj
-7850 nmod:poss
-7856 nmod:poss
-7863 nmod:poss
-7875 nmod:poss
-7883 nmod:poss
-7931 obj
-7946 nmod:poss
+7820	nmod:poss
+7828	obl
+7834	obj
+7850	nmod:poss
+7856	nmod:poss
+7863	nmod:poss
+7875	nmod:poss
+7883	nmod:poss
+7931	obj
+7946	nmod:poss
 
 
 
 obl
-7958 obl
+7958	obl
 
 
 nmod:poss
-7972 obl
-7982 nmod:poss
-7991 conj
-8014 nmod:poss
+7972	obl
+7982	nmod:poss
+7991	conj
+8014	nmod:poss
 
 
 
@@ -1258,12 +1258,12 @@ advcl
 
 
 nmod:poss
-8052 obl
-8089 obl
+8052	obl
+8089	obl
 
 obj
-8114 obl
-8120 obj
+8114	obl
+8120	obj
 
 
 
@@ -1273,22 +1273,22 @@ nmod:poss
 
 nmod:poss
 nmod
-8147 obl
-8158 nmod:poss
-8168 nmod:poss
+8147	obl
+8158	nmod:poss
+8168	nmod:poss
 
 
 obl
-8189 nsubj
-8228 nmod:poss
+8189	nsubj
+8228	nmod:poss
 
 obl
-8252 obl
-8281 nmod:poss
-8328 obl
-8423 nmod:poss
-8445 obj
-8454 nmod:poss
+8252	obl
+8281	nmod:poss
+8328	obl
+8423	nmod:poss
+8445	obj
+8454	nmod:poss
 
 
 
@@ -1299,8 +1299,8 @@ nmod:poss
 
 
 nmod:poss
-8470 nmod:poss
-8481 obl
+8470	nmod:poss
+8481	obl
 
 
 
@@ -1312,8 +1312,8 @@ nmod:poss
 
 
 obl
-8527 obl
-8533 obl
+8527	obl
+8533	obl
 
 
 obj
@@ -1324,7 +1324,7 @@ obj
 
 
 obl
-8551 obl
+8551	obl
 
 
 
@@ -1334,7 +1334,7 @@ nmod:poss
 
 
 root
-8569 obj
+8569	obj
 obl
 
 
@@ -1344,16 +1344,16 @@ obl
 
 
 nmod:poss
-8594 nmod:poss
-8611 obl
+8594	nmod:poss
+8611	obl
 obl
-8632 nmod:poss
+8632	nmod:poss
 
 
 
 
 obl
-8676 ccomp
+8676	ccomp
 
 
 
@@ -1364,7 +1364,7 @@ nmod:poss
 
 
 acl:relcl
-8704 nmod:poss
+8704	nmod:poss
 
 
 
@@ -1373,16 +1373,16 @@ obj
 
 
 obj
-8719 nmod:poss
+8719	nmod:poss
 
 nmod:poss
-8743 nmod:poss
-8760 nmod:poss
+8743	nmod:poss
+8760	nmod:poss
 
 
 
 nmod:poss
-8780 nmod:poss
+8780	nmod:poss
 
 
 
@@ -1400,13 +1400,13 @@ nmod
 obj
 
 obj
-8806 nsubj
+8806	nsubj
 obj
-8814 nmod:poss
+8814	nmod:poss
 
 
 obl
-8833 obl
+8833	obl
 
 
 nmod:poss
@@ -1427,26 +1427,26 @@ nmod:poss
 
 
 nmod:poss
-8863 obj
-8890 nmod:poss
+8863	obj
+8890	nmod:poss
 
 
 obl
 
 
 nmod:poss
-8905 nsubj
-8921 nsubj
-8981 nmod:poss
+8905	nsubj
+8921	nsubj
+8981	nmod:poss
 
 obl
-9058 obl
-9072 nmod:poss
+9058	obl
+9072	nmod:poss
 conj
-9088 nmod:poss
-9096 nmod:poss
-9106 obl
-9115 nmod:poss
+9088	nmod:poss
+9096	nmod:poss
+9106	obl
+9115	nmod:poss
 
 
 
@@ -1460,7 +1460,7 @@ nmod:poss
 
 
 nmod:poss
-9141 nmod:poss
+9141	nmod:poss
 
 
 
@@ -1469,15 +1469,15 @@ nsubj
 
 
 nsubj
-9165 nmod:poss
+9165	nmod:poss
 obj
-9174 obl
+9174	obl
 
 
 
 nmod:poss
-9189 nmod:poss
-9197 obl
+9189	nmod:poss
+9197	obl
 
 
 
@@ -1486,18 +1486,18 @@ nsubj
 
 
 nsubj
-9212 nmod:poss
-9220 nmod:poss
-9237 nmod:poss
+9212	nmod:poss
+9220	nmod:poss
+9237	nmod:poss
 nmod:poss
-9270 nmod:poss
+9270	nmod:poss
 nmod:poss
-9293 obl
+9293	obl
 nsubj
-9309 obl
-9322 obl
+9309	obl
+9322	obl
 nmod:poss
-9330 nmod:poss
+9330	nmod:poss
 
 
 
@@ -1511,8 +1511,8 @@ nmod:poss
 
 
 obl
-9354 nmod:poss
-9361 obj
+9354	nmod:poss
+9361	obj
 
 
 obl
@@ -1523,16 +1523,16 @@ obj
 
 
 obl
-9383 obl
+9383	obl
 
 
 
 
 nsubj
-9398 acl:relcl
-9409 nmod:poss
-9419 nmod:poss
-9432 obl
+9398	acl:relcl
+9409	nmod:poss
+9419	nmod:poss
+9432	obl
 
 
 obl
@@ -1546,8 +1546,8 @@ obl
 
 
 nmod:poss
-9453 nmod:poss
-9483 obj
+9453	nmod:poss
+9483	obj
 
 
 nmod:poss
@@ -1565,7 +1565,7 @@ nmod:poss
 
 
 obl
-9508 obj
+9508	obj
 
 
 
@@ -1578,17 +1578,10 @@ nmod:poss
 
 
 nmod:poss
-9529 obl
+9529	obl
 nmod:poss
-9548 obl
+9548	obl
 
-
-nmod:poss
-
-
-
-
-nmod:poss
 
 nmod:poss
 
@@ -1596,43 +1589,50 @@ nmod:poss
 
 
 nmod:poss
-9574 nmod:poss
+
+nmod:poss
+
+
+
+
+nmod:poss
+9574	nmod:poss
 
 
 obl
-9583 acl:relcl
-9602 nmod:poss
+9583	acl:relcl
+9602	nmod:poss
 
 nmod:poss
-9647 nmod:poss
-9653 obj
-9660 nmod:poss
-
-
-obl
-
-
-obl
-9674 nmod:poss
-9681 obj
-9690 obl
-
-
-nmod:poss
-9699 obl
-9705 obl
-9719 nmod:poss
-9760 nmod:poss
-9770 nmod:poss
-9783 nmod:poss
-9792 nmod:poss
-9798 nmod:poss
-
+9647	nmod:poss
+9653	obj
+9660	nmod:poss
 
 
 obl
 
 
+obl
+9674	nmod:poss
+9681	obj
+9690	obl
+
+
+nmod:poss
+9699	obl
+9705	obl
+9719	nmod:poss
+9760	nmod:poss
+9770	nmod:poss
+9783	nmod:poss
+9792	nmod:poss
+9798	nmod:poss
+
+
+
+obl
+
+
 
 nmod:poss
 
@@ -1640,17 +1640,17 @@ nmod:poss
 
 
 obl
-9821 obj
+9821	obj
 
 nmod:poss
-9843 nmod:poss
-9849 obj
-9878 obl
-9900 nmod:poss
-9921 obl
+9843	nmod:poss
+9849	obj
+9878	obl
+9900	nmod:poss
+9921	obl
 
 ccomp
-9946 nmod:poss
+9946	nmod:poss
 obl
 
 
@@ -1662,16 +1662,16 @@ obj
 
 
 nmod:poss
-9999 obl
+9999	obl
 nmod:poss
-10018 nmod:poss
+10018	nmod:poss
 
 
 
 
 
 ccomp
-10033 obl
+10033	obl
 
 
 
@@ -1692,19 +1692,19 @@ nmod:poss
 obl
 
 nmod:poss
-10060 obl
-10097 obl
-10118 nsubj
-10129 nmod:poss
-10144 nmod:poss
-10153 nmod:poss
+10060	obl
+10097	obl
+10118	nsubj
+10129	nmod:poss
+10144	nmod:poss
+10153	nmod:poss
 
 
 
 obl
-10180 nsubj
-10193 nmod:poss
-10236 obl
+10180	nsubj
+10193	nmod:poss
+10236	obl
 
 
 
@@ -1717,15 +1717,15 @@ nsubj
 nmod:poss
 
 nmod:poss
-10255 obl
+10255	obl
 
 
 
 
 
 obj
-10271 obl
-10281 nmod:poss
+10271	obl
+10281	nmod:poss
 
 
 
@@ -1736,19 +1736,19 @@ obl
 
 
 nmod:poss
-10305 obl
-10317 nmod:poss
-10329 nmod:poss
+10305	obl
+10317	nmod:poss
+10329	nmod:poss
 
 obl
-10348 obl
-10360 nmod:poss
+10348	obl
+10360	nmod:poss
 
 
 
 nmod:poss
-10374 nsubj
-10381 nmod:poss
+10374	nsubj
+10381	nmod:poss
 
 
 nmod:poss
@@ -1756,7 +1756,7 @@ nmod:poss
 
 nsubj
 nmod:poss
-10408 obl
+10408	obl
 
 
 
@@ -1765,24 +1765,24 @@ nmod:poss
 
 
 nsubj
-10425 obl
-10444 nmod:poss
+10425	obl
+10444	nmod:poss
 
 
 obj
-10460 nmod:poss
-10469 nmod:poss
+10460	nmod:poss
+10469	nmod:poss
 
 
 obl
-10484 nsubj
+10484	nsubj
 
 
 
 
 nmod:poss
-10496 obl
-10509 nmod:poss
+10496	obl
+10509	nmod:poss
 
 nmod:poss
 obl
@@ -1791,14 +1791,14 @@ obl
 
 
 nmod:poss
-10529 nmod:poss
-10539 obj
+10529	nmod:poss
+10539	obj
 
 
 
 nmod:poss
-10574 obl
-10591 nmod:poss
+10574	obl
+10591	nmod:poss
 
 nmod:poss
 
@@ -1809,7 +1809,7 @@ obj
 
 
 nmod:poss
-10617 nmod:poss
+10617	nmod:poss
 
 
 nmod:poss
@@ -1817,13 +1817,13 @@ nmod:poss
 
 
 nmod:poss
-10633 nmod:poss
+10633	nmod:poss
 
 
 
 
 nmod:poss
-10674 nmod:poss
+10674	nmod:poss
 
 
 nmod:poss
@@ -1831,12 +1831,12 @@ nmod:poss
 
 
 nmod:poss
-10716 nmod:poss
+10716	nmod:poss
 
 nmod:poss
-10769 obj
-10776 nmod:poss
-10788 obl
+10769	obj
+10776	nmod:poss
+10788	obl
 
 obl
 
@@ -1848,7 +1848,7 @@ nmod:poss
 
 
 nmod:poss
-10808 obl
+10808	obl
 obj
 nmod:poss
 
@@ -1872,7 +1872,7 @@ obl
 
 
 nmod:poss
-10846 obl
+10846	obl
 
 
 
@@ -1890,7 +1890,7 @@ obj
 
 
 obl
-10870 obl
+10870	obl
 
 
 
@@ -1908,7 +1908,7 @@ obj
 obl
 
 nmod:poss
-10913 nmod:poss
+10913	nmod:poss
 
 
 
@@ -1933,7 +1933,7 @@ obj
 obl
 
 nmod:poss
-10961 obj
+10961	obj
 
 
 
@@ -1944,7 +1944,7 @@ obl
 
 
 nmod:poss
-10980 obl
+10980	obl
 nmod:poss
 obj
 
@@ -1960,12 +1960,12 @@ conj
 
 
 nmod:poss
-11042 acl:relcl
-11054 nmod:poss
-11068 nmod:poss
-11076 nmod:poss
-11098 acl:relcl
-11127 nmod:poss
+11042	acl:relcl
+11054	nmod:poss
+11068	nmod:poss
+11076	nmod:poss
+11098	acl:relcl
+11127	nmod:poss
 
 nmod:poss
 
@@ -1981,8 +1981,8 @@ nmod:poss
 nmod:poss
 
 obj
-11157 nmod:poss
-11166 nmod:poss
+11157	nmod:poss
+11166	nmod:poss
 
 
 nmod:poss
@@ -2000,9 +2000,9 @@ nmod:poss
 
 
 obl
-11193 obl
-11203 nmod:poss
-11213 obl
+11193	obl
+11203	nmod:poss
+11213	obl
 
 
 obl
@@ -2010,7 +2010,7 @@ obl
 
 
 nmod:poss
-11227 obj
+11227	obj
 
 
 nmod:poss
@@ -2030,7 +2030,7 @@ obl
 
 
 nmod:poss
-11255 nmod:poss
+11255	nmod:poss
 
 nmod:poss
 
@@ -2038,7 +2038,7 @@ nmod:poss
 
 
 nmod:poss
-11273 obl
+11273	obl
 
 
 
@@ -2047,7 +2047,7 @@ nmod:poss
 
 
 nmod:poss
-11290 nmod:poss
+11290	nmod:poss
 
 
 
@@ -2055,7 +2055,7 @@ nmod:poss
 
 
 obl
-11311 nmod:poss
+11311	nmod:poss
 
 
 
@@ -2064,18 +2064,18 @@ obl
 nmod:poss
 
 nmod:poss
-11355 nmod:poss
+11355	nmod:poss
 
 
 
 
 nmod:poss
-11367 nmod:poss
-11391 obl
+11367	nmod:poss
+11391	obl
 
 
 nmod:poss
-11402 nmod:poss
+11402	nmod:poss
 
 obj
 
@@ -2091,12 +2091,12 @@ obl
 
 
 nmod:poss
-11440 nmod:poss
+11440	nmod:poss
 
 nmod:poss
-11453 obj
-11460 nmod:poss
-11468 obj
+11453	obj
+11460	nmod:poss
+11468	obj
 
 
 obj
@@ -2127,15 +2127,15 @@ obj
 
 
 nmod:poss
-11509 nmod:poss
-11525 nmod:poss
+11509	nmod:poss
+11525	nmod:poss
 
 
 
 
 obl
-11537 nmod:poss
-11556 nmod:poss
+11537	nmod:poss
+11556	nmod:poss
 
 
 
@@ -2144,7 +2144,7 @@ nmod:poss
 
 
 nmod:poss
-11572 obl
+11572	obl
 
 
 
@@ -2156,14 +2156,14 @@ obl
 
 
 obl
-11595 obl
+11595	obl
 
 
 
 
 
 obl
-11619 nmod:poss
+11619	nmod:poss
 
 
 
@@ -2183,9 +2183,9 @@ obj
 
 
 nmod:poss
-11647 nmod:poss
-11658 nmod:poss
-11684 nmod:poss
+11647	nmod:poss
+11658	nmod:poss
+11684	nmod:poss
 
 
 nsubj
@@ -2198,7 +2198,7 @@ nmod:poss
 
 
 obl
-11755 nmod:poss
+11755	nmod:poss
 
 
 
@@ -2209,15 +2209,15 @@ acl:relcl
 
 
 nmod:poss
-11775 nmod:poss
-11788 nmod:poss
+11775	nmod:poss
+11788	nmod:poss
 
 
 
 
 
 obl
-11814 nmod:poss
+11814	nmod:poss
 
 
 nmod:poss
@@ -2233,8 +2233,8 @@ acl:relcl
 
 obj
 nmod:poss
-11836 nmod:poss
-11845 nmod:poss
+11836	nmod:poss
+11845	nmod:poss
 
 
 
@@ -2302,7 +2302,7 @@ obl
 
 
 nmod:poss
-11924 nmod:poss
+11924	nmod:poss
 
 
 nsubj
@@ -2313,7 +2313,7 @@ nmod:poss
 
 
 obl
-11952 obl
+11952	obl
 obj
 
 
@@ -2323,9 +2323,9 @@ nmod:poss
 
 
 obl
-11968 nmod:poss
-11978 nmod:poss
-11985 nmod:poss
+11968	nmod:poss
+11978	nmod:poss
+11985	nmod:poss
 
 
 
@@ -2334,7 +2334,7 @@ obl
 nmod:poss
 
 nmod:poss
-12002 obl
+12002	obl
 obj
 
 
@@ -2350,19 +2350,19 @@ obl
 
 
 nmod:poss
-12028 obj
-12042 obl
-12049 nmod:poss
+12028	obj
+12042	obl
+12049	nmod:poss
 
 
 
 
 nmod:poss
-12066 nmod:poss
+12066	nmod:poss
 
 
 obj
-12078 nmod:poss
+12078	nmod:poss
 
 nmod:poss
 
@@ -2382,16 +2382,16 @@ obl
 
 
 obl
-12120 obl
-12127 nmod:poss
-12136 nmod:poss
-12149 nmod:poss
-12174 nmod:poss
+12120	obl
+12127	nmod:poss
+12136	nmod:poss
+12149	nmod:poss
+12174	nmod:poss
 
 
 nmod:poss
-12187 acl:relcl
-12197 obj
+12187	acl:relcl
+12197	obj
 
 nmod:poss
 
@@ -2403,7 +2403,7 @@ nmod:poss
 
 
 obl
-12216 obl
+12216	obl
 
 
 obj
@@ -2416,40 +2416,40 @@ obj
 
 
 nmod:poss
-12238 nmod:poss
-12245 obl
-12260 nmod:poss
+12238	nmod:poss
+12245	obl
+12260	nmod:poss
 
 
 nmod:poss
-12270 nmod:poss
-12277 obl
+12270	nmod:poss
+12277	obl
 nmod:poss
-12286 nmod:poss
-
-
-nmod:poss
-
-
+12286	nmod:poss
 
 
 nmod:poss
-12340 nmod:poss
-12351 nmod:poss
-12378 obj
-
 
 
 
 
 nmod:poss
-12404 obj
+12340	nmod:poss
+12351	nmod:poss
+12378	obj
+
 
 
 
 
 nmod:poss
-12416 obl
+12404	obj
+
+
+
+
+nmod:poss
+12416	obl
 
 
 
@@ -2459,20 +2459,20 @@ obj
 
 
 nmod:poss
-12433 nmod:poss
+12433	nmod:poss
 
 
 
 obl
-12494 acl:relcl
-12509 obj
+12494	acl:relcl
+12509	obj
 
 
 
 nmod:poss
 
 nsubj
-12551 nmod:poss
+12551	nmod:poss
 
 
 obj
@@ -2480,32 +2480,32 @@ obj
 
 
 nmod:poss
-12588 nmod:poss
-12599 nmod:poss
-12627 nmod:poss
+12588	nmod:poss
+12599	nmod:poss
+12627	nmod:poss
 
 nmod:poss
-12658 nmod:poss
-
-nmod:poss
-
+12658	nmod:poss
 
 nmod:poss
 
 
-
-
 nmod:poss
-12689 nmod:poss
-12700 nsubj
 
 
 
 
 nmod:poss
-12724 nsubj
-12738 obl
-12748 nmod:poss
+12689	nmod:poss
+12700	nsubj
+
+
+
+
+nmod:poss
+12724	nsubj
+12738	obl
+12748	nmod:poss
 
 
 
@@ -2523,7 +2523,7 @@ nmod:poss
 
 
 nmod:poss
-12782 obl
+12782	obl
 
 
 
@@ -2533,14 +2533,8 @@ nmod:poss
 
 
 nmod:poss
-12804 nmod:poss
-12811 nmod:poss
-
-
-
-
-
-nmod:poss
+12804	nmod:poss
+12811	nmod:poss
 
 
 
@@ -2554,21 +2548,21 @@ nmod:poss
 
 nmod:poss
 
+
+
+
+
 nmod:poss
-12838 nmod:poss
-12847 obj
-12874 nmod:poss
-12898 obj
-12913 nmod:poss
-12923 nmod:poss
+
+nmod:poss
+12838	nmod:poss
+12847	obj
+12874	nmod:poss
+12898	obj
+12913	nmod:poss
+12923	nmod:poss
 obl
-12936 conj
-
-
-
-
-
-obl
+12936	conj
 
 
 
@@ -2578,10 +2572,16 @@ obl
 
 
 
+
+
+obl
+
+
+
 nmod:poss
-13006 obl
-13019 obl
-13028 conj
+13006	obl
+13019	obl
+13028	conj
 
 obj
 
@@ -2589,14 +2589,14 @@ obl
 
 
 nmod:poss
-13052 nmod:poss
+13052	nmod:poss
 
 
 
 nmod:poss
-13064 nmod:poss
-13074 nmod:poss
-13084 nmod:poss
+13064	nmod:poss
+13074	nmod:poss
+13084	nmod:poss
 
 
 nmod:poss
@@ -2604,7 +2604,7 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-13103 nmod:poss
+13103	nmod:poss
 
 
 nmod:poss
@@ -2616,9 +2616,9 @@ nmod:poss
 nmod:poss
 
 obj
-13128 obl
-13148 nmod:poss
-13158 nmod:poss
+13128	obl
+13148	nmod:poss
+13158	nmod:poss
 
 
 
@@ -2634,16 +2634,16 @@ obl
 
 
 obl
-13180 obl
-13188 nmod:poss
+13180	obl
+13188	nmod:poss
 
 
 obl
-13211 nmod:poss
-13232 obj
-13249 root
-13260 obj
-13269 nmod:poss
+13211	nmod:poss
+13232	obj
+13249	root
+13260	obj
+13269	nmod:poss
 
 
 
@@ -2652,29 +2652,29 @@ obj
 
 
 obj
-13286 obl
+13286	obl
 
 
 obl
-13318 nmod:poss
+13318	nmod:poss
 
 obj
-13327 obl
-13334 obl
+13327	obl
+13334	obl
 nmod:poss
-13358 advcl
-13369 obl
-13377 obl
-
-
-nmod:poss
-13393 obl
+13358	advcl
+13369	obl
+13377	obl
 
 
 nmod:poss
-13404 obl
-13418 obl
-13430 nmod:poss
+13393	obl
+
+
+nmod:poss
+13404	obl
+13418	obl
+13430	nmod:poss
 
 
 
@@ -2690,8 +2690,8 @@ nmod:poss
 
 
 nmod:poss
-13458 nmod:poss
-13468 obl
+13458	nmod:poss
+13468	obl
 
 
 
@@ -2716,7 +2716,7 @@ obj
 obj
 
 obl
-13500 ccomp
+13500	ccomp
 
 
 
@@ -2747,8 +2747,8 @@ obl
 
 
 obj
-13539 obl
-13554 nmod:poss
+13539	obl
+13554	nmod:poss
 
 obj
 
@@ -2756,15 +2756,15 @@ obj
 
 
 obl
-13577 obl
-13586 obl
+13577	obl
+13586	obl
 
 
 
 
 obj
-13643 nmod:poss
-13650 nmod:poss
+13643	nmod:poss
+13650	nmod:poss
 
 
 
@@ -2775,7 +2775,7 @@ nmod:poss
 
 obl
 nsubj
-13669 nmod:poss
+13669	nmod:poss
 
 
 
@@ -2784,20 +2784,20 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-13684 obl
+13684	obl
 
 
 
 obl
-13695 obl
+13695	obl
 
 
 
 
 obj
 nmod:poss
-13713 nmod:poss
-13729 nmod:poss
+13713	nmod:poss
+13729	nmod:poss
 
 
 
@@ -2808,10 +2808,6 @@ nmod:poss
 
 
 nmod:poss
-
-
-
-obl
 
 
 
@@ -2819,32 +2815,7 @@ obl
 
 
 
-
-obj
-
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-obj
-13777 obl
-13786 obj
-
-
-nmod:poss
-13796 nmod:poss
-
+obl
 
 
 
@@ -2852,6 +2823,35 @@ nmod:poss
 obj
 
 
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+obj
+13777	obl
+13786	obj
+
+
+nmod:poss
+13796	nmod:poss
+
+
+
+
+
+obj
+
+
 nmod:poss
 
 
@@ -2862,7 +2862,7 @@ nmod:poss
 
 
 nmod:poss
-13822 obj
+13822	obj
 nmod:poss
 
 
@@ -2873,7 +2873,7 @@ nmod:poss
 
 
 obl
-13839 obl
+13839	obl
 nmod:poss
 ccomp
 nmod:poss
@@ -2886,7 +2886,7 @@ nmod:poss
 
 
 obl
-13859 nmod:poss
+13859	nmod:poss
 
 
 nmod:poss
@@ -2895,20 +2895,20 @@ nmod:poss
 
 
 nmod:poss
-13874 nmod:poss
+13874	nmod:poss
 
 
 
 
 
 acl:relcl
-13888 nmod:poss
-13899 nmod:poss
+13888	nmod:poss
+13899	nmod:poss
 
 
 
 nmod:poss
-13918 nmod:poss
+13918	nmod:poss
 
 
 
@@ -2935,7 +2935,7 @@ nmod:poss
 
 
 obl
-13951 nmod:poss
+13951	nmod:poss
 
 
 obj
@@ -2959,161 +2959,19 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-13983 obj
+13983	obj
 nmod:poss
 
 
 
 nmod:poss
-13997 nmod:poss
+13997	nmod:poss
 
 obj
-14013 obj
+14013	obj
 
 
 nmod:poss
-
-
-
-nmod:poss
-
-
-obj
-
-
-
-
-nmod:poss
-14036 obl
-
-
-
-
-nmod:poss
-
-obj
-nmod:poss
-
-
-obl
-
-
-
-
-obl
-
-
-
-
-
-obl
-
-nmod:poss
-
-
-
-
-obl
-nmod:poss
-
-
-
-
-obl
-
-
-
-
-nmod:poss
-
-obj
-
-
-
-
-nmod:poss
-
-
-
-
-obj
-
-
-
-obl
-14109 obj
-
-
-
-obl
-
-
-
-
-nmod:poss
-
-
-obl
-
-nmod:poss
-nmod:poss
-
-
-nmod:poss
-14149 nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-14164 nmod:poss
-
-
-
-nmod:poss
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-obj
-nmod:poss
-
-
-obl
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-nmod:poss
-14210 obl
-14219 obj
-14228 nmod:poss
-14240 nmod:poss
-obj
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
 
 
 
@@ -3124,6 +2982,148 @@ obj
 
 
 
+
+nmod:poss
+14036	obl
+
+
+
+
+nmod:poss
+
+obj
+nmod:poss
+
+
+obl
+
+
+
+
+obl
+
+
+
+
+
+obl
+
+nmod:poss
+
+
+
+
+obl
+nmod:poss
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+obj
+
+
+
+
+nmod:poss
+
+
+
+
+obj
+
+
+
+obl
+14109	obj
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+obl
+
+nmod:poss
+nmod:poss
+
+
+nmod:poss
+14149	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+14164	nmod:poss
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+obj
+nmod:poss
+
+
+obl
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+nmod:poss
+14210	obl
+14219	obj
+14228	nmod:poss
+14240	nmod:poss
+obj
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+obj
+
+
+
 nmod:poss
 
 
@@ -3137,7 +3137,7 @@ nmod:poss
 
 
 obl
-14289 obj
+14289	obj
 obl
 
 
@@ -3145,7 +3145,7 @@ obl
 nmod:poss
 
 obl
-14303 obj
+14303	obj
 
 obl
 
@@ -3180,34 +3180,34 @@ nmod:poss
 
 
 obl
-14344 nmod:poss
-14354 nmod:poss
+14344	nmod:poss
+14354	nmod:poss
 
 
 
 nmod:poss
-14367 nmod:poss
+14367	nmod:poss
 
 
 nmod:poss
-14380 obj
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-
+14380	obj
 nmod:poss
 
 
 
 
 nmod:poss
-14403 nmod:poss
-14412 nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+14403	nmod:poss
+14412	nmod:poss
 
 
 
@@ -3237,7 +3237,7 @@ nmod:poss
 
 
 obl
-14448 nmod:poss
+14448	nmod:poss
 
 
 
@@ -3259,19 +3259,19 @@ obj
 
 
 obj
-14479 nmod:poss
-14498 parataxis
-14507 obj
+14479	nmod:poss
+14498	parataxis
+14507	obj
 
 obj
 
 
 obl
-14526 nmod:poss
+14526	nmod:poss
 
 
 obl
-14537 nmod:poss
+14537	nmod:poss
 
 
 
@@ -3281,7 +3281,7 @@ obj
 obj
 
 obj
-14554 obl
+14554	obl
 
 
 
@@ -3295,7 +3295,7 @@ nsubj
 
 
 nmod:poss
-14604 obj
+14604	obj
 
 
 
@@ -3310,23 +3310,23 @@ obj
 
 
 obl
-14631 nmod:poss
+14631	nmod:poss
 
 
 nmod:poss
-14649 nmod:poss
-14666 nmod:poss
+14649	nmod:poss
+14666	nmod:poss
 obl
-14699 nmod:poss
-14715 nmod:poss
-14726 obl
+14699	nmod:poss
+14715	nmod:poss
+14726	obl
 
 
 
 
 obl
-14738 nmod:poss
-14747 obl
+14738	nmod:poss
+14747	obl
 obl
 obj
 
@@ -3335,8 +3335,8 @@ nmod:poss
 
 
 nmod:poss
-14771 obl
-14778 nmod:poss
+14771	obl
+14778	nmod:poss
 
 
 
@@ -3349,14 +3349,14 @@ obj
 
 
 obj
-14798 obj
-14806 obl
+14798	obj
+14806	obl
 
 
 
 
 nmod:poss
-14860 nmod:poss
+14860	nmod:poss
 
 
 obj
@@ -3366,16 +3366,16 @@ obj
 
 
 nmod:poss
-14897 nmod:poss
+14897	nmod:poss
 
 obj
-14910 obl
-14924 nmod:poss
+14910	obl
+14924	nmod:poss
 
 
 
 obl
-14946 obl
+14946	obl
 
 obj
 obl
@@ -3383,35 +3383,35 @@ obl
 
 
 nmod:poss
-14974 obl
-15023 nmod:poss
+14974	obl
+15023	nmod:poss
 
 
 obl
 
 nmod:poss
-15039 obl
-15051 obl
+15039	obl
+15051	obl
 
 
 ccomp
-15061 nmod:poss
-15108 nsubj
+15061	nmod:poss
+15108	nsubj
 
 obl
-15119 nmod:poss
-15134 nmod:poss
+15119	nmod:poss
+15134	nmod:poss
 
 
 
 
 
 nmod:poss
-15160 nmod:poss
-15169 nmod:poss
-15179 nmod:poss
-15191 nmod:poss
-15201 nmod:poss
+15160	nmod:poss
+15169	nmod:poss
+15179	nmod:poss
+15191	nmod:poss
+15201	nmod:poss
 
 
 
@@ -3426,7 +3426,7 @@ obl
 obj
 
 nmod:poss
-15228 obl
+15228	obl
 
 
 nmod:poss
@@ -3436,7 +3436,7 @@ nmod:poss
 
 
 obl
-15247 nmod:poss
+15247	nmod:poss
 
 
 obj
@@ -3445,13 +3445,13 @@ obj
 obl
 
 nmod:poss
-15289 obj
+15289	obj
 
 
 
 
 nmod:poss
-15301 nsubj
+15301	nsubj
 obj
 obl
 
@@ -3462,21 +3462,21 @@ obj
 
 
 nmod:poss
-15322 nmod:poss
+15322	nmod:poss
 
 
 
 
 nmod:poss
 nmod
-15336 nmod:poss
+15336	nmod:poss
 
 
 nmod:poss
 
 
 obl
-15363 nmod:poss
+15363	nmod:poss
 
 
 obj
@@ -3494,7 +3494,7 @@ nmod:poss
 
 
 nmod:poss
-15398 obl
+15398	obl
 
 
 
@@ -3504,35 +3504,35 @@ obl
 
 
 obj
-15415 nmod:poss
-15429 obl
-15437 nmod:poss
-15452 obl
+15415	nmod:poss
+15429	obl
+15437	nmod:poss
+15452	obl
 
 
 nmod:poss
 obl
-15464 nmod:poss
+15464	nmod:poss
 
 
 nmod:poss
 obl
-15485 obl
-15499 nmod:poss
-15511 nmod:poss
-15519 nmod:poss
+15485	obl
+15499	nmod:poss
+15511	nmod:poss
+15519	nmod:poss
 
 
 obj
 nmod:poss
-15540 obl
+15540	obl
 
 
 
 
 
 nmod:poss
-15560 nmod:poss
+15560	nmod:poss
 obl
 
 
@@ -3543,45 +3543,15 @@ obl
 
 
 nmod:poss
-15588 nmod:poss
-15606 nmod:poss
+15588	nmod:poss
+15606	nmod:poss
 
 
 
 
 
 obl
-15633 obl
-
-
-
-
-
-nmod:poss
-
-
-obl
-
-
-
-nmod:poss
-
-
-
-
-obl
-
-
-obl
-
-
-nmod:poss
-
-
-
-
-obl
-15675 obj
+15633	obl
 
 
 
@@ -3594,20 +3564,50 @@ obl
 
 
 
+nmod:poss
+
+
+
+
+obl
+
+
+obl
+
 
 nmod:poss
-15710 nmod:poss
+
+
+
+
+obl
+15675	obj
+
 
 
 
 
 nmod:poss
-15728 nmod:poss
+
+
+obl
+
+
+
+
+nmod:poss
+15710	nmod:poss
+
+
+
+
+nmod:poss
+15728	nmod:poss
 
 
 obj
-15752 nmod:poss
-15767 nmod:poss
+15752	nmod:poss
+15767	nmod:poss
 
 obj
 
@@ -3615,11 +3615,11 @@ obj
 
 
 nmod:poss
-15791 obj
+15791	obj
 
 
 nmod:poss
-15802 obl
+15802	obl
 
 
 nmod:poss
@@ -3631,7 +3631,7 @@ obl
 nsubj
 
 nmod:poss
-15820 nmod:poss
+15820	nmod:poss
 
 
 
@@ -3643,7 +3643,7 @@ obl
 
 
 nmod:poss
-15845 obj
+15845	obj
 
 
 obl
@@ -3657,7 +3657,7 @@ nmod:poss
 
 
 obl
-15881 nmod:poss
+15881	nmod:poss
 
 
 nmod:poss
@@ -3666,7 +3666,7 @@ nmod:poss
 
 
 nmod:poss
-15904 obj
+15904	obj
 
 dislocated
 
@@ -3684,14 +3684,14 @@ obl
 
 
 nmod:poss
-15930 nmod:poss
-15939 obl
+15930	nmod:poss
+15939	obl
 
 
 
 
 nmod:poss
-15955 nmod:poss
+15955	nmod:poss
 
 
 
@@ -3702,7 +3702,7 @@ nmod:poss
 
 
 obl
-15981 obj
+15981	obj
 
 
 
@@ -3720,13 +3720,13 @@ nmod:poss
 
 obj
 obl
-16005 nmod:poss
+16005	nmod:poss
 
 obj
 
 
 obl
-16017 nmod:poss
+16017	nmod:poss
 
 
 obj
@@ -3761,10 +3761,10 @@ acl:relcl
 csubj
 
 nmod:poss
-16059 obj
+16059	obj
 
 nmod:poss
-16069 nmod:poss
+16069	nmod:poss
 
 
 
@@ -3780,61 +3780,61 @@ obl
 
 
 obl
-16091 nmod:poss
+16091	nmod:poss
 
 
 
 
 nmod:poss
-16123 nmod:poss
+16123	nmod:poss
 
 
 obl
 nmod:poss
-16134 nmod:poss
+16134	nmod:poss
 
 nmod:poss
 
 
 nsubj
-16153 obl
-16161 nmod:poss
-16190 obl
-16201 nmod:poss
+16153	obl
+16161	nmod:poss
+16190	obl
+16201	nmod:poss
 
 
 
 
 
 obl
-16221 obl
-16232 obl
-16269 nsubj
-16307 obl
+16221	obl
+16232	obl
+16269	nsubj
+16307	obl
 
 
 nmod:poss
 
 
 obj
-16340 nsubj
-16370 conj
-16395 nmod:poss
+16340	nsubj
+16370	conj
+16395	nmod:poss
 
 
 
 
 nmod:poss
-16416 nsubj
+16416	nsubj
 xcomp
-16429 nmod:poss
+16429	nmod:poss
 
 
 nmod:poss
 
 
 conj
-16449 nmod:poss
+16449	nmod:poss
 
 
 obl
@@ -3854,7 +3854,7 @@ obl
 nmod:poss
 
 nmod:poss
-16475 nmod:poss
+16475	nmod:poss
 
 
 nmod:poss
@@ -3881,23 +3881,23 @@ nmod:poss
 
 
 nmod:poss
-16514 nmod:poss
-16526 nmod:poss
+16514	nmod:poss
+16526	nmod:poss
 
 
 obl
-16539 nmod:poss
-16559 obl
-16569 nsubj
+16539	nmod:poss
+16559	obl
+16569	nsubj
 
 
 
 
 nmod:poss
-16596 obl
-16607 obl
-16622 nmod:poss
-16630 obl
+16596	obl
+16607	obl
+16622	nmod:poss
+16630	obl
 
 
 ccomp
@@ -3920,33 +3920,33 @@ obj
 
 
 nmod:poss
-16661 nmod:poss
+16661	nmod:poss
 root
 
 
 
 nmod:poss
-16673 obl
-16681 nmod:poss
+16673	obl
+16681	nmod:poss
 
 
 nmod:poss
-16692 nmod:poss
-
-
-
-nmod:poss
+16692	nmod:poss
 
 
 
 nmod:poss
-16710 nmod:poss
-16719 nmod:poss
-16728 nmod:poss
-16740 obl
-16750 acl:relcl
-16761 nmod:poss
-16780 nmod:poss
+
+
+
+nmod:poss
+16710	nmod:poss
+16719	nmod:poss
+16728	nmod:poss
+16740	obl
+16750	acl:relcl
+16761	nmod:poss
+16780	nmod:poss
 obl
 
 
@@ -3957,24 +3957,24 @@ obl
 
 
 obj
-16808 obl
+16808	obl
 
 obl
-16828 nmod:poss
-16836 nmod:poss
-16851 nmod:poss
+16828	nmod:poss
+16836	nmod:poss
+16851	nmod:poss
 
 
 
 nmod:poss
-16865 obj
+16865	obj
 
 
 
 obl
 
 obj
-16884 obj
+16884	obj
 
 
 
@@ -3982,7 +3982,7 @@ nmod:poss
 
 
 nmod:poss
-16898 nmod:poss
+16898	nmod:poss
 
 
 obl
@@ -3997,12 +3997,12 @@ obl
 
 
 obl
-16930 nmod:poss
+16930	nmod:poss
 
 
 
 nmod:poss
-16949 nmod:poss
+16949	nmod:poss
 
 obl
 
@@ -4021,21 +4021,21 @@ nmod:poss
 
 
 obl
-16974 obj
-17011 obj
-17018 obl
-17032 nmod:poss
+16974	obj
+17011	obj
+17018	obl
+17032	nmod:poss
 
 
 
 
 nmod:poss
-17044 nmod:poss
+17044	nmod:poss
 
 
 
 advcl
-17073 nmod:poss
+17073	nmod:poss
 
 nmod:poss
 
@@ -4086,8 +4086,8 @@ obj
 
 nmod:poss
 obj
-17133 obj
-17142 nmod:poss
+17133	obj
+17142	nmod:poss
 
 nmod:poss
 
@@ -4117,7 +4117,7 @@ nmod:poss
 
 
 nmod:poss
-17178 root
+17178	root
 
 
 
@@ -4128,7 +4128,7 @@ nmod:poss
 
 
 nmod:poss
-17203 nmod:poss
+17203	nmod:poss
 
 
 
@@ -4147,8 +4147,8 @@ conj
 
 
 nmod:poss
-17230 nmod:poss
-17245 obl
+17230	nmod:poss
+17245	obl
 
 conj
 
@@ -4163,9 +4163,9 @@ obj
 
 
 nmod:poss
-17276 obl
-17283 obl
-17293 obl
+17276	obl
+17283	obl
+17293	obl
 
 conj
 
@@ -4174,7 +4174,7 @@ conj
 
 
 nmod:poss
-17310 obl
+17310	obl
 
 conj
 
@@ -4201,12 +4201,12 @@ obl
 obl
 
 conj
-17353 obl
+17353	obl
 
 conj
-17369 obl
-17380 obl
-17400 obl
+17369	obl
+17380	obl
+17400	obl
 
 nmod:poss
 
@@ -4215,15 +4215,15 @@ nmod:poss
 
 
 nmod:poss
-17420 nmod:poss
-17441 nmod:poss
+17420	nmod:poss
+17441	nmod:poss
 
 
 nmod:poss
 
 
 obj
-17454 nmod:poss
+17454	nmod:poss
 
 
 
@@ -4232,41 +4232,41 @@ nmod:poss
 
 
 obl
-17470 obj
-17487 nmod:poss
+17470	obj
+17487	nmod:poss
 
 
 nmod:poss
-17497 obj
+17497	obj
 
-
-
-
-
-nmod:poss
 
 
 
 
 nmod:poss
-17519 root
-17533 nmod:poss
 
 
 
 
 nmod:poss
-17549 nmod:poss
-17556 obj
+17519	root
+17533	nmod:poss
+
+
+
+
+nmod:poss
+17549	nmod:poss
+17556	obj
 
 
 
 
 conj
-17568 obl
-17575 acl:relcl
-17601 obj
-17614 nmod:poss
+17568	obl
+17575	acl:relcl
+17601	obj
+17614	nmod:poss
 
 
 
@@ -4285,56 +4285,56 @@ nmod:poss
 
 
 obl
-17646 nmod:poss
+17646	nmod:poss
 
 
 nmod:poss
-17662 obj
+17662	obj
 
 
 
 nmod:poss
-17673 obj
+17673	obj
 
 
 
 obj
-17686 obl
+17686	obl
 
 
 
 nmod:poss
-17714 nmod:poss
+17714	nmod:poss
 
 
 
 nmod:poss
-17732 nmod:poss
-17748 nmod:poss
-
-
-
-nmod:poss
+17732	nmod:poss
+17748	nmod:poss
 
 
 
 nmod:poss
 
 
+
 nmod:poss
-17776 obj
+
+
+nmod:poss
+17776	obj
 
 nmod:poss
 
 obj
-17794 nmod:poss
+17794	nmod:poss
 
 
 
 nmod:poss
-17805 nmod:poss
-17812 conj
-17842 nsubj
+17805	nmod:poss
+17812	conj
+17842	nsubj
 obj
 
 
@@ -4347,7 +4347,7 @@ ccomp
 
 
 nmod:poss
-17861 nmod:poss
+17861	nmod:poss
 
 
 
@@ -4362,7 +4362,7 @@ nmod:poss
 
 
 nmod:poss
-17897 nmod:poss
+17897	nmod:poss
 
 
 
@@ -4372,10 +4372,10 @@ nmod:poss
 
 
 nmod:poss
-17913 obj
+17913	obj
 
 obj
-17923 acl:relcl
+17923	acl:relcl
 
 
 
@@ -4385,18 +4385,18 @@ nmod:poss
 
 
 obl
-17942 obl
+17942	obl
 
 
 
 
 nmod:poss
-17954 nsubj
+17954	nsubj
 obl
 
 
 obj
-17966 obj
+17966	obj
 
 
 obj
@@ -4405,28 +4405,28 @@ obj
 obl
 
 nmod:poss
-17984 nmod:poss
-18004 nmod:poss
-18011 nmod:poss
+17984	nmod:poss
+18004	nmod:poss
+18011	nmod:poss
 
 
 obj
-18031 nmod:poss
+18031	nmod:poss
 
 
 obl
-18046 nmod:poss
-18080 nmod:poss
-18088 conj
-18114 nmod:poss
+18046	nmod:poss
+18080	nmod:poss
+18088	conj
+18114	nmod:poss
 
 
 
 
 
 nmod:poss
-18133 nmod:poss
-18140 nsubj
+18133	nmod:poss
+18140	nsubj
 
 nmod:poss
 
@@ -4448,12 +4448,12 @@ obj
 
 
 nmod:poss
-18175 obl
-18184 nmod:poss
-18191 nmod:poss
-18199 nmod:poss
-18213 obl
-18228 nmod:poss
+18175	obl
+18184	nmod:poss
+18191	nmod:poss
+18199	nmod:poss
+18213	obl
+18228	nmod:poss
 
 
 
@@ -4465,7 +4465,7 @@ nmod:poss
 parataxis
 
 csubj
-18250 nmod:poss
+18250	nmod:poss
 
 
 nmod:poss
@@ -4500,15 +4500,15 @@ obl
 
 
 obl
-18295 nmod:poss
+18295	nmod:poss
 
 
 obl
 nmod:poss
-18312 obl
+18312	obl
 
 obj
-18324 nmod:poss
+18324	nmod:poss
 
 
 nmod:poss
@@ -4517,26 +4517,26 @@ nmod:poss
 
 
 nmod:poss
-18339 nmod:poss
-18349 nmod:poss
-18356 obl
+18339	nmod:poss
+18349	nmod:poss
+18356	obl
 
 
 
 
 acl:relcl
-18370 nmod:poss
-18380 nmod:poss
-18388 obl
+18370	nmod:poss
+18380	nmod:poss
+18388	obl
 
 
 
 nmod:poss
-18413 nsubj
-18432 nmod:poss
-18448 obl
-18469 obj
-18480 obj
+18413	nsubj
+18432	nmod:poss
+18448	obl
+18469	obj
+18480	obj
 
 
 obl
@@ -4545,22 +4545,22 @@ obj
 
 
 nmod:poss
-18509 nmod:poss
+18509	nmod:poss
 
 
 
 obl
-18528 nmod:poss
+18528	nmod:poss
 
 nmod:poss
 
 
 nmod:poss
-18541 nsubj
-18551 obl
-18560 nsubj
-18567 obl
-18586 obl
+18541	nsubj
+18551	obl
+18560	nsubj
+18567	obl
+18586	obl
 
 
 
@@ -4588,7 +4588,7 @@ nmod:poss
 obl
 
 obl
-18620 nmod:poss
+18620	nmod:poss
 
 
 obj
@@ -4614,16 +4614,16 @@ obl
 
 
 obl
-18655 obl
+18655	obl
 
 
 obl
-18673 nmod:poss
-18682 nmod:poss
+18673	nmod:poss
+18682	nmod:poss
 
 
 obl
-18697 nmod:poss
+18697	nmod:poss
 
 
 
@@ -4659,7 +4659,7 @@ obl
 
 
 obl
-18742 obl
+18742	obl
 
 
 
@@ -4671,7 +4671,7 @@ nmod:poss
 
 
 nmod:poss
-18783 nmod:poss
+18783	nmod:poss
 
 
 
@@ -4686,16 +4686,9 @@ nmod:poss
 
 
 nmod:poss
-18806 obl
-18814 obj
-18822 nmod:poss
-
-nmod:poss
-
-obl
-
-
-
+18806	obl
+18814	obj
+18822	nmod:poss
 
 nmod:poss
 
@@ -4704,14 +4697,21 @@ obl
 
 
 
+nmod:poss
+
+obl
+
+
+
+
 obl
 
 
 
 
 obl
-18851 obl
-18858 nmod:poss
+18851	obl
+18858	nmod:poss
 
 nmod:poss
 
@@ -4727,36 +4727,36 @@ obl
 
 
 obl
-18881 nmod:poss
+18881	nmod:poss
 
 
 
 nmod:poss
-18893 nmod:poss
-18902 nsubj
-18915 nmod:poss
-18932 nmod:poss
-18958 nmod:poss
+18893	nmod:poss
+18902	nsubj
+18915	nmod:poss
+18932	nmod:poss
+18958	nmod:poss
 
 nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-18983 nmod:poss
-
 
 
 nmod:poss
 
 
 nmod:poss
-19010 obj
+18983	nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+19010	obj
 
 obj
-19030 obl
+19030	obl
 
 obj
 
@@ -4764,8 +4764,8 @@ obj
 
 
 nmod:poss
-19045 nmod:poss
-19066 obl
+19045	nmod:poss
+19066	obl
 
 nsubj
 
@@ -4782,27 +4782,27 @@ nmod:poss
 
 
 acl:relcl
-19090 nmod:poss
+19090	nmod:poss
 
 
 
 
 nmod:poss
-19110 obj
+19110	obj
 
 
 nmod:poss
 
 
 nmod:poss
-19133 nmod:poss
-19140 nmod:poss
+19133	nmod:poss
+19140	nmod:poss
 
 
 obj
-19161 nmod:poss
-19184 acl:relcl
-19199 obl
+19161	nmod:poss
+19184	acl:relcl
+19199	obl
 
 
 
@@ -4810,8 +4810,8 @@ nsubj
 
 
 nmod:poss
-19223 nmod:poss
-19233 nsubj
+19223	nmod:poss
+19233	nsubj
 
 
 
@@ -4827,7 +4827,7 @@ nmod:poss
 
 
 nmod:poss
-19255 nmod:poss
+19255	nmod:poss
 
 
 
@@ -4836,20 +4836,20 @@ nmod:poss
 
 
 obl
-19276 conj
+19276	conj
 
 
 
 nmod:poss
-19293 obl
+19293	obl
 obj
 
 
 nmod:poss
 nmod
-19306 obl
-19313 obl
-19323 obl
+19306	obl
+19313	obl
+19323	obl
 
 
 
@@ -4859,8 +4859,8 @@ obl
 
 
 obl
-19343 obl
-19366 nsubj
+19343	obl
+19366	nsubj
 
 
 
@@ -4870,7 +4870,7 @@ nsubj
 
 
 obl
-19383 obl
+19383	obl
 
 
 
@@ -4887,28 +4887,20 @@ nmod:poss
 nmod:poss
 
 obl
-19416 nmod:poss
-19429 nmod:poss
-19452 nmod:poss
-19503 obl
-19512 nmod:poss
-19540 nmod:poss
-19547 obj
+19416	nmod:poss
+19429	nmod:poss
+19452	nmod:poss
+19503	obl
+19512	nmod:poss
+19540	nmod:poss
+19547	obj
 
 
 
 nmod:poss
-19561 nmod:poss
-19615 obl
-19623 nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-
+19561	nmod:poss
+19615	obl
+19623	nmod:poss
 
 
 nmod:poss
@@ -4918,40 +4910,48 @@ nmod:poss
 
 
 
+
+nmod:poss
+
+
 nmod:poss
 
 
 
 nmod:poss
-19658 nmod:poss
+
 
 
 nmod:poss
-19670 nmod:poss
+19658	nmod:poss
+
+
+nmod:poss
+19670	nmod:poss
 
 
 obj
 
 
 nmod:poss
-19858 nmod:poss
-19933 nsubj
+19858	nmod:poss
+19933	nsubj
 
 
 
 
 
 nmod:poss
-19997 nmod:poss
-20026 nmod:poss
-20033 nmod:poss
-20044 nmod:poss
-20055 nmod:poss
-20068 nmod:poss
-20075 nmod:poss
-20084 nmod:poss
-20095 nmod:poss
-20106 nmod:poss
+19997	nmod:poss
+20026	nmod:poss
+20033	nmod:poss
+20044	nmod:poss
+20055	nmod:poss
+20068	nmod:poss
+20075	nmod:poss
+20084	nmod:poss
+20095	nmod:poss
+20106	nmod:poss
 
 
 
@@ -4960,18 +4960,18 @@ nmod:poss
 
 
 nmod:poss
-20126 nmod:poss
+20126	nmod:poss
 
 nmod:poss
 
 nmod:poss
-20157 nmod:poss
+20157	nmod:poss
 
 
 nmod:poss
-20171 nmod:poss
-20186 nmod:poss
-20201 nmod:poss
+20171	nmod:poss
+20186	nmod:poss
+20201	nmod:poss
 
 
 
@@ -4980,7 +4980,7 @@ nmod:poss
 
 
 nmod:poss
-20217 nmod:poss
+20217	nmod:poss
 
 
 
@@ -4994,50 +4994,6 @@ obl
 
 
 nmod:poss
-
-obj
-
-nmod:poss
-
-
-nmod:poss
-
-
-obj
-
-
-
-obj
-20254 nmod:poss
-
-
-
-
-obj
-
-
-obl
-20283 nmod:poss
-20290 nmod:poss
-
-
-
-nmod:poss
-
-
-obl
-nmod:poss
-
-
-
-obl
-
-
-
-obl
-
-
-
 
 obj
 
@@ -5045,10 +5001,54 @@ nmod:poss
 
 
 nmod:poss
-20324 obj
+
+
+obj
+
+
+
+obj
+20254	nmod:poss
+
+
+
+
+obj
+
+
+obl
+20283	nmod:poss
+20290	nmod:poss
+
+
 
 nmod:poss
-20345 obl
+
+
+obl
+nmod:poss
+
+
+
+obl
+
+
+
+obl
+
+
+
+
+obj
+
+nmod:poss
+
+
+nmod:poss
+20324	obj
+
+nmod:poss
+20345	obl
 
 
 
@@ -5063,7 +5063,7 @@ nmod:poss
 
 
 obl
-20372 nmod:poss
+20372	nmod:poss
 
 nmod:poss
 
@@ -5076,13 +5076,13 @@ obl
 nmod:poss
 
 nmod:poss
-20391 nmod:poss
+20391	nmod:poss
 
 
 
 
 nmod:poss
-20406 nmod:poss
+20406	nmod:poss
 
 
 
@@ -5103,19 +5103,19 @@ obl
 
 
 nmod:poss
-20433 obj
+20433	obj
 
 
 obj
-20444 obj
-20453 obj
-20463 nmod:poss
+20444	obj
+20453	obj
+20463	nmod:poss
 
 
 
 
 obl
-20488 nmod:poss
+20488	nmod:poss
 
 obj
 
@@ -5123,7 +5123,7 @@ obj
 
 
 obj
-20502 obl
+20502	obl
 
 
 obj
@@ -5134,10 +5134,10 @@ obj
 
 
 nmod:poss
-20524 obj
+20524	obj
 
 obj
-20535 obj
+20535	obj
 
 
 
@@ -5164,7 +5164,7 @@ obl
 
 
 obj
-20575 obl
+20575	obl
 
 
 obj
@@ -5174,7 +5174,7 @@ nmod:poss
 obj
 
 nmod:poss
-20592 nmod:poss
+20592	nmod:poss
 
 
 
@@ -5192,10 +5192,10 @@ obj
 
 
 obj
-20617 obl
-20626 nmod:poss
-20637 nmod:poss
-20652 nmod:poss
+20617	obl
+20626	nmod:poss
+20637	nmod:poss
+20652	nmod:poss
 
 
 
@@ -5224,7 +5224,7 @@ nmod:poss
 
 
 nmod:poss
-20726 nmod:poss
+20726	nmod:poss
 
 
 
@@ -5234,8 +5234,8 @@ nmod:poss
 
 
 nsubj
-20767 nmod:poss
-20776 nmod:poss
+20767	nmod:poss
+20776	nmod:poss
 
 
 
@@ -5248,7 +5248,7 @@ nmod:poss
 
 
 obj
-20795 nmod:poss
+20795	nmod:poss
 
 
 
@@ -5269,7 +5269,7 @@ nmod:poss
 nmod:poss
 
 obj
-20825 nmod:poss
+20825	nmod:poss
 
 
 
@@ -5281,25 +5281,25 @@ nmod:poss
 
 
 obj
-20858 nmod:poss
-20865 nmod:poss
-20875 nmod:poss
+20858	nmod:poss
+20865	nmod:poss
+20875	nmod:poss
 
 
 obj
 
 
 obl
-20890 nmod:poss
-20901 nmod:poss
-20912 nmod:poss
-20919 nsubj
+20890	nmod:poss
+20901	nmod:poss
+20912	nmod:poss
+20919	nsubj
 obj
-20927 nmod:poss
+20927	nmod:poss
 
 nmod:poss
-20941 obj
-20951 nmod:poss
+20941	obj
+20951	nmod:poss
 
 
 obj
@@ -5314,9 +5314,9 @@ nmod:poss
 
 
 ccomp
-20975 nmod:poss
-20984 nmod:poss
-20995 obj
+20975	nmod:poss
+20984	nmod:poss
+20995	obj
 
 
 
@@ -5331,14 +5331,14 @@ nmod:poss
 
 
 nmod:poss
-21017 nmod:poss
-21024 nmod:poss
-21042 nmod:poss
+21017	nmod:poss
+21024	nmod:poss
+21042	nmod:poss
 
 
 
 nmod:poss
-21057 nmod:poss
+21057	nmod:poss
 
 
 
@@ -5350,7 +5350,7 @@ nmod:poss
 nmod:poss
 
 obl
-21094 obl
+21094	obl
 
 
 
@@ -5366,7 +5366,7 @@ nmod:poss
 
 
 obl
-21118 obl
+21118	obl
 
 
 
@@ -5381,8 +5381,8 @@ obl
 
 
 obl
-21148 nsubj
-21156 obl
+21148	nsubj
+21156	obl
 
 
 nmod:poss
@@ -5402,28 +5402,28 @@ obl
 
 
 obl
-21182 nmod:poss
+21182	nmod:poss
 
 obl
 
 
 
 nmod:poss
-21198 nmod:poss
-21211 obj
+21198	nmod:poss
+21211	obj
 
 
 
 
 nmod:poss
-21243 obj
-21259 obl
-21273 obj
-21288 nmod:poss
-21298 obj
-21307 nmod:poss
-21314 acl:relcl
-21339 obl
+21243	obj
+21259	obl
+21273	obj
+21288	nmod:poss
+21298	obj
+21307	nmod:poss
+21314	acl:relcl
+21339	obl
 
 
 
@@ -5452,8 +5452,8 @@ nmod:poss
 
 
 nsubj
-21378 nmod:poss
-21389 nmod:poss
+21378	nmod:poss
+21389	nmod:poss
 
 
 
@@ -5480,9 +5480,9 @@ nmod:poss
 
 
 nmod:poss
-21422 obj
-21436 obj
-21451 nmod:poss
+21422	obj
+21436	obj
+21451	nmod:poss
 
 
 
@@ -5491,7 +5491,7 @@ nmod:poss
 
 
 ccomp
-21468 nmod:poss
+21468	nmod:poss
 
 
 
@@ -5526,10 +5526,10 @@ nmod:poss
 
 
 obl
-21521 obl
-21533 acl:relcl
-21540 obl
-21567 nmod:poss
+21521	obl
+21533	acl:relcl
+21540	obl
+21567	nmod:poss
 
 nmod:poss
 
@@ -5538,18 +5538,18 @@ nmod:poss
 
 
 obl
-21582 nmod:poss
+21582	nmod:poss
 
 nmod:poss
 
 
 ccomp
-21596 obl
+21596	obl
 
 
 nmod:poss
 nsubj
-21607 obl
+21607	obl
 
 
 
@@ -5562,16 +5562,16 @@ advcl
 
 
 nmod:poss
-21636 nsubj
-21644 obl
+21636	nsubj
+21644	obl
 
 
 obl
 
 
 conj
-21664 nmod:poss
-21677 obj
+21664	nmod:poss
+21677	obj
 
 nmod:poss
 
@@ -5583,13 +5583,13 @@ obl
 nmod:poss
 
 nmod:poss
-21698 nsubj
+21698	nsubj
 
 
 nmod:poss
 
 nmod:poss
-21712 nmod:poss
+21712	nmod:poss
 
 
 obl
@@ -5608,7 +5608,7 @@ obl
 
 
 obl
-21739 nsubj
+21739	nsubj
 
 
 nmod:poss
@@ -5618,7 +5618,7 @@ nmod:poss
 
 nmod:poss
 obl
-21757 nmod:poss
+21757	nmod:poss
 obl
 
 
@@ -5628,8 +5628,8 @@ nmod:poss
 
 
 obl
-21775 obl
-21782 obl
+21775	obl
+21782	obl
 
 
 obl
@@ -5644,14 +5644,14 @@ nmod:poss
 
 nmod:poss
 obl
-21805 nmod:poss
+21805	nmod:poss
 
 
 nmod:poss
 
 
 obl
-21820 obl
+21820	obl
 nmod:poss
 
 
@@ -5663,32 +5663,32 @@ nmod:poss
 obj
 
 obj
-21856 obl
+21856	obl
 
 
 
 nmod:poss
-21904 nmod:poss
+21904	nmod:poss
 
 
 
 acl:relcl
-21930 nmod:poss
-21939 nmod:poss
-21951 obj
-21974 obl
+21930	nmod:poss
+21939	nmod:poss
+21951	obj
+21974	obl
 
 
 obj
-21986 nsubj
+21986	nsubj
 
 nmod:poss
-21995 nmod:poss
-22013 obl
-22020 obj
+21995	nmod:poss
+22013	obl
+22020	obj
 
 nsubj
-22030 acl:relcl
+22030	acl:relcl
 
 
 
@@ -5712,8 +5712,8 @@ obj
 
 
 obl
-22062 obl
-22069 nmod:poss
+22062	obl
+22069	nmod:poss
 
 
 
@@ -5726,7 +5726,7 @@ nmod:poss
 
 
 nmod:poss
-22093 nmod:poss
+22093	nmod:poss
 
 nmod:poss
 
@@ -5735,12 +5735,12 @@ nmod:poss
 
 
 nmod:poss
-22109 obj
-22123 obl
+22109	obj
+22123	obl
 
 
 nmod:poss
-22140 nmod:poss
+22140	nmod:poss
 
 obj
 
@@ -5751,7 +5751,7 @@ nmod:poss
 
 
 nmod:poss
-22158 nmod:poss
+22158	nmod:poss
 
 
 obj
@@ -5771,35 +5771,35 @@ obj
 
 
 obj
-22198 obj
-22217 nmod:poss
-22224 nmod:poss
-22241 obj
+22198	obj
+22217	nmod:poss
+22224	nmod:poss
+22241	obj
 
 
 
 
 
 nmod:poss
-22254 nmod:poss
-22268 nmod:poss
+22254	nmod:poss
+22268	nmod:poss
 
 obl
 
 
 obj
-22281 nmod:poss
+22281	nmod:poss
 
 obl
-22300 nmod:poss
-22316 nmod:poss
-22324 nmod:poss
-22341 obl
-22352 obj
-22392 obl
-22459 obl
-22488 nmod:poss
-22500 nmod:poss
+22300	nmod:poss
+22316	nmod:poss
+22324	nmod:poss
+22341	obl
+22352	obj
+22392	obl
+22459	obl
+22488	nmod:poss
+22500	nmod:poss
 
 
 
@@ -5810,18 +5810,18 @@ nmod:poss
 
 
 obj
-22523 nmod:poss
-22531 nmod:poss
+22523	nmod:poss
+22531	nmod:poss
 
 
 obj
-22541 parataxis
-22559 nmod:poss
+22541	parataxis
+22559	nmod:poss
 
 
 
 root
-22573 obl
+22573	obl
 
 
 obl
@@ -5830,7 +5830,7 @@ nmod:poss
 
 
 nmod:poss
-22588 obl
+22588	obl
 
 
 obj
@@ -5839,38 +5839,38 @@ obj
 nmod:poss
 
 obj
-22606 obj
-22614 nmod:poss
-22629 obj
+22606	obj
+22614	nmod:poss
+22629	obj
 
 
 
 obl
-22640 obj
-22648 obl
-22660 nmod:poss
+22640	obj
+22648	obl
+22660	nmod:poss
 nsubj
-22691 obl
-22731 nmod:poss
-22738 nmod:poss
+22691	obl
+22731	nmod:poss
+22738	nmod:poss
 
 nmod:poss
-22752 nmod:poss
-22773 obl
-22794 obl
-22842 obl
-22888 obl
-22945 obj
-22955 obj
-23040 nmod:poss
+22752	nmod:poss
+22773	obl
+22794	obl
+22842	obl
+22888	obl
+22945	obj
+22955	obj
+23040	nmod:poss
 
 
 
 
 nmod:poss
-23054 acl:relcl
-23063 obj
-23071 nmod
+23054	acl:relcl
+23063	obj
+23071	nmod
 
 
 
@@ -5886,8 +5886,8 @@ nmod:poss
 
 
 obl
-23094 obj
-23103 nmod:poss
+23094	obj
+23103	nmod:poss
 
 
 nmod:poss
@@ -5900,7 +5900,7 @@ obj
 
 
 obj
-23124 nmod:poss
+23124	nmod:poss
 
 
 obj
@@ -5918,7 +5918,7 @@ nmod:poss
 
 
 obj
-23154 obl
+23154	obl
 
 
 
@@ -5927,39 +5927,39 @@ nmod:poss
 
 
 nmod:poss
-23175 obl
-23196 nsubj
-23249 nmod:poss
+23175	obl
+23196	nsubj
+23249	nmod:poss
 
 
 nmod:poss
-23285 obl
-23300 obj
-
-
-
-nmod:poss
-
+23285	obl
+23300	obj
 
 
 
 nmod:poss
-23318 obj
+
 
 
 
 nmod:poss
-23385 obl
-23402 acl:relcl
-23444 nmod:poss
-23460 obl
-23487 nmod:poss
+23318	obj
+
+
+
+nmod:poss
+23385	obl
+23402	acl:relcl
+23444	nmod:poss
+23460	obl
+23487	nmod:poss
 
 
 
 obj
-23532 obl
-23539 nmod:poss
+23532	obl
+23539	nmod:poss
 
 obj
 
@@ -5972,16 +5972,16 @@ obl
 
 
 obl
-23567 nmod:poss
+23567	nmod:poss
 
 
 
 obj
-23580 obl
+23580	obl
 
 
 obl
-23595 obl
+23595	obl
 
 nmod:poss
 
@@ -5991,13 +5991,13 @@ nmod:poss
 
 
 nmod:poss
-23613 nmod:poss
+23613	nmod:poss
 
 
 
 obl
-23630 nmod:poss
-23644 nmod:poss
+23630	nmod:poss
+23644	nmod:poss
 
 
 
@@ -6012,7 +6012,7 @@ obl
 
 
 obl
-23676 nmod:poss
+23676	nmod:poss
 
 
 
@@ -6032,15 +6032,15 @@ nmod:poss
 
 
 conj
-23706 obj
-23713 obl
-23732 nmod:poss
+23706	obj
+23713	obl
+23732	nmod:poss
 
 
 
 
 nmod:poss
-23744 nmod:poss
+23744	nmod:poss
 
 
 nmod:poss
@@ -6051,7 +6051,7 @@ obl
 
 
 nmod:poss
-23765 nmod:poss
+23765	nmod:poss
 
 
 
@@ -6064,28 +6064,16 @@ nmod:poss
 
 nsubj
 obl
-23784 obl
-23792 obj
+23784	obl
+23792	obj
 
 
 
 
 
 obl
-23811 nmod:poss
-23824 advcl
-
-
-
-obl
-
-
-
-
-obl
-
-
-obl
+23811	nmod:poss
+23824	advcl
 
 
 
@@ -6094,69 +6082,10 @@ obl
 
 
 
-obj
-
-nmod:poss
-23854 nmod:poss
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
+obl
 
 
 obl
-23873 obl
-
-
-
-
-nmod:poss
-
-nmod:poss
-23890 nmod:poss
-
-
-
-
-nmod:poss
-23902 nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-23934 obl
-
-
-
-
-nmod:poss
-
 
 
 
@@ -6166,24 +6095,95 @@ obl
 
 
 obj
-23958 obl
+
+nmod:poss
+23854	nmod:poss
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+obl
+23873	obl
+
+
+
+
+nmod:poss
+
+nmod:poss
+23890	nmod:poss
+
+
+
+
+nmod:poss
+23902	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+23934	obl
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+
 
 
 
 obj
-23970 obl
-23981 nmod:poss
+23958	obl
+
+
+
+obj
+23970	obl
+23981	nmod:poss
 
 
 nsubj
-23991 nmod:poss
+23991	nmod:poss
 
 
 
 
 
 obl
-24009 nmod:poss
+24009	nmod:poss
 
 
 
@@ -6192,14 +6192,14 @@ obl
 
 
 nmod:poss
-24024 nmod:poss
+24024	nmod:poss
 
 
 obl
-24038 nmod:poss
+24038	nmod:poss
 
 obl
-24050 nmod:poss
+24050	nmod:poss
 
 
 
@@ -6223,14 +6223,14 @@ obl
 
 nmod:poss
 obj
-
-
-nsubj
 
 
 nsubj
 
 
+nsubj
+
+
 
 
 obl
@@ -6275,12 +6275,12 @@ nmod:poss
 
 
 obj
-24132 obl
+24132	obl
 
 
 
 nmod:poss
-24163 obl
+24163	obl
 nmod:poss
 
 
@@ -6296,7 +6296,7 @@ obl
 
 
 obl
-24185 nmod:poss
+24185	nmod:poss
 
 nmod:poss
 advcl
@@ -6314,7 +6314,7 @@ obl
 
 
 nsubj
-24210 obl
+24210	obl
 
 
 nmod:poss
@@ -6327,8 +6327,8 @@ advcl
 
 
 obl
-24230 ccomp
-24238 obl
+24230	ccomp
+24238	obl
 
 
 nmod:poss
@@ -6345,7 +6345,7 @@ obl
 
 
 obl
-24268 nmod:poss
+24268	nmod:poss
 
 
 
@@ -6356,7 +6356,7 @@ nmod:poss
 
 
 obl
-24293 nmod:poss
+24293	nmod:poss
 
 obj
 
@@ -6373,12 +6373,12 @@ nmod:poss
 
 
 obl
-24323 obl
+24323	obl
 
 nmod:poss
-24337 nmod:poss
-24360 nmod:poss
-24369 nmod:poss
+24337	nmod:poss
+24360	nmod:poss
+24369	nmod:poss
 
 
 nmod:poss
@@ -6388,16 +6388,16 @@ nmod:poss
 
 
 nmod:poss
-24390 obl
-24398 obl
+24390	obl
+24398	obl
 
 nmod:poss
-24425 nmod:poss
-24442 obl
-24450 nmod:poss
-24463 obl
-24504 nmod:poss
-24512 obl
+24425	nmod:poss
+24442	obl
+24450	nmod:poss
+24463	obl
+24504	nmod:poss
+24512	obl
 
 
 
@@ -6411,10 +6411,10 @@ obj
 
 
 nmod:poss
-24537 obl
-24544 nmod:poss
-24563 nmod:poss
-24570 nmod:poss
+24537	obl
+24544	nmod:poss
+24563	nmod:poss
+24570	nmod:poss
 nmod:poss
 
 nmod:poss
@@ -6429,2778 +6429,2778 @@ nmod:poss
 
 
 nmod:poss
-24592 nmod:poss
+24592	nmod:poss
 
 nmod:poss
-
-
-
-ccomp
-
-
-nmod:poss
-
-
-nmod:poss
-
-obl
-
-
-nmod:poss
-nmod:poss
-
-obl
-
-
-obl
-24632 nmod:poss
-
-
-
-
-nmod:poss
-24662 obl
-
-
-
-
-
-nmod:poss
-
-
-
-
-obl
-
-
-
-obl
-24684 nmod:poss
-
-
-
-
-
-nsubj
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-nsubj
-24707 nmod:poss
-
-
-
-
-nmod:poss
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-
-obl
-
-
-
-obj
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-24751 nmod:poss
-24762 obl
-
-nmod:poss
-
-conj
-
-nmod:poss
-24775 obl
-
-nmod:poss
-24797 nmod:poss
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-24813 nmod:poss
-
-
-
-
-
-nmod:poss
-obl
-24827 nmod:poss
-24834 obl
-
-
-
-
-
-nmod:poss
-24859 nmod:poss
-
-
-nmod:poss
-24875 nmod:poss
-24892 nmod:poss
-24906 nmod:poss
-24913 obj
-
-
-obl
-24927 nmod:poss
-obl
-
-
-
-
-obl
-
-
-
-
-obj
-
-
-obl
-24949 obl
-
-
-nmod:poss
-24960 nmod:poss
-24974 nmod:poss
-
-obl
-24985 nmod:poss
-
-
-
-
-
-obl
-
-nmod:poss
-25001 nmod:poss
-25009 nmod:poss
-
-
-
-
-obl
-
-obl
-25028 nmod:poss
-
-
-
-
-nmod:poss
-25054 nmod:poss
-
-
-
-
-nmod:poss
-25068 nmod:poss
-
-
-
-
-nsubj
-
-
-
-
-nmod:poss
-
-
-
-obl
-25099 acl:relcl
-25106 nmod:poss
-25117 nmod:poss
-nsubj
-
-
-nmod:poss
-25130 nmod:poss
-
-
-
-obl
-25145 nmod:poss
-
-
-obl
-25156 nmod:poss
-
-
-obl
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-nmod:poss
-
-advcl
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-obl
-25197 nmod:poss
-
-obl
-25207 nmod:poss
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-obj
-
-
-
-nmod:poss
-obj
-obl
-
-
-nmod:poss
-obl
-
-
-
-nmod:poss
-25240 nmod:poss
-
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-obl
-
-
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-nmod:poss
-
-
-obl
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-obl
-25292 nmod:poss
-
-
-obl
-25307 nmod:poss
-
-
-nsubj
-obl
-
-
-nmod:poss
-nmod:poss
-obl
-
-
-
-
-
-obl
-nmod:poss
-
-
-
-
-
-obl
-25337 obj
-25347 nmod:poss
-
-obj
-
-
-
-
-nmod:poss
-25361 nsubj
-
-nmod:poss
-nmod:poss
-
-
-
-nsubj
-obl
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-nsubj
-25387 nmod:poss
-
-
-nmod:poss
-nmod:poss
-
-
-
-
-nmod:poss
-25403 nmod:poss
-
-
-
-
-obj
-obl
-
-
-
-nmod:poss
-25421 nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-nsubj
-obl
-25452 nmod:poss
-25463 obl
-25470 obl
-
-
-
-
-obl
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-25498 nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-obj
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-obl
-25530 nmod:poss
-
-
-obj
-25543 nmod:poss
-
-
-obj
-
-
-
-
-obj
-
-
-nmod:poss
-25574 obj
-
-
-nmod:poss
-
-
-obl
-25588 obl
-25597 obj
-
-
-
-
-
-obj
-25613 nmod:poss
-25624 nmod:poss
-
-
-obl
-
-
-nmod:poss
-
-obj
-25640 obl
-25651 obl
-
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-
-
-acl:relcl
-
-
-obj
-25679 nmod:poss
-
-
-
-acl:relcl
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-obl
-
-
-
-nmod:poss
-
-
-nmod:poss
-25716 nmod:poss
-25723 nmod:poss
-25730 nmod:poss
-
-
-
-
-nmod:poss
-
-
-obl
-
-
-
-
-nmod:poss
-obl
-25764 nmod:poss
-25772 nmod:poss
-
-
-
-
-nmod:poss
-25786 nmod:poss
-
-
-nmod:poss
-
-
-obl
-
-
-obl
-25812 obl
-
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-
-
-advcl
-25848 obl
-25856 obl
-
-
-
-
-
-nmod:poss
-25882 nmod:poss
-25902 nmod:poss
-25909 nmod:poss
-
-
-
-
-obl
-25930 nmod:poss
-
-
-obl
-25949 nmod:poss
-
-
-
-obl
-
-
-obl
-25963 obl
-25974 obj
-
-
-
-
-nmod:poss
-25986 nmod:poss
-
-
-
-obj
-26000 acl:relcl
-26010 nmod:poss
-26027 nsubj
-26034 nmod:poss
-26044 obj
-
-
-
-obl
-
-
-
-obj
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-26073 nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-26088 obj
-
-
-
-nmod:poss
-
-
-nmod:poss
-26107 nmod:poss
-nmod
-nmod:poss
-
-
-nmod:poss
-nmod
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-obl
-26134 nmod:poss
-26230 nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-26265 nmod:poss
-26280 nmod:poss
-26306 obl
-26369 nmod:poss
-26388 nmod:poss
-26405 obl
-26425 nmod:poss
-
-
-
-
-
-nmod:poss
-26440 nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-obl
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-26469 nsubj
-
-nmod:poss
-
-nsubj
-
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-26491 obl
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-
-obl
-26512 nmod:poss
-
-nmod:poss
-
-
-
-acl:relcl
-
-
-
-
-
-obl
-
-
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-26544 nmod:poss
-26566 nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-
-
-acl:relcl
-
-
-
-
-
-nsubj
-26589 nmod:poss
-
-
-
-
-obj
-26602 nmod:poss
-
-nmod:poss
-26611 nmod:poss
-
-
-
-nmod:poss
-26634 nmod:poss
-26646 nmod:poss
-26657 nmod:poss
-
-nmod:poss
-
-obl
-
-
-
-nmod:poss
-26673 nmod:poss
-
-
-nmod:poss
-26686 obl
-
-
-
-obj
-
-
-
-
-acl:relcl
-
-
-
-
-
-nmod:poss
-
-obj
-26721 nmod:poss
-26729 nmod:poss
-26740 nmod:poss
-26748 nmod:poss
-
-
-nmod:poss
-26767 nmod:poss
-
-
-nmod:poss
-
-
-obl
-26793 nmod:poss
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-26880 obl
-
-
-
-
-nmod:poss
-26893 nmod:poss
-
-
-obl
-
-nmod:poss
-26905 nmod:poss
-
-
-
-
-obl
-26931 obj
-
-
-
-
-
-nmod:poss
-26951 obl
-26959 obl
-
-
-
-nmod:poss
-26974 nmod:poss
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-obj
-
-
-nmod:poss
-27005 nmod:poss
-27035 nmod:poss
-
-
-obl
-27052 obj
-27062 nmod:poss
-27080 nmod:poss
-
-
-obl
-27090 nmod:poss
-27099 obj
-
-
-
-
-nmod:poss
-
-
-
-parataxis
-27130 obl
-27137 nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-obj
-
-
-
-
-nmod:poss
-27163 obj
-27185 nmod:poss
-27201 obl
-27221 nmod:poss
-27238 nmod:poss
-
-
-
-
-obl
-
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-
-obj
-
-
-
-
-
-nmod:poss
-
-obj
-
-
-
-obj
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-obl
-
-
-obl
-27310 nmod:poss
-
-
-
-
-
-nmod:poss
-obl
-27330 nmod:poss
-
-
-obl
-27350 obl
-27358 obj
-
-
-obl
-nsubj
-obj
-
-obj
-
-obj
-27379 nmod:poss
-nmod
-
-
-
-
-
-nmod:poss
-
-
-obl
-
-
-
-
-nsubj
-obl
-
-root
-27407 parataxis
-
-nmod:poss
-
-
-obl
-root
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-nsubj
-
-
-
-obl
-27444 obj
-27465 nmod:poss
-nmod:poss
-
-
-
-obl
-
-
-
-
-
-obj
-
-obl
-
-obj
-27493 obj
-obl
-
-
-obl
-
-
-obl
-27507 nmod:poss
-
-
-
-
-
-obj
-
-
-
-nmod:poss
-
-
-
-obj
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-
-
-obj
-
-
-
-nmod:poss
-27546 nmod:poss
-
-
-
-
-
-obl
-
-
-
-
-nmod:poss
-27569 nmod:poss
-
-
-
-
-
-nmod:poss
-27590 nmod:poss
-
-nmod:poss
-27600 obj
-
-nmod:poss
-27612 obj
-27622 obl
-nmod:poss
-
-
-nmod:poss
-27643 nmod:poss
-
-nmod:poss
-27652 nmod:poss
-
-
-
-nmod:poss
-
-
-obj
-27671 nmod:poss
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-nmod:poss
-27702 nmod:poss
-
-
-
-obl
-
-nmod:poss
-
-
-
-
-
-obj
-27722 obl
-
-
-
-
-obj
-27752 conj
-
-
-obj
-
-
-nmod:poss
-
-
-
-obl
-
-
-
-nmod:poss
-27774 nmod:poss
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-
-
-obl
-
-
-
-obj
-27806 nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-27828 nmod:poss
-
-
-nmod:poss
-27839 nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-obj
-
-
-
-obj
-
-
-
-
-obj
-nmod:poss
-nmod:poss
-
-
-nmod:poss
-
-obl
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-27902 obj
-27912 nmod:poss
-
-
-
-
-
-conj
-27925 nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-27962 nmod:poss
-27985 nmod:poss
-27995 nmod:poss
-28014 nmod:poss
-
-
-nmod:poss
-
-
-
-
-obj
-28030 nmod:poss
-28055 obj
-
-
-
-obj
-28066 nmod:poss
-
-
-
-nmod:poss
-28082 nmod:poss
-
-obj
-
-
-
-
-obj
-28103 nmod:poss
-
-
-
-nmod:poss
-28120 nmod:poss
-28145 obl
-nmod:poss
-
-
-obj
-
-
-
-nmod:poss
-
-obj
-
-
-obj
-
-
-obl
-
-
-
-nmod:poss
-
-obj
-
-nmod:poss
-28215 nmod:poss
-28223 nmod:poss
-28236 acl:relcl
-28247 nmod:poss
-
-
-nmod:poss
-28259 nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-obl
-
-
-obl
-
-
-
-
-nmod:poss
-28283 nmod:poss
-28292 obl
-28303 obj
-28310 nmod:poss
-28324 nmod:poss
-28332 nmod:poss
-obj
-28340 nmod:poss
-
-
-obl
-
-
-
-
-obj
-28356 nmod:poss
-28366 nmod:poss
-
-
-obj
-28376 nmod:poss
-
-
-obl
-
-
-
-
-nmod:poss
-28395 nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-28411 obl
-28444 nmod:poss
-28472 nmod:poss
-28481 nmod:poss
-obl
-
-
-
-obj
-
-
-obj
-nmod:poss
-
-
-
-
-obj
-28524 nmod:poss
-
-
-
-
-obl
-
-
-
-nmod:poss
-
-nsubj
-
-nmod:poss
-28544 nmod:poss
-
-
-
-obj
-
-
-
-
-obl
-28560 obj
-28567 nmod:poss
-
-
-
-nmod:poss
-28582 nmod:poss
-
-nmod:poss
-
-
-obj
-28596 nmod:poss
-
-
-
-
-nsubj
-obl
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-nsubj
-obl
-
-
-
-
-obl
-28631 obl
-
-
-obj
-28654 obj
-
-
-nmod:poss
-
-
-obj
-
-
-
-nmod:poss
-28673 nmod:poss
-28701 nmod:poss
-28708 obj
-
-
-obj
-28740 obj
-
-
-
-nmod:poss
-28757 obj
-28777 nmod:poss
-28813 nmod:poss
-28837 obj
-28852 nmod:poss
-28860 obl
-
-
-obl
-28876 nmod:poss
-
-
-obl
-28887 obl
-
-
-
-obj
-
-nmod:poss
-28909 obj
-28932 nmod:poss
-28950 nmod:poss
-
-
-obl
-28978 nsubj
-28992 obj
-29012 obl
-29029 obl
-29062 obl
-29091 obl
-29098 nmod:poss
-29108 obj
-29134 obj
-
-
-
-
-obj
-29146 obj
-
-
-obl
-
-
-
-obj
-29163 obl
-29178 nmod:poss
-29185 obl
-29196 nmod:poss
-29214 nmod:poss
-
-obj
-
-
-
-obj
-29230 obl
-29240 nmod:poss
-29248 obl
-29256 obl
-
-
-
-
-
-obl
-29278 obl
-29288 obj
-obl
-
-
-
-
-nmod:poss
-29302 obj
-
-
-
-
-
-obj
-
-
-
-
-
-obl
-
-
-
-
-nmod:poss
-29327 obj
-29341 nmod:poss
-
-
-
-nmod:poss
-29354 nmod:poss
-29371 obj
-29395 nmod:poss
-
-
-
-obj
-
-
-
-
-
-nmod
-
-
-obj
-29474 nmod:poss
-
-
-
-
-
-obj
-
-
-
-
-obj
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-29506 obj
-29515 obl
-29524 nmod:poss
-
-nsubj
-29534 obl
-29550 nmod:poss
-29559 nmod:poss
-29592 nmod:poss
-29603 nmod:poss
-
-
-
-
-nmod:poss
-29632 nmod:poss
-29654 obl
-29675 nsubj
-29705 obl
-29717 nsubj
-29724 nmod:poss
-
-
-nmod:poss
-29734 obl
-29742 nmod:poss
-29753 nmod:poss
-29768 nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-obj
-
-
-
-
-
-obj
-29835 obl
-29845 obj
-
-
-
-
-obj
-
-
-
-
-
-nmod:poss
-29885 ccomp
-
-
-obl
-
-
-
-
-obj
-
-nsubj
-29924 obl
-
-nmod:poss
-obj
-obl
-
-
-obl
-
-nmod:poss
-
-
-obl
-29953 obj
-obl
-29968 nmod:poss
-29976 obj
-obl
-
-nmod:poss
-
-
-
-
-nmod:poss
-29996 obl
-
-
-nmod:poss
-
-obl
-30011 obj
-
-
-
-
-obl
-
-
-
-
-
-obj
-30054 nmod:poss
-30066 obl
-
-
-
-
-
-obl
-30087 nmod:poss
-30094 obj
-30107 nmod:poss
-30114 nmod:poss
-
-
-
-nmod:poss
-
-
-
-
-obj
-30146 nmod:poss
-
-
-
-nmod:poss
-30161 nmod:poss
-
-
-nmod:poss
-30178 obl
-
-
-
-
-nmod:poss
-
-
-
-
-obl
-
-
-
-obl
-
-
-
-
-nmod:poss
-
-
-
-
-
-obj
-
-
-obj
-30216 nmod:poss
-30223 nmod:poss
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-obl
-
-
-
-
-
-nmod:poss
-
-
-
-
-obl
-
-
-nmod:poss
-30258 obl
-
-
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-obj
-
-
-nmod:poss
-30282 nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-obj
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-
-
-obl
-30338 nmod:poss
-30385 nsubj
-
-nmod:poss
-30398 obl
-30426 nmod:poss
-
-obj
-30451 nmod:poss
-30465 obj
-
-obj
-
-
-
-nmod:poss
-
-
-obl
-30481 nmod:poss
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-obl
-30499 obl
-30507 obl
-
-
-
-
-
-obl
-30524 nmod:poss
-
-
-obl
-30538 nmod:poss
-
-
-obl
-
-
-
-
-
-nmod:poss
-30554 nsubj
-30582 nmod:poss
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-obj
-30608 nmod:poss
-30615 nsubj
-30626 nmod:poss
-
-obj
-30636 nmod:poss
-30650 nmod:poss
-nmod:poss
-
-
-
-obl
-
-
-nmod:poss
-
-obj
-
-
-
-obj
-
-
-
-
-nmod:poss
-nmod:poss
-30680 obj
-
-
-
-obj
-30693 nmod:poss
-
-
-
-nmod:poss
-30704 obl
-
-
-obl
-30729 obj
-30736 obl
-30747 obj
-30754 obj
-30803 nmod:poss
-30825 nmod:poss
-
-
-obl
-30840 nmod:poss
-30861 obl
-30874 nmod:poss
-
-obj
-30886 obl
-30898 nmod:poss
-
-
-nmod:poss
-30913 obj
-
-nmod:poss
-30932 nmod:poss
-30954 obl
-30967 obl
-
-
-obl
-30983 nmod:poss
-30992 obl
-31005 nmod:poss
-31016 nsubj
-
-obl
-
-
-
-
-obl
-31032 nmod:poss
-31055 nmod:poss
-
-
-
-nmod:poss
-31073 obl
-31081 nmod:poss
-31107 nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-obl
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-31146 obl
-31156 obj
-31164 nmod:poss
-
-
-
-nmod:poss
-31178 obj
-
-nsubj
-
-
-
-
-
-obl
-
-
-obl
-
-
-
-
-
-nmod:poss
-31202 nmod:poss
-
-
-
-
-nmod:poss
-
-obj
-31227 obj
-31237 nmod:poss
-31249 nmod:poss
-31265 obj
-
-
-
-
-obj
-
-nmod:poss
-31280 obl
-31296 nmod:poss
-
-
-
-obl
-
-
-
-
-nmod:poss
-obl
-
-
-obl
-
-
-
-
-
-nmod:poss
-
-
-obl
-31330 obj
-
-
-
-nmod:poss
-31344 obj
-31351 obj
-
-nmod:poss
-
-
-obj
-31366 obj
-obl
-
-
-
-
-obl
-31380 nmod:poss
-
-
-obj
-31390 obj
-31397 nmod:poss
-
-
-obj
-31410 obj
-obl
-31453 nmod:poss
-31467 obl
-
-
-obj
-31485 obj
-31505 nmod:poss
-31545 nmod:poss
-31567 nmod:poss
-31599 nmod:poss
-
-
-
-
-
-nmod:poss
-obl
-
-
-
-
-obl
-31652 obl
-
-
-
-
-obl
-31685 obl
-
-
-
-obl
-
-
-
-
-obl
-31703 nmod:poss
-31711 obl
-31720 nmod:poss
-31769 obl
-31783 obl
-31791 obj
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-
-
-
-
-
-obj
-
-
-nmod:poss
-31818 nmod:poss
-31828 nmod:poss
-
-
-nmod:poss
-31838 obl
-
-
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-31867 nsubj
-
-nmod:poss
-31878 nmod:poss
-31888 obj
-31904 nsubj
-31919 obl
-
-
-
-
-obl
-31932 nmod:poss
-31959 nmod:poss
-31966 nmod:poss
-31989 nmod:poss
-
-
-
-
-nmod:poss
-32004 nmod:poss
-32012 obl
-32043 obj
-32057 nmod:poss
-
-
-obl
-
-
-
-
-obj
-obl
-
-
-
-
-nmod:poss
-
-obj
-32100 nmod:poss
-32142 nmod:poss
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-32209 nmod:poss
-32257 nmod:poss
-32265 obl
-32276 nmod:poss
-
-
-
-nmod:poss
-32323 obl
-
-
-
-
-
-nmod:poss
-
-obj
-32343 nmod:poss
-32357 nmod:poss
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-obl
-
-
-nmod:poss
-
-
-
-nmod:poss
-32400 nmod:poss
-
-nmod:poss
-32425 nmod:poss
-32444 nmod:poss
-32470 obl
-
-
-nmod:poss
-32489 obl
-
-
-
-obl
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-obl
-
-
-nmod:poss
-32520 nmod:poss
-32527 nmod:poss
-
-
-
-
-obl
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-32590 obj
-32607 nmod:poss
-
-
-
-obl
-32626 nmod:poss
-32648 nmod:poss
-
-nmod:poss
-32684 nmod:poss
-32720 obl
-32745 obl
-
-
-
-
-nmod:poss
-
-obj
-
-
-nsubj
-
-
-nmod:poss
-nsubj
-
-obl
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-32787 acl:relcl
-32799 nmod:poss
-
-obl
-32820 nmod:poss
-
-
-nmod:poss
-32843 nmod:poss
-32869 nmod:poss
-32887 nmod:poss
-32894 nmod:poss
-
-
-obj
-32909 nmod:poss
-
-
-
-obl
-
-
-
-
-
-obj
-
-
-
-
-nmod:poss
-32935 obl
-32943 obl
-32955 nmod:poss
-
-
-nmod:poss
-32998 nmod:poss
-
-
-nmod:poss
-33009 nmod:poss
-33032 obl
-33041 nmod:poss
-
-obj
-33051 nsubj
-
-obl
-
-
-
-
-
-nmod:poss
-33172 obl
-
-nmod:poss
-
-
-
-obj
-33223 obj
-33273 obl
-33296 obl
-33305 nmod:poss
-
-obj
-33318 nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-
-obl
-33341 nmod:poss
-
-
-obj
-
-
-nmod:poss
-33361 obj
-
-
-obj
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-
-
-nsubj
-
-
-nmod:poss
-
-
-obj
-nsubj
-33394 obl
-33410 nmod:poss
-
-
-
-
-acl:relcl
-33437 obl
-33452 nmod:poss
-
-
-nmod:poss
-33463 nmod:poss
-33470 nmod:poss
-
-
-nmod:poss
-33484 nmod:poss
-33515 nmod:poss
-33551 acl:relcl
-33619 obl
-33629 nmod:poss
-33645 obj
-33653 obl
-
-
-nsubj
-
-
-
-
-
-nmod:poss
-33684 nmod:poss
-33730 nmod:poss
-33764 nmod:poss
-
-
-nmod:poss
-33797 nmod:poss
-
-
-
-nmod:poss
-
-nsubj
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-nmod:poss
-33824 nmod:poss
-
-
-obl
-33842 obl
-33855 nmod:poss
-
-nmod:poss
-
-obj
-33867 nmod:poss
-nsubj
-
-
-
-
-nmod:poss
-33896 obl
-33908 obl
-
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-33926 nmod:poss
-
-
-nmod:poss
-
-
-nsubj
-33952 obl
-
-
-
-
-obl
-33968 nmod:poss
-33986 obl
-
-
-
-
-nmod:poss
-34001 nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-advcl
-
-
-obl
 
 
 
 ccomp
 
 
+nmod:poss
+
+
+nmod:poss
+
+obl
+
+
+nmod:poss
+nmod:poss
+
+obl
+
+
+obl
+24632	nmod:poss
+
+
+
+
+nmod:poss
+24662	obl
+
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+
+obl
+24684	nmod:poss
+
+
+
+
+
+nsubj
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+nsubj
+24707	nmod:poss
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+
+obj
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+24751	nmod:poss
+24762	obl
+
+nmod:poss
+
+conj
+
+nmod:poss
+24775	obl
+
+nmod:poss
+24797	nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+24813	nmod:poss
+
+
+
+
+
+nmod:poss
+obl
+24827	nmod:poss
+24834	obl
+
+
+
+
+
+nmod:poss
+24859	nmod:poss
+
+
+nmod:poss
+24875	nmod:poss
+24892	nmod:poss
+24906	nmod:poss
+24913	obj
+
+
+obl
+24927	nmod:poss
+obl
+
+
+
+
+obl
+
+
+
+
+obj
+
+
+obl
+24949	obl
+
+
+nmod:poss
+24960	nmod:poss
+24974	nmod:poss
+
+obl
+24985	nmod:poss
+
+
+
+
+
+obl
+
+nmod:poss
+25001	nmod:poss
+25009	nmod:poss
+
+
+
+
+obl
+
+obl
+25028	nmod:poss
+
+
+
+
+nmod:poss
+25054	nmod:poss
+
+
+
+
+nmod:poss
+25068	nmod:poss
+
+
+
+
+nsubj
+
+
+
+
+nmod:poss
+
+
+
+obl
+25099	acl:relcl
+25106	nmod:poss
+25117	nmod:poss
+nsubj
+
+
+nmod:poss
+25130	nmod:poss
+
+
+
+obl
+25145	nmod:poss
+
+
+obl
+25156	nmod:poss
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+nmod:poss
+
+advcl
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+obl
+25197	nmod:poss
+
+obl
+25207	nmod:poss
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+obj
+
+
+
+nmod:poss
+obj
+obl
+
+
+nmod:poss
+obl
+
+
+
+nmod:poss
+25240	nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+nmod:poss
+
+
+obl
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+obl
+25292	nmod:poss
+
+
+obl
+25307	nmod:poss
+
+
+nsubj
+obl
+
+
+nmod:poss
+nmod:poss
+obl
+
+
+
+
+
+obl
+nmod:poss
+
+
+
+
+
+obl
+25337	obj
+25347	nmod:poss
+
+obj
+
+
+
+
+nmod:poss
+25361	nsubj
+
+nmod:poss
+nmod:poss
+
+
+
+nsubj
+obl
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nsubj
+25387	nmod:poss
+
+
+nmod:poss
+nmod:poss
+
+
+
+
+nmod:poss
+25403	nmod:poss
+
+
+
+
+obj
+obl
+
+
+
+nmod:poss
+25421	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nsubj
+obl
+25452	nmod:poss
+25463	obl
+25470	obl
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+25498	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+obl
+25530	nmod:poss
+
+
+obj
+25543	nmod:poss
+
+
+obj
+
+
+
+
+obj
+
+
+nmod:poss
+25574	obj
+
+
+nmod:poss
+
+
+obl
+25588	obl
+25597	obj
+
+
+
+
+
+obj
+25613	nmod:poss
+25624	nmod:poss
+
+
+obl
+
+
+nmod:poss
+
+obj
+25640	obl
+25651	obl
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+
+acl:relcl
+
+
+obj
+25679	nmod:poss
+
+
+
+acl:relcl
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+obl
+
+
+
+nmod:poss
+
+
+nmod:poss
+25716	nmod:poss
+25723	nmod:poss
+25730	nmod:poss
+
+
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+nmod:poss
+obl
+25764	nmod:poss
+25772	nmod:poss
+
+
+
+
+nmod:poss
+25786	nmod:poss
+
+
+nmod:poss
+
+
+obl
+
+
+obl
+25812	obl
+
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+
+advcl
+25848	obl
+25856	obl
+
+
+
+
+
+nmod:poss
+25882	nmod:poss
+25902	nmod:poss
+25909	nmod:poss
+
+
+
+
+obl
+25930	nmod:poss
+
+
+obl
+25949	nmod:poss
+
+
+
+obl
+
+
+obl
+25963	obl
+25974	obj
+
+
+
+
+nmod:poss
+25986	nmod:poss
+
+
+
+obj
+26000	acl:relcl
+26010	nmod:poss
+26027	nsubj
+26034	nmod:poss
+26044	obj
+
+
+
+obl
+
+
+
+obj
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+26073	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+26088	obj
+
+
+
+nmod:poss
+
+
+nmod:poss
+26107	nmod:poss
+nmod
+nmod:poss
+
+
+nmod:poss
+nmod
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+obl
+26134	nmod:poss
+26230	nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+26265	nmod:poss
+26280	nmod:poss
+26306	obl
+26369	nmod:poss
+26388	nmod:poss
+26405	obl
+26425	nmod:poss
+
+
+
+
+
+nmod:poss
+26440	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+obl
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+26469	nsubj
+
+nmod:poss
+
+nsubj
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+26491	obl
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+obl
+26512	nmod:poss
+
+nmod:poss
+
+
+
+acl:relcl
+
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+26544	nmod:poss
+26566	nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+
+acl:relcl
+
+
+
+
+
+nsubj
+26589	nmod:poss
+
+
+
+
+obj
+26602	nmod:poss
+
+nmod:poss
+26611	nmod:poss
+
+
+
+nmod:poss
+26634	nmod:poss
+26646	nmod:poss
+26657	nmod:poss
+
+nmod:poss
+
+obl
+
+
+
+nmod:poss
+26673	nmod:poss
+
+
+nmod:poss
+26686	obl
+
+
+
+obj
+
+
+
+
+acl:relcl
+
+
+
+
+
+nmod:poss
+
+obj
+26721	nmod:poss
+26729	nmod:poss
+26740	nmod:poss
+26748	nmod:poss
+
+
+nmod:poss
+26767	nmod:poss
+
+
+nmod:poss
+
+
+obl
+26793	nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+26880	obl
+
+
+
+
+nmod:poss
+26893	nmod:poss
+
+
+obl
+
+nmod:poss
+26905	nmod:poss
+
+
+
+
+obl
+26931	obj
+
+
+
+
+
+nmod:poss
+26951	obl
+26959	obl
+
+
+
+nmod:poss
+26974	nmod:poss
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+obj
+
+
+nmod:poss
+27005	nmod:poss
+27035	nmod:poss
+
+
+obl
+27052	obj
+27062	nmod:poss
+27080	nmod:poss
+
+
+obl
+27090	nmod:poss
+27099	obj
+
+
+
+
+nmod:poss
+
+
+
+parataxis
+27130	obl
+27137	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+
+nmod:poss
+27163	obj
+27185	nmod:poss
+27201	obl
+27221	nmod:poss
+27238	nmod:poss
+
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+obj
+
+
+
+
+
+nmod:poss
+
+obj
+
+
+
+obj
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+obl
+
+
+obl
+27310	nmod:poss
+
+
+
+
+
+nmod:poss
+obl
+27330	nmod:poss
+
+
+obl
+27350	obl
+27358	obj
+
+
+obl
+nsubj
+obj
+
+obj
+
+obj
+27379	nmod:poss
+nmod
+
+
+
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+nsubj
+obl
+
+root
+27407	parataxis
+
+nmod:poss
+
+
+obl
+root
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nsubj
+
+
+
+obl
+27444	obj
+27465	nmod:poss
+nmod:poss
+
+
+
+obl
+
+
+
+
+
+obj
+
+obl
+
+obj
+27493	obj
+obl
+
+
+obl
+
+
+obl
+27507	nmod:poss
+
+
+
+
+
+obj
+
+
+
+nmod:poss
+
+
+
+obj
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+
+obj
+
+
+
+nmod:poss
+27546	nmod:poss
+
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+27569	nmod:poss
+
+
+
+
+
+nmod:poss
+27590	nmod:poss
+
+nmod:poss
+27600	obj
+
+nmod:poss
+27612	obj
+27622	obl
+nmod:poss
+
+
+nmod:poss
+27643	nmod:poss
+
+nmod:poss
+27652	nmod:poss
+
+
+
+nmod:poss
+
+
+obj
+27671	nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+27702	nmod:poss
+
+
+
+obl
+
+nmod:poss
+
+
+
+
+
+obj
+27722	obl
+
+
+
+
+obj
+27752	conj
+
+
+obj
+
+
+nmod:poss
+
+
+
+obl
+
+
+
+nmod:poss
+27774	nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+obl
+
+
+
+obj
+27806	nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+27828	nmod:poss
+
+
+nmod:poss
+27839	nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+obj
+
+
+
+
+obj
+nmod:poss
+nmod:poss
+
+
+nmod:poss
+
+obl
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+27902	obj
+27912	nmod:poss
+
+
+
+
+
+conj
+27925	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+27962	nmod:poss
+27985	nmod:poss
+27995	nmod:poss
+28014	nmod:poss
+
+
+nmod:poss
+
+
+
+
+obj
+28030	nmod:poss
+28055	obj
+
+
+
+obj
+28066	nmod:poss
+
+
+
+nmod:poss
+28082	nmod:poss
+
+obj
+
+
+
+
+obj
+28103	nmod:poss
+
+
+
+nmod:poss
+28120	nmod:poss
+28145	obl
+nmod:poss
+
+
+obj
+
+
+
+nmod:poss
+
+obj
+
+
+obj
+
+
+obl
+
+
+
+nmod:poss
+
+obj
+
+nmod:poss
+28215	nmod:poss
+28223	nmod:poss
+28236	acl:relcl
+28247	nmod:poss
+
+
+nmod:poss
+28259	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+obl
+
+
+obl
+
+
+
+
+nmod:poss
+28283	nmod:poss
+28292	obl
+28303	obj
+28310	nmod:poss
+28324	nmod:poss
+28332	nmod:poss
+obj
+28340	nmod:poss
+
+
+obl
+
+
+
+
+obj
+28356	nmod:poss
+28366	nmod:poss
+
+
+obj
+28376	nmod:poss
+
+
+obl
+
+
+
+
+nmod:poss
+28395	nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+28411	obl
+28444	nmod:poss
+28472	nmod:poss
+28481	nmod:poss
+obl
+
+
+
+obj
+
+
+obj
+nmod:poss
+
+
+
+
+obj
+28524	nmod:poss
+
+
+
+
+obl
+
+
+
+nmod:poss
+
+nsubj
+
+nmod:poss
+28544	nmod:poss
+
+
+
+obj
+
+
+
+
+obl
+28560	obj
+28567	nmod:poss
+
+
+
+nmod:poss
+28582	nmod:poss
+
+nmod:poss
+
+
+obj
+28596	nmod:poss
+
+
+
+
+nsubj
+obl
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nsubj
+obl
+
+
+
+
+obl
+28631	obl
+
+
+obj
+28654	obj
+
+
+nmod:poss
+
+
+obj
+
+
+
+nmod:poss
+28673	nmod:poss
+28701	nmod:poss
+28708	obj
+
+
+obj
+28740	obj
+
+
+
+nmod:poss
+28757	obj
+28777	nmod:poss
+28813	nmod:poss
+28837	obj
+28852	nmod:poss
+28860	obl
+
+
+obl
+28876	nmod:poss
+
+
+obl
+28887	obl
+
+
+
+obj
+
+nmod:poss
+28909	obj
+28932	nmod:poss
+28950	nmod:poss
+
+
+obl
+28978	nsubj
+28992	obj
+29012	obl
+29029	obl
+29062	obl
+29091	obl
+29098	nmod:poss
+29108	obj
+29134	obj
+
+
+
+
+obj
+29146	obj
+
+
+obl
+
+
+
+obj
+29163	obl
+29178	nmod:poss
+29185	obl
+29196	nmod:poss
+29214	nmod:poss
+
+obj
+
+
+
+obj
+29230	obl
+29240	nmod:poss
+29248	obl
+29256	obl
+
+
+
+
+
+obl
+29278	obl
+29288	obj
+obl
+
+
+
+
+nmod:poss
+29302	obj
+
+
+
+
+
+obj
+
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+29327	obj
+29341	nmod:poss
+
+
+
+nmod:poss
+29354	nmod:poss
+29371	obj
+29395	nmod:poss
+
+
+
+obj
+
+
+
+
+
+nmod
+
+
+obj
+29474	nmod:poss
+
+
+
+
+
+obj
+
+
+
+
+obj
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+29506	obj
+29515	obl
+29524	nmod:poss
+
+nsubj
+29534	obl
+29550	nmod:poss
+29559	nmod:poss
+29592	nmod:poss
+29603	nmod:poss
+
+
+
+
+nmod:poss
+29632	nmod:poss
+29654	obl
+29675	nsubj
+29705	obl
+29717	nsubj
+29724	nmod:poss
+
+
+nmod:poss
+29734	obl
+29742	nmod:poss
+29753	nmod:poss
+29768	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+obj
+
+
+
+
+
+obj
+29835	obl
+29845	obj
+
+
+
+
+obj
+
+
+
+
+
+nmod:poss
+29885	ccomp
+
+
+obl
+
+
+
+
+obj
+
+nsubj
+29924	obl
+
+nmod:poss
+obj
+obl
+
+
+obl
+
+nmod:poss
+
+
+obl
+29953	obj
+obl
+29968	nmod:poss
+29976	obj
+obl
+
+nmod:poss
+
+
+
+
+nmod:poss
+29996	obl
+
+
+nmod:poss
+
+obl
+30011	obj
+
+
+
+
+obl
+
+
+
+
+
+obj
+30054	nmod:poss
+30066	obl
+
+
+
+
+
+obl
+30087	nmod:poss
+30094	obj
+30107	nmod:poss
+30114	nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+obj
+30146	nmod:poss
+
+
+
+nmod:poss
+30161	nmod:poss
+
+
+nmod:poss
+30178	obl
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+
+
+
+obj
+
+
+obj
+30216	nmod:poss
+30223	nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+nmod:poss
+30258	obl
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+obj
+
+
+nmod:poss
+30282	nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+obj
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+obl
+30338	nmod:poss
+30385	nsubj
+
+nmod:poss
+30398	obl
+30426	nmod:poss
+
+obj
+30451	nmod:poss
+30465	obj
+
+obj
+
+
+
+nmod:poss
+
+
+obl
+30481	nmod:poss
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+obl
+30499	obl
+30507	obl
+
+
+
+
+
+obl
+30524	nmod:poss
+
+
+obl
+30538	nmod:poss
+
+
+obl
+
+
+
+
+
+nmod:poss
+30554	nsubj
+30582	nmod:poss
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+obj
+30608	nmod:poss
+30615	nsubj
+30626	nmod:poss
+
+obj
+30636	nmod:poss
+30650	nmod:poss
+nmod:poss
+
+
+
+obl
+
+
+nmod:poss
+
+obj
+
+
+
+obj
+
+
+
+
+nmod:poss
+nmod:poss
+30680	obj
+
+
+
+obj
+30693	nmod:poss
+
+
+
+nmod:poss
+30704	obl
+
+
+obl
+30729	obj
+30736	obl
+30747	obj
+30754	obj
+30803	nmod:poss
+30825	nmod:poss
+
+
+obl
+30840	nmod:poss
+30861	obl
+30874	nmod:poss
+
+obj
+30886	obl
+30898	nmod:poss
+
+
+nmod:poss
+30913	obj
+
+nmod:poss
+30932	nmod:poss
+30954	obl
+30967	obl
+
+
+obl
+30983	nmod:poss
+30992	obl
+31005	nmod:poss
+31016	nsubj
+
+obl
+
+
+
+
+obl
+31032	nmod:poss
+31055	nmod:poss
+
+
+
+nmod:poss
+31073	obl
+31081	nmod:poss
+31107	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+obl
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+31146	obl
+31156	obj
+31164	nmod:poss
+
+
+
+nmod:poss
+31178	obj
+
+nsubj
+
+
+
+
+
+obl
+
+
+obl
+
+
+
+
+
+nmod:poss
+31202	nmod:poss
+
+
+
+
+nmod:poss
+
+obj
+31227	obj
+31237	nmod:poss
+31249	nmod:poss
+31265	obj
+
+
+
+
+obj
+
+nmod:poss
+31280	obl
+31296	nmod:poss
+
+
+
+obl
+
+
+
+
+nmod:poss
+obl
+
+
+obl
+
+
+
+
+
+nmod:poss
+
+
+obl
+31330	obj
+
+
+
+nmod:poss
+31344	obj
+31351	obj
+
+nmod:poss
+
+
+obj
+31366	obj
+obl
+
+
+
+
+obl
+31380	nmod:poss
+
+
+obj
+31390	obj
+31397	nmod:poss
+
+
+obj
+31410	obj
+obl
+31453	nmod:poss
+31467	obl
+
+
+obj
+31485	obj
+31505	nmod:poss
+31545	nmod:poss
+31567	nmod:poss
+31599	nmod:poss
+
+
+
+
+
+nmod:poss
+obl
+
+
+
+
+obl
+31652	obl
+
+
+
+
+obl
+31685	obl
+
+
+
+obl
+
+
+
+
+obl
+31703	nmod:poss
+31711	obl
+31720	nmod:poss
+31769	obl
+31783	obl
+31791	obj
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+
+obj
+
+
+nmod:poss
+31818	nmod:poss
+31828	nmod:poss
+
+
+nmod:poss
+31838	obl
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+31867	nsubj
+
+nmod:poss
+31878	nmod:poss
+31888	obj
+31904	nsubj
+31919	obl
+
+
+
+
+obl
+31932	nmod:poss
+31959	nmod:poss
+31966	nmod:poss
+31989	nmod:poss
+
+
+
+
+nmod:poss
+32004	nmod:poss
+32012	obl
+32043	obj
+32057	nmod:poss
+
+
+obl
+
+
+
+
+obj
+obl
+
+
+
+
+nmod:poss
+
+obj
+32100	nmod:poss
+32142	nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+32209	nmod:poss
+32257	nmod:poss
+32265	obl
+32276	nmod:poss
+
+
+
+nmod:poss
+32323	obl
+
+
+
+
+
+nmod:poss
+
+obj
+32343	nmod:poss
+32357	nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+obl
+
+
+nmod:poss
+
+
+
+nmod:poss
+32400	nmod:poss
+
+nmod:poss
+32425	nmod:poss
+32444	nmod:poss
+32470	obl
+
+
+nmod:poss
+32489	obl
+
+
+
+obl
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+nmod:poss
+32520	nmod:poss
+32527	nmod:poss
+
+
+
+
+obl
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+32590	obj
+32607	nmod:poss
+
+
+
+obl
+32626	nmod:poss
+32648	nmod:poss
+
+nmod:poss
+32684	nmod:poss
+32720	obl
+32745	obl
+
+
+
+
+nmod:poss
+
+obj
+
+
+nsubj
+
+
+nmod:poss
+nsubj
+
+obl
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+32787	acl:relcl
+32799	nmod:poss
+
+obl
+32820	nmod:poss
+
+
+nmod:poss
+32843	nmod:poss
+32869	nmod:poss
+32887	nmod:poss
+32894	nmod:poss
+
+
+obj
+32909	nmod:poss
+
+
+
+obl
+
+
+
+
+
+obj
+
+
+
+
+nmod:poss
+32935	obl
+32943	obl
+32955	nmod:poss
+
+
+nmod:poss
+32998	nmod:poss
+
+
+nmod:poss
+33009	nmod:poss
+33032	obl
+33041	nmod:poss
+
+obj
+33051	nsubj
+
+obl
+
+
+
+
+
+nmod:poss
+33172	obl
+
+nmod:poss
+
+
+
+obj
+33223	obj
+33273	obl
+33296	obl
+33305	nmod:poss
+
+obj
+33318	nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+obl
+33341	nmod:poss
+
+
+obj
+
+
+nmod:poss
+33361	obj
+
+
+obj
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nsubj
+
+
+nmod:poss
+
+
+obj
+nsubj
+33394	obl
+33410	nmod:poss
+
+
+
+
+acl:relcl
+33437	obl
+33452	nmod:poss
+
+
+nmod:poss
+33463	nmod:poss
+33470	nmod:poss
+
+
+nmod:poss
+33484	nmod:poss
+33515	nmod:poss
+33551	acl:relcl
+33619	obl
+33629	nmod:poss
+33645	obj
+33653	obl
+
+
+nsubj
+
+
+
+
+
+nmod:poss
+33684	nmod:poss
+33730	nmod:poss
+33764	nmod:poss
+
+
+nmod:poss
+33797	nmod:poss
+
+
+
+nmod:poss
+
+nsubj
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+33824	nmod:poss
+
+
+obl
+33842	obl
+33855	nmod:poss
+
+nmod:poss
+
+obj
+33867	nmod:poss
+nsubj
+
+
+
+
+nmod:poss
+33896	obl
+33908	obl
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+33926	nmod:poss
+
+
+nmod:poss
+
+
+nsubj
+33952	obl
+
+
+
+
+obl
+33968	nmod:poss
+33986	obl
+
+
+
+
+nmod:poss
+34001	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+advcl
+
+
+obl
+
+
+
+ccomp
+
+
 
 obj
 
@@ -9211,15 +9211,15 @@ nmod:poss
 
 
 nmod:poss
-34051 obj
+34051	obj
 
 
 
 
 obj
-34067 nmod:poss
-34096 nmod:poss
-34145 nmod:poss
+34067	nmod:poss
+34096	nmod:poss
+34145	nmod:poss
 
 
 
@@ -9227,7 +9227,7 @@ obj
 obl
 
 obl
-34216 nmod:poss
+34216	nmod:poss
 
 conj
 
@@ -9235,50 +9235,50 @@ conj
 
 
 nmod:poss
-34231 nmod:poss
+34231	nmod:poss
 
 
 
 obl
-34264 obj
-34293 nmod:poss
-34310 nmod:poss
-34328 nmod:poss
+34264	obj
+34293	nmod:poss
+34310	nmod:poss
+34328	nmod:poss
 
 
 
 
 
 nmod:poss
-34345 nmod:poss
-34358 nmod:poss
+34345	nmod:poss
+34358	nmod:poss
 
 nmod:poss
-
-
-nmod:poss
-
-obl
-34373 nmod:poss
-34381 nmod:poss
 
 
 nmod:poss
 
 obl
+34373	nmod:poss
+34381	nmod:poss
 
 
-
+nmod:poss
 
 obl
 
 
 
 
+obl
+
+
+
+
 
 nmod:poss
-34407 nsubj
-34419 obj
+34407	nsubj
+34419	obj
 
 
 obl
@@ -9297,8 +9297,8 @@ nmod:poss
 
 nsubj
 nmod:poss
-34448 nmod:poss
-34466 obj
+34448	nmod:poss
+34466	obj
 
 
 
@@ -9307,55 +9307,55 @@ nsubj
 
 
 obj
-34488 nmod:poss
+34488	nmod:poss
 
 
 
 
 nmod:poss
-34555 nmod:poss
-34577 obl
+34555	nmod:poss
+34577	obl
 
 
 
 obl
-34592 nmod:poss
-34612 nmod:poss
+34592	nmod:poss
+34612	nmod:poss
 
 obl
 
 
 obl
-34628 nmod:poss
-34648 obl
+34628	nmod:poss
+34648	obl
 
 
 
 nmod:poss
-34683 nmod:poss
-34701 obl
+34683	nmod:poss
+34701	obl
 
 
 
 
 obl
-34728 obl
-34751 nmod:poss
+34728	obl
+34751	nmod:poss
 
 
 
 nmod:poss
-34762 nmod:poss
-34773 root
-34784 obl
-34798 obj
-34826 obj
+34762	nmod:poss
+34773	root
+34784	obl
+34798	obj
+34826	obj
 obl
-34844 obj
+34844	obj
 
 
 obl
-34859 nmod:poss
+34859	nmod:poss
 
 nmod:poss
 
@@ -9371,7 +9371,7 @@ obl
 
 
 obl
-34884 obj
+34884	obj
 nmod:poss
 
 nmod:poss
@@ -9384,8 +9384,8 @@ nmod:poss
 
 
 obj
-34938 obl
-34954 obl
+34938	obl
+34954	obl
 
 
 
@@ -9395,7 +9395,7 @@ conj
 
 
 nsubj
-34973 obl
+34973	obl
 
 
 
@@ -9409,91 +9409,91 @@ nmod:poss
 
 
 obj
-35000 nmod:poss
-35038 conj
+35000	nmod:poss
+35038	conj
 
 
 
 
 obl
-35052 nmod:poss
+35052	nmod:poss
 
 obl
-35069 nmod:poss
-35081 nmod:poss
-35117 nmod:poss
-35145 nmod:poss
-35157 obl
-
-
-
-obl
-
-
-nmod:poss
-35206 nmod:poss
-35243 nmod:poss
-35255 obl
-
-
-nmod:poss
-35271 obl
-35286 obl
-nmod:poss
-
-
+35069	nmod:poss
+35081	nmod:poss
+35117	nmod:poss
+35145	nmod:poss
+35157	obl
 
 
 
 obl
-35310 nsubj
-
-
 
 
 nmod:poss
-35359 nmod:poss
-35380 nmod:poss
-35411 nmod:poss
-35423 nsubj
-
-nmod:poss
-
-nmod:poss
-35437 obj
-35447 obj
-
-
-
+35206	nmod:poss
+35243	nmod:poss
+35255	obl
 
 
 nmod:poss
-35460 nmod:poss
-
-
+35271	obl
+35286	obl
 nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-35498 obj
-35526 obl
-35562 obl
-35608 obj
-35625 nmod:poss
-35642 obl
-35651 obj
-
-
-obl
 
 
 
 
 
 obl
-35678 obl
+35310	nsubj
+
+
+
+
+nmod:poss
+35359	nmod:poss
+35380	nmod:poss
+35411	nmod:poss
+35423	nsubj
+
+nmod:poss
+
+nmod:poss
+35437	obj
+35447	obj
+
+
+
+
+
+nmod:poss
+35460	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+35498	obj
+35526	obl
+35562	obl
+35608	obj
+35625	nmod:poss
+35642	obl
+35651	obj
+
+
+obl
+
+
+
+
+
+obl
+35678	obl
 
 
 
@@ -9503,20 +9503,20 @@ obj
 
 
 obl
-35695 obl
-35702 obj
-35714 obl
-35728 nmod:poss
-35762 nmod:poss
-35771 obl
-35787 parataxis
-35814 obj
-35832 obj
-35853 nmod:poss
+35695	obl
+35702	obj
+35714	obl
+35728	nmod:poss
+35762	nmod:poss
+35771	obl
+35787	parataxis
+35814	obj
+35832	obj
+35853	nmod:poss
 
 
 obl
-35896 obl
+35896	obl
 
 
 
@@ -9530,7 +9530,7 @@ nmod:poss
 
 
 nmod:poss
-35922 obl
+35922	obl
 
 nsubj
 
@@ -9558,17 +9558,17 @@ nmod:poss
 
 
 obj
-35961 nmod:poss
-35968 obj
-35977 obl
+35961	nmod:poss
+35968	obj
+35977	obl
 
 
 nmod:poss
 
 obj
 obl
-35998 acl:relcl
-36015 obj
+35998	acl:relcl
+36015	obj
 
 
 
@@ -9581,14 +9581,14 @@ nmod:poss
 
 obj
 nmod:poss
-36035 obl
+36035	obl
 
 
 
 obj
-36052 obj
-36082 nmod:poss
-36089 nmod:poss
+36052	obj
+36082	nmod:poss
+36089	nmod:poss
 
 
 
@@ -9599,10 +9599,10 @@ nmod:poss
 
 
 obj
-36113 obj
-36129 nsubj
-36159 obl
-36171 obj
+36113	obj
+36129	nsubj
+36159	obl
+36171	obj
 
 
 
@@ -9610,20 +9610,20 @@ nmod:poss
 
 
 obl
-36195 nmod:poss
+36195	nmod:poss
 
 
 
 
 
 obj
-36211 obl
-36259 nmod:poss
-36276 obl
-36286 obl
-36294 nmod:poss
-36318 nmod:poss
-36332 obj
+36211	obl
+36259	nmod:poss
+36276	obl
+36286	obl
+36294	nmod:poss
+36318	nmod:poss
+36332	obj
 
 
 
@@ -9633,47 +9633,47 @@ nmod:poss
 nmod:poss
 
 obl
-36355 nmod:poss
-36379 obl
+36355	nmod:poss
+36379	obl
 
 
 obj
-36392 nmod:poss
+36392	nmod:poss
 
 nmod:poss
-36408 nmod:poss
+36408	nmod:poss
 
 
 
 
 obl
-36434 obj
-36443 obl
+36434	obj
+36443	obl
 
 obj
-36455 obl
+36455	obl
 
 
 
 
 
 obl
-36468 obl
+36468	obl
 
 
 
 
 nsubj
-36493 obl
-36506 obj
+36493	obl
+36506	obj
 
 
 
 
 
 obl
-36523 obl
-36534 nmod:poss
+36523	obl
+36534	nmod:poss
 
 
 
@@ -9683,15 +9683,15 @@ nmod:poss
 
 
 obj
-36557 nsubj
-36564 obl
-36572 nmod:poss
+36557	nsubj
+36564	obl
+36572	nmod:poss
 
 nmod:poss
 
 
 nmod:poss
-36585 nsubj
+36585	nsubj
 
 
 
@@ -9699,70 +9699,17 @@ nmod:poss
 
 
 nmod:poss
-36607 obl
-36614 nmod:poss
+36607	obl
+36614	nmod:poss
 
 
 
 obl
-36653 nmod:poss
-36696 obl
+36653	nmod:poss
+36696	obl
 
 
 nmod:poss
-
-
-nmod:poss
-
-
-
-
-
-obl
-
-
-
-nmod:poss
-
-nmod:poss
-36745 nmod:poss
-
-obj
-36760 obl
-36770 nmod:poss
-36781 nmod:poss
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-36801 nmod:poss
-
-
-
-
-obj
-36835 obl
-
-
-
-
-
-obl
-36858 obl
-
-
-nmod:poss
-
-
-nmod:poss
-36914 nmod:poss
-36940 nmod:poss
-
-
 
 
 nmod:poss
@@ -9777,6 +9724,59 @@ obl
 
 nmod:poss
 
+nmod:poss
+36745	nmod:poss
+
+obj
+36760	obl
+36770	nmod:poss
+36781	nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+36801	nmod:poss
+
+
+
+
+obj
+36835	obl
+
+
+
+
+
+obl
+36858	obl
+
+
+nmod:poss
+
+
+nmod:poss
+36914	nmod:poss
+36940	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+obl
+
+
+
+nmod:poss
+
 obj
 
 nmod:poss
@@ -9791,7 +9791,7 @@ nmod:poss
 
 
 nmod:poss
-36977 nmod:poss
+36977	nmod:poss
 
 
 
@@ -9810,14 +9810,14 @@ nmod:poss
 
 
 nmod:poss
-37002 nmod:poss
+37002	nmod:poss
 
 nmod:poss
 
 nmod:poss
 obj
-37014 nmod:poss
-37032 obj
+37014	nmod:poss
+37032	obj
 nmod:poss
 
 nmod:poss
@@ -9827,14 +9827,14 @@ nmod:poss
 
 nmod:poss
 obj
-37051 root
+37051	root
 
 
 
 
 
 parataxis
-37067 nmod:poss
+37067	nmod:poss
 obj
 
 
@@ -9849,16 +9849,16 @@ nmod:poss
 
 
 nmod:poss
-37095 obj
-37102 obl
+37095	obj
+37102	obl
 
 
 
 
 
 nmod:poss
-37115 nmod:poss
-37122 obj
+37115	nmod:poss
+37122	obj
 
 obj
 
@@ -9873,30 +9873,30 @@ nsubj
 
 
 nmod:poss
-37148 nmod:poss
+37148	nmod:poss
 
 
 nmod:poss
-37158 obl
-37185 nmod:poss
+37158	obl
+37185	nmod:poss
 
 
 
 
 
 obl
-37199 obl
-37209 nmod:poss
-37255 nmod:poss
-37272 obj
-37286 obl
+37199	obl
+37209	nmod:poss
+37255	nmod:poss
+37272	obj
+37286	obl
 
 
 
 
 
 obj
-37301 nmod:poss
+37301	nmod:poss
 
 
 
@@ -9911,19 +9911,19 @@ nmod:poss
 
 
 nmod:poss
-37325 obl
+37325	obl
 
 
 
 obj
-37377 nsubj
-37397 obl
+37377	nsubj
+37397	obl
 
 
 
 
 nsubj
-37410 nsubj
+37410	nsubj
 
 
 
@@ -9936,23 +9936,23 @@ nsubj
 
 
 obj
-37444 nsubj
+37444	nsubj
 
 obl
-37460 nmod:poss
+37460	nmod:poss
 
 obj
 
 
 
 nmod:poss
-37504 obj
-37516 nsubj
+37504	obj
+37516	nsubj
 
 nmod:poss
-37526 obl
-37533 obl
-37551 nmod:poss
+37526	obl
+37533	obl
+37551	nmod:poss
 
 
 
@@ -9963,13 +9963,13 @@ obl
 
 parataxis
 nmod:poss
-37583 nmod:poss
-37620 obl
-37639 nmod:poss
-37694 nmod:poss
-37705 obl
-37712 obl
-37722 obl
+37583	nmod:poss
+37620	obl
+37639	nmod:poss
+37694	nmod:poss
+37705	obl
+37712	obl
+37722	obl
 
 
 
@@ -9985,7 +9985,7 @@ nmod:poss
 
 
 nmod:poss
-37769 nmod:poss
+37769	nmod:poss
 
 
 
@@ -9995,30 +9995,30 @@ obl
 
 
 obl
-37789 obl
-37799 obl
+37789	obl
+37799	obl
 
 
 
 obj
-37813 nmod:poss
-37848 obl
-37874 obl
-37882 obj
-37897 obl
+37813	nmod:poss
+37848	obl
+37874	obl
+37882	obj
+37897	obl
 
 
 
 obj
-37913 obj
+37913	obj
 
 
 
 
 
 obj
-37929 obl
-37956 nmod:poss
+37929	obl
+37956	nmod:poss
 
 nmod:poss
 
@@ -10026,34 +10026,34 @@ nmod:poss
 
 
 obl
-37970 obl
-37980 nmod:poss
+37970	obl
+37980	nmod:poss
 
 
 
 
 nmod:poss
-38005 nmod:poss
-38014 nmod:poss
-38031 nmod
+38005	nmod:poss
+38014	nmod:poss
+38031	nmod
 
 
 
 nmod:poss
-38043 obj
+38043	obj
 
 
 
 
 nsubj
 obj
-38070 obj
-38077 nmod:poss
-38085 obj
-38103 nsubj
-38112 nsubj
-38134 nmod:poss
-38158 obl
+38070	obj
+38077	nmod:poss
+38085	obj
+38103	nsubj
+38112	nsubj
+38134	nmod:poss
+38158	obl
 
 
 
@@ -10064,7 +10064,7 @@ obl
 
 
 nmod:poss
-38191 obj
+38191	obj
 
 
 
@@ -10076,8 +10076,8 @@ nmod:poss
 
 
 nmod:poss
-38223 obj
-38236 obl
+38223	obj
+38236	obl
 
 
 
@@ -10098,39 +10098,39 @@ nsubj
 
 
 nmod:poss
-38270 obl
-38298 nsubj
-38307 nmod:poss
-38325 obl
-38344 nmod:poss
-38351 obl
-38372 nmod:poss
-38380 nmod:poss
-38393 nmod:poss
+38270	obl
+38298	nsubj
+38307	nmod:poss
+38325	obl
+38344	nmod:poss
+38351	obl
+38372	nmod:poss
+38380	nmod:poss
+38393	nmod:poss
 
 
 obl
-38403 nmod:poss
-38413 nmod:poss
-38426 nmod:poss
-38462 nmod:poss
+38403	nmod:poss
+38413	nmod:poss
+38426	nmod:poss
+38462	nmod:poss
 
 nmod:poss
-38497 nmod:poss
-38515 nmod:poss
+38497	nmod:poss
+38515	nmod:poss
 
 
 
 nmod:poss
-38539 nmod:poss
+38539	nmod:poss
 
 nmod:poss
 
 obj
-38553 nmod:poss
+38553	nmod:poss
 
 nmod:poss
-38573 obj
+38573	obj
 
 
 obl
@@ -10156,39 +10156,39 @@ obl
 
 
 nmod:poss
-38609 nmod:poss
-38628 obj
+38609	nmod:poss
+38628	obj
 
 
 
 
 obj
-38648 obj
-38659 obj
-38691 obl
-38772 nmod:poss
+38648	obj
+38659	obj
+38691	obl
+38772	nmod:poss
 
 
 
 
 
 obl
-38787 nmod:poss
+38787	nmod:poss
 
 
 obl
-38798 root
+38798	root
 
 
 obl
-38808 nmod:poss
-38817 nmod:poss
+38808	nmod:poss
+38817	nmod:poss
 
 
 
 
 obl
-38840 acl:relcl
+38840	acl:relcl
 
 
 obl
@@ -10208,31 +10208,31 @@ obj
 
 
 conj
-38879 obj
-38889 obl
+38879	obj
+38889	obl
 
 
 
 
 obl
-38918 obl
-38944 obl
-38956 obl
+38918	obl
+38944	obl
+38956	obl
 
 
 obl
-38968 obj
-38981 nmod:poss
-38990 nmod:poss
-39006 obj
-39048 nmod:poss
+38968	obj
+38981	nmod:poss
+38990	nmod:poss
+39006	obj
+39048	nmod:poss
 
 
 obl
 
 nmod:poss
-39102 obl
-39127 obj
+39102	obl
+39127	obj
 
 
 
@@ -10240,7 +10240,7 @@ nmod:poss
 
 obj
 obl
-39141 nmod:poss
+39141	nmod:poss
 
 
 
@@ -10248,44 +10248,44 @@ nmod:poss
 
 
 obl
-39155 advcl
-39162 obl
-39188 nmod:poss
-39196 obj
-39228 obl
-39239 nsubj
+39155	advcl
+39162	obl
+39188	nmod:poss
+39196	obj
+39228	obl
+39239	nsubj
 obl
 
 
 obl
-39266 obj
-39273 nmod:poss
-39307 obl
-39315 nmod:poss
-39326 obl
-39365 nmod:poss
-39439 nmod:poss
+39266	obj
+39273	nmod:poss
+39307	obl
+39315	nmod:poss
+39326	obl
+39365	nmod:poss
+39439	nmod:poss
 
 
 
 
 obl
-39451 nmod:poss
-39476 obj
-39519 obl
-39532 obl
-39551 obl
-39559 obj
+39451	nmod:poss
+39476	obj
+39519	obl
+39532	obl
+39551	obl
+39559	obj
 
 
 obl
-39571 nmod
-39586 obl
-39595 obl
-39609 nmod:poss
+39571	nmod
+39586	obl
+39595	obl
+39609	nmod:poss
 
 obj
-39620 root
+39620	root
 
 
 
@@ -10293,127 +10293,127 @@ nmod:poss
 
 
 obl
-39657 obl
+39657	obl
 
-
-obj
-
-
-
-nmod:poss
-39678 nmod:poss
-39685 nmod:poss
-
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-39707 nmod:poss
-39717 obj
-39724 nmod:poss
-39732 nmod:poss
-39739 nmod:poss
-
-nmod:poss
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-39771 acl:relcl
-39788 obj
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-
-obl
-39815 nmod:poss
-
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-
-
-
-nmod:poss
-39877 obl
-
-
-
-
-
-obl
-39900 obj
-39908 nmod:poss
-
-nmod:poss
-39947 obl
-
-
-obl
-39958 obl
-
-
-
-obl
-
-
-obl
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-39983 nmod:poss
-
-obl
 
 obj
 
 
 
+nmod:poss
+39678	nmod:poss
+39685	nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+39707	nmod:poss
+39717	obj
+39724	nmod:poss
+39732	nmod:poss
+39739	nmod:poss
+
+nmod:poss
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+39771	acl:relcl
+39788	obj
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+obl
+39815	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+nmod:poss
+39877	obl
+
+
+
+
+
+obl
+39900	obj
+39908	nmod:poss
+
+nmod:poss
+39947	obl
+
+
+obl
+39958	obl
+
+
+
+obl
+
+
+obl
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+39983	nmod:poss
+
+obl
+
+obj
+
+
+
 
 
 obl
@@ -10427,18 +10427,18 @@ nmod:poss
 obl
 
 obj
-40010 nmod:poss
+40010	nmod:poss
 
 
 
 nmod:poss
 obl
-40023 nmod:poss
-40042 nmod:poss
+40023	nmod:poss
+40042	nmod:poss
 
 
 nmod:poss
-40053 nmod:poss
+40053	nmod:poss
 obl
 
 nmod:poss
@@ -10448,7 +10448,7 @@ obl
 
 
 obl
-40069 nmod:poss
+40069	nmod:poss
 
 
 nmod:poss
@@ -10457,24 +10457,10 @@ nmod:poss
 
 
 nmod:poss
-40086 nmod:poss
+40086	nmod:poss
 
 nmod:poss
 
-
-nmod:poss
-
-
-
-
-obj
-nmod:poss
-
-
-
-
-obj
-40112 nmod:poss
 
 nmod:poss
 
@@ -10482,14 +10468,28 @@ nmod:poss
 
 
 obj
-40127 nmod:poss
-40140 nmod:poss
+nmod:poss
+
+
+
+
+obj
+40112	nmod:poss
+
+nmod:poss
+
+
+
+
+obj
+40127	nmod:poss
+40140	nmod:poss
 
 obl
 obj
 
 obj
-40152 obj
+40152	obj
 
 nsubj
 obl
@@ -10512,12 +10512,12 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-40183 obl
-40204 nmod:poss
+40183	obl
+40204	nmod:poss
 
 
 obl
-40217 nmod:poss
+40217	nmod:poss
 
 obj
 
@@ -10533,7 +10533,7 @@ obj
 nmod:poss
 
 nmod:poss
-40239 obj
+40239	obj
 
 
 
@@ -10545,23 +10545,23 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-40261 nmod:poss
-40282 nmod:poss
+40261	nmod:poss
+40282	nmod:poss
 
 
 
 
 
 nmod:poss
-40298 nmod:poss
+40298	nmod:poss
 
 
 nmod:poss
-40308 nmod:poss
-40320 nmod:poss
-40332 nmod:poss
-40342 obl
-40386 nmod:poss
+40308	nmod:poss
+40320	nmod:poss
+40332	nmod:poss
+40342	obl
+40386	nmod:poss
 
 
 
@@ -10588,44 +10588,44 @@ nmod:poss
 obj
 
 nmod:poss
-40432 nmod:poss
-40449 nmod:poss
+40432	nmod:poss
+40449	nmod:poss
 
 
 obj
-40463 nmod:poss
-
-
-
-
-obl
-
-
-
-nmod:poss
+40463	nmod:poss
 
 
 
 
 obl
-40490 obl
-40503 nmod:poss
-40520 obj
-40534 nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+obl
+40490	obl
+40503	nmod:poss
+40520	obj
+40534	nmod:poss
 
 
 
 
 conj
-40547 nmod:poss
-40560 nmod:poss
-40578 obj
+40547	nmod:poss
+40560	nmod:poss
+40578	obj
 nmod:poss
-40590 conj
-40598 obj
+40590	conj
+40598	obj
 
 obj
-40625 obl
+40625	obl
 
 
 
@@ -10648,35 +10648,35 @@ nmod:poss
 
 
 nmod:poss
-40668 nmod:poss
-40675 nmod:poss
+40668	nmod:poss
+40675	nmod:poss
 
 
 nmod:poss
-40706 nmod:poss
-40740 nmod:poss
+40706	nmod:poss
+40740	nmod:poss
 
 
 nmod:poss
-40769 nmod:poss
-40776 nmod:poss
+40769	nmod:poss
+40776	nmod:poss
 
-
-
-
-nmod:poss
-40804 root
 
 
 
 nmod:poss
+40804	root
+
 
 
 nmod:poss
 
 
 nmod:poss
-40823 obl
+
+
+nmod:poss
+40823	obl
 
 
 nmod:poss
@@ -10684,7 +10684,7 @@ nmod:poss
 
 
 obj
-40842 nmod:poss
+40842	nmod:poss
 
 
 
@@ -10697,8 +10697,8 @@ obl
 
 nmod:poss
 advcl
-40862 nmod:poss
-40873 obl
+40862	nmod:poss
+40873	obl
 
 obj
 obl
@@ -10711,9 +10711,9 @@ nmod:poss
 
 obj
 obl
-40910 nmod:poss
-40917 obj
-40933 obj
+40910	nmod:poss
+40917	obj
+40933	obj
 
 
 
@@ -10776,8 +10776,8 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-41003 obl
-41015 nmod:poss
+41003	obl
+41015	nmod:poss
 
 
 nmod:poss
@@ -10812,9 +10812,9 @@ obl
 
 
 obl
-41062 obj
-41069 nmod:poss
-41098 nmod:poss
+41062	obj
+41069	nmod:poss
+41098	nmod:poss
 
 
 
@@ -10846,7 +10846,7 @@ obl
 nmod:poss
 
 nmod:poss
-41179 nmod:poss
+41179	nmod:poss
 
 
 
@@ -10863,35 +10863,35 @@ obj
 nmod:poss
 
 nmod:poss
-41203 nmod:poss
+41203	nmod:poss
 
 nmod:poss
 
 
 
 nmod:poss
-41219 nmod:poss
+41219	nmod:poss
 
 nmod:poss
 
 
 
 nmod:poss
-41234 obl
-41245 nmod:poss
+41234	obl
+41245	nmod:poss
 
 
 
 obl
-41264 obj
-41271 obl
-41278 nmod:poss
-41285 nmod:poss
-41300 nsubj
+41264	obj
+41271	obl
+41278	nmod:poss
+41285	nmod:poss
+41300	nsubj
 
 nmod:poss
-41313 nmod:poss
-41324 nmod:poss
+41313	nmod:poss
+41324	nmod:poss
 
 
 
@@ -10926,118 +10926,9 @@ obj
 
 
 obj
-41366 nmod:poss
+41366	nmod:poss
 
 
-
-nmod:poss
-
-
-obl
-
-
-
-
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-41397 nmod:poss
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-obj
-41427 obj
-
-
-
-nmod:poss
-
-
-obj
-
-
-
-
-nmod:poss
-
-
-obj
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-41470 nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-
-
-nmod:poss
-41488 obl
-
-
-
-
-nmod:poss
-obl
-41502 nmod:poss
-41517 nmod:poss
-
-obj
-
-nmod:poss
-41532 obl
-
-
-
-
-
-obj
-
-nmod:poss
-41552 nmod:poss
-41569 nmod:poss
-
-
-
-
-
-obj
 
 nmod:poss
 
@@ -11045,6 +10936,115 @@ nmod:poss
 obl
 
 
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+41397	nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+obj
+41427	obj
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+41470	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+41488	obl
+
+
+
+
+nmod:poss
+obl
+41502	nmod:poss
+41517	nmod:poss
+
+obj
+
+nmod:poss
+41532	obl
+
+
+
+
+
+obj
+
+nmod:poss
+41552	nmod:poss
+41569	nmod:poss
+
+
+
+
+
+obj
+
+nmod:poss
+
+
+obl
+
+
 nmod:poss
 
 
@@ -11062,21 +11062,21 @@ nmod:poss
 
 
 obl
-41628 nmod:poss
-41640 obl
-41776 obl
-41803 nmod:poss
-41823 nmod:poss
-41839 obl
-41847 obl
-41861 obj
+41628	nmod:poss
+41640	obl
+41776	obl
+41803	nmod:poss
+41823	nmod:poss
+41839	obl
+41847	obl
+41861	obj
 
 
 
 
 
 obj
-41881 obl
+41881	obl
 
 
 
@@ -11094,15 +11094,15 @@ conj
 
 
 obl
-41920 obj
-41989 obl
-41996 obj
+41920	obj
+41989	obl
+41996	obj
 nmod:poss
 
 
 nmod:poss
-42008 obl
-42063 obl
+42008	obl
+42063	obl
 
 
 
@@ -11114,8 +11114,8 @@ nmod:poss
 
 
 obj
-42083 nmod:poss
-42095 nmod:poss
+42083	nmod:poss
+42095	nmod:poss
 
 
 
@@ -11129,7 +11129,7 @@ nmod:poss
 
 
 obj
-42116 obj
+42116	obj
 
 
 obl
@@ -11139,26 +11139,26 @@ obl
 
 
 obl
-42133 nmod:poss
+42133	nmod:poss
 
 
 
 
 nmod:poss
-42145 nmod:poss
-42155 obj
-42174 obl
-42184 obl
-42195 obl
-42204 nmod:poss
+42145	nmod:poss
+42155	obj
+42174	obl
+42184	obl
+42195	obl
+42204	nmod:poss
 
 
 
 
 nmod:poss
-42217 obj
-42247 nmod:poss
-42258 nmod:poss
+42217	obj
+42247	nmod:poss
+42258	nmod:poss
 
 
 
@@ -11167,7 +11167,7 @@ nmod:poss
 
 
 nmod:poss
-42295 obl
+42295	obl
 
 
 obl
@@ -11175,8 +11175,8 @@ obl
 
 
 obl
-42321 obj
-42331 nmod:poss
+42321	obj
+42331	nmod:poss
 
 
 nmod:poss
@@ -11199,13 +11199,13 @@ obl
 
 
 obl
-42362 nmod:poss
+42362	nmod:poss
 
 
 
 obl
-42382 nmod:poss
-42408 obj
+42382	nmod:poss
+42408	obj
 
 
 
@@ -11229,8 +11229,8 @@ obl
 
 
 obj
-42440 nmod:poss
-42451 nmod:poss
+42440	nmod:poss
+42451	nmod:poss
 
 nmod:poss
 nmod:poss
@@ -11238,26 +11238,26 @@ nmod:poss
 
 nmod:poss
 parataxis
-42465 nmod:poss
+42465	nmod:poss
 
 
 
 
 nmod:poss
-42478 nmod:poss
-42521 nmod:poss
+42478	nmod:poss
+42521	nmod:poss
 
 nmod:poss
-42530 nmod
-42537 nmod
-42544 nmod
-42554 nmod:poss
+42530	nmod
+42537	nmod
+42544	nmod
+42554	nmod:poss
 
 nmod:poss
 obl
 
 nmod:poss
-42567 nmod:poss
+42567	nmod:poss
 
 
 
@@ -11272,39 +11272,39 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-42588 obj
-42600 nmod:poss
-42627 obj
-42662 nmod:poss
-42669 nmod:poss
-42726 nmod:poss
-42739 nmod:poss
-42761 obj
-42909 obj
-42963 nmod:poss
-43003 nmod:poss
-43014 nmod:poss
-43029 nmod:poss
-43077 nmod:poss
-43086 parataxis
-43097 nmod:poss
-43176 nmod:poss
-43195 nmod:poss
-43216 obj
+42588	obj
+42600	nmod:poss
+42627	obj
+42662	nmod:poss
+42669	nmod:poss
+42726	nmod:poss
+42739	nmod:poss
+42761	obj
+42909	obj
+42963	nmod:poss
+43003	nmod:poss
+43014	nmod:poss
+43029	nmod:poss
+43077	nmod:poss
+43086	parataxis
+43097	nmod:poss
+43176	nmod:poss
+43195	nmod:poss
+43216	obj
 
 
 
 obj
-43227 nmod:poss
-43257 obl
-43336 obj
+43227	nmod:poss
+43257	obl
+43336	obj
 
 nmod:poss
 
 
 
 obl
-43367 nmod:poss
+43367	nmod:poss
 
 
 nmod:poss
@@ -11339,67 +11339,67 @@ nmod:poss
 
 
 obl
-43416 nmod:poss
+43416	nmod:poss
 
 
 obj
-43446 obj
+43446	obj
 
 
 
 
 nmod:poss
-43466 obj
-
-
-
-obj
+43466	obj
 
 
 
 obj
-43507 nmod:poss
+
+
+
+obj
+43507	nmod:poss
 
 
 nmod:poss
-43517 nmod:poss
-43531 nmod:poss
+43517	nmod:poss
+43531	nmod:poss
 
 
 nmod:poss
-43541 nmod:poss
-43553 nmod:poss
+43541	nmod:poss
+43553	nmod:poss
 
 
 nmod:poss
-43576 nmod:poss
+43576	nmod:poss
 
 
 nmod:poss
-43590 nmod:poss
+43590	nmod:poss
 
 
 nmod:poss
-43614 nmod:poss
+43614	nmod:poss
 
 
 nmod:poss
-43626 nmod:poss
+43626	nmod:poss
 
 
 nmod:poss
-43650 nmod:poss
-43659 nmod:poss
+43650	nmod:poss
+43659	nmod:poss
 
 
 nmod:poss
-43677 obl
-43702 obj
+43677	obl
+43702	obj
 
 
 nmod:poss
-43716 nmod:poss
-43724 obl
+43716	nmod:poss
+43724	obl
 
 
 nmod:poss
@@ -11414,20 +11414,20 @@ nmod
 
 nsubj
 obl
-43754 nmod:poss
-43768 obj
-43777 obj
+43754	nmod:poss
+43768	obj
+43777	obj
 
 nsubj
 obl
-43804 nmod:poss
+43804	nmod:poss
 
 
 nmod:poss
 
 nsubj
 obl
-43854 root
+43854	root
 
 
 nmod:poss
@@ -11441,25 +11441,25 @@ acl:relcl
 
 nmod:poss
 obl
-43887 obl
+43887	obl
 
 
 
 
 
 nmod:poss
-43912 nmod:poss
-43931 obj
-43951 nmod:poss
+43912	nmod:poss
+43931	obj
+43951	nmod:poss
 
 
 
 
 
 nmod:poss
-43971 obj
-43992 obj
-44004 obj
+43971	obj
+43992	obj
+44004	obj
 
 
 
@@ -11471,55 +11471,55 @@ nmod:poss
 
 
 obl
-44062 nmod:poss
-44074 nmod:poss
+44062	nmod:poss
+44074	nmod:poss
 
 
 
 
 nmod:poss
-44150 nmod:poss
-44158 obj
-44165 nmod:poss
-44179 obj
-44190 nmod:poss
+44150	nmod:poss
+44158	obj
+44165	nmod:poss
+44179	obj
+44190	nmod:poss
 
 
 nmod:poss
-44206 nmod:poss
-44241 nmod:poss
+44206	nmod:poss
+44241	nmod:poss
 
 nsubj
-44272 nsubj
-44284 nmod:poss
-44300 nmod:poss
+44272	nsubj
+44284	nmod:poss
+44300	nmod:poss
 
 nmod:poss
 
 
 
 nmod:poss
-44314 obl
+44314	obl
 
 
 
 
 
 nmod:poss
-44329 nmod:poss
+44329	nmod:poss
 
 
 
 
 
 nmod:poss
-44358 nmod:poss
+44358	nmod:poss
 
 nsubj
-44369 nsubj
-44380 obl
-44388 obj
-44422 nmod:poss
+44369	nsubj
+44380	obl
+44388	obj
+44422	nmod:poss
 
 
 
@@ -11528,13 +11528,13 @@ nmod:poss
 
 
 nmod
-44456 obl
+44456	obl
 
 
 
 
 obl
-44469 xcomp
+44469	xcomp
 
 
 nmod:poss
@@ -11558,7 +11558,7 @@ obl
 
 
 obl
-44511 nmod:poss
+44511	nmod:poss
 
 nsubj
 
@@ -11567,19 +11567,19 @@ nsubj
 
 
 nsubj
-44536 obl
+44536	obl
 
 
 nmod:poss
 nmod
-44547 obl
+44547	obl
 
 
 obj
 
 
 obl
-44583 obj
+44583	obj
 
 
 obj
@@ -11589,11 +11589,11 @@ obj
 
 
 obj
-44610 nmod:poss
-44618 obj
-44649 obl
-44659 nmod:poss
-44678 nmod:poss
+44610	nmod:poss
+44618	obj
+44649	obl
+44659	nmod:poss
+44678	nmod:poss
 
 
 obj
@@ -11618,85 +11618,85 @@ obl
 
 
 conj
-44713 nmod:poss
-44727 nmod:poss
+44713	nmod:poss
+44727	nmod:poss
 
 nmod:poss
-44758 nmod:poss
-44797 acl:relcl
-44809 nmod:poss
-
-
-nmod:poss
-44835 nmod:poss
-
-nmod:poss
-44850 nmod:poss
-44863 nmod:poss
+44758	nmod:poss
+44797	acl:relcl
+44809	nmod:poss
 
 
 nmod:poss
+44835	nmod:poss
 
 nmod:poss
-
+44850	nmod:poss
+44863	nmod:poss
 
 
 nmod:poss
 
-
 nmod:poss
-44905 nmod:poss
-
-nmod:poss
-44920 nmod:poss
-44931 nmod:poss
-
-
 
 
 
 nmod:poss
 
 
-
-
+nmod:poss
+44905	nmod:poss
 
 nmod:poss
-44975 nmod:poss
+44920	nmod:poss
+44931	nmod:poss
 
-
-nmod:poss
-
-
-
-nmod:poss
-nmod
 
 
 
 
 nmod:poss
 
+
+
+
+
 nmod:poss
+44975	nmod:poss
+
+
+nmod:poss
+
 
 
 nmod:poss
 nmod
-45029 acl:relcl
-45069 nmod:poss
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+nmod
+45029	acl:relcl
+45069	nmod:poss
 
 
 obj
-45079 obj
+45079	obj
 
 nmod:poss
-45113 obj
-45120 obl
-45151 nmod:poss
-45158 nmod:poss
-45178 nmod:poss
+45113	obj
+45120	obl
+45151	nmod:poss
+45158	nmod:poss
+45178	nmod:poss
 nmod:poss
-45191 nmod:poss
+45191	nmod:poss
 nmod
 
 
@@ -11715,9 +11715,9 @@ obj
 nmod:poss
 
 nmod:poss
-45229 nmod:poss
-45237 nmod:poss
-45255 obj
+45229	nmod:poss
+45237	nmod:poss
+45255	obj
 
 
 obl
@@ -11728,7 +11728,7 @@ nmod:poss
 
 
 obj
-45306 nmod:poss
+45306	nmod:poss
 
 
 
@@ -11739,31 +11739,31 @@ obj
 
 
 nmod:poss
-45333 nsubj
+45333	nsubj
 obl
 
 
 obj
 
 obj
-45348 obj
-45433 nmod:poss
+45348	obj
+45433	nmod:poss
 
 obl
-45445 nmod:poss
-45454 obl
-
-
-
-obl
-45469 nmod:poss
-45484 nmod:poss
+45445	nmod:poss
+45454	obl
 
 
 
 obl
-45497 obl
-45505 nmod:poss
+45469	nmod:poss
+45484	nmod:poss
+
+
+
+obl
+45497	obl
+45505	nmod:poss
 
 
 obj
@@ -11777,7 +11777,7 @@ nmod:poss
 
 
 nmod:poss
-45527 obj
+45527	obj
 
 nmod:poss
 
@@ -11807,7 +11807,7 @@ nmod:poss
 
 
 obl
-45565 obl
+45565	obl
 
 
 
@@ -11819,37 +11819,37 @@ nmod:poss
 
 
 nmod:poss
-45585 obj
-45597 obj
+45585	obj
+45597	obj
 
 
 
 obj
-45621 obl
+45621	obl
 
 
 
 obl
-45636 nsubj
+45636	nsubj
 
 
 
 obj
-45651 obj
-45658 nmod:poss
+45651	obj
+45658	nmod:poss
 
 
 obl
-45672 obl
+45672	obl
 
 
 
 
 nmod:poss
-45692 obl
+45692	obl
 
 nmod:poss
-45714 nmod:poss
+45714	nmod:poss
 
 
 
@@ -11868,17 +11868,17 @@ conj
 
 
 obj
-45794 nmod:poss
-45807 obj
-45825 nmod:poss
-45838 nmod:poss
+45794	nmod:poss
+45807	obj
+45825	nmod:poss
+45838	nmod:poss
 
 
 
 
 
 obj
-45860 nmod:poss
+45860	nmod:poss
 obl
 
 nmod:poss
@@ -11887,8 +11887,8 @@ nmod:poss
 nmod:poss
 
 nsubj
-45879 nsubj
-45892 nmod:poss
+45879	nsubj
+45892	nmod:poss
 
 nmod:poss
 
@@ -11905,19 +11905,19 @@ obl
 nmod:poss
 
 nmod:poss
-45919 obl
-45929 nmod:poss
-45953 obj
-45967 obl
-45983 nmod:poss
-45990 nmod:poss
-46004 nmod:poss
-46011 nmod:poss
+45919	obl
+45929	nmod:poss
+45953	obj
+45967	obl
+45983	nmod:poss
+45990	nmod:poss
+46004	nmod:poss
+46011	nmod:poss
 
 
 obj
-46022 obl
-46029 nmod:poss
+46022	obl
+46029	nmod:poss
 
 
 
@@ -11925,10 +11925,10 @@ obj
 
 
 obl
-46049 obl
+46049	obl
 
 nmod:poss
-46059 nmod:poss
+46059	nmod:poss
 
 
 obl
@@ -11947,54 +11947,54 @@ obl
 obl
 
 
-
-
-
-nmod:poss
-46088 obl
-46105 obj
-46115 obl
-
-
-
-obl
-46129 obl
-
-
-
-
-obl
-46141 nmod:poss
-
-
-obl
-
-
-obl
-
-
-
-
-
-obl
-
-
-obl
 
 
 
 nmod:poss
-46182 obj
-46232 obl
-46253 obj
-46269 acl:relcl
-46282 nmod:poss
-46292 nmod:poss
-46306 nmod:poss
-46313 nmod:poss
-46331 nmod:poss
-46350 obj
-46369 nmod:poss
+46088	obl
+46105	obj
+46115	obl
+
+
+
+obl
+46129	obl
+
+
+
+
+obl
+46141	nmod:poss
+
+
+obl
+
+
+obl
+
+
+
+
+
+obl
+
+
+obl
+
+
+
+nmod:poss
+46182	obj
+46232	obl
+46253	obj
+46269	acl:relcl
+46282	nmod:poss
+46292	nmod:poss
+46306	nmod:poss
+46313	nmod:poss
+46331	nmod:poss
+46350	obj
+46369	nmod:poss
 
 
 
@@ -12010,19 +12010,19 @@ nmod:poss
 
 
 obj
-46393 obl
+46393	obl
 obj
-46401 obl
-46411 nmod:poss
-46450 nmod:poss
+46401	obl
+46411	nmod:poss
+46450	nmod:poss
 
 
 obl
-46488 nsubj
+46488	nsubj
 
 
 obl
-46525 obl
+46525	obl
 
 
 obl
@@ -12031,77 +12031,25 @@ obl
 
 
 nmod:poss
-46540 obj
-46548 ccomp
+46540	obj
+46548	ccomp
 
 
 obl
-46560 nmod:poss
+46560	nmod:poss
 nmod:poss
 
 nmod:poss
 
 
 obl
-46578 nmod:poss
-46586 nmod:poss
-
-
-obj
-
-
+46578	nmod:poss
+46586	nmod:poss
 
 
 obj
 
 
-
-
-
-nmod:poss
-
-
-obj
-46614 nmod:poss
-46655 nmod:poss
-46667 obj
-
-obl
-
-
-
-
-obl
-
-
-obl
-
-
-
-nmod:poss
-
-
-obj
-46708 obl
-
-
-nmod:poss
-obl
-
-obj
-
-
-obj
-46727 nmod:poss
-
-
-
-
-
-nmod:poss
-
-nmod:poss
-46755 obj
 
 
 obj
@@ -12110,107 +12058,159 @@ obj
 
 
 
-obj
-46773 nmod:poss
-46780 nmod:poss
-46789 nmod:poss
-
-
-obl
-obl
-
-
-obl
-
-
 nmod:poss
-46814 nmod:poss
-46830 nmod:poss
-46845 nmod:poss
-
-
-
-
-nmod:poss
-46882 nmod:poss
-46929 nmod:poss
-
-
-
 
 
 obj
-46974 obl
-46981 obl
-46990 nmod:poss
-47002 obl
+46614	nmod:poss
+46655	nmod:poss
+46667	obj
 
 obl
 
+
+
+
+obl
+
+
+obl
 
 
 
 nmod:poss
-47016 obj
-47024 ccomp
 
-
-obl
-47034 obl
 
 obj
-47056 obj
-
-
+46708	obl
 
 
 nmod:poss
-47074 parataxis
-
-
 obl
 
+obj
 
 
+obj
+46727	nmod:poss
 
 
-obl
-47091 nmod:poss
-
-nmod:poss
-47108 nmod:poss
 
 
 
 nmod:poss
 
-
-
 nmod:poss
-47142 nmod:poss
-47150 nmod:poss
-
-
-nmod:poss
-
-
-
-obl
-47183 nmod:poss
-47201 obl
-47208 nmod:poss
-
+46755	obj
 
 
 obj
 
 
+
+
+
+obj
+46773	nmod:poss
+46780	nmod:poss
+46789	nmod:poss
+
+
+obl
+obl
+
+
+obl
+
+
 nmod:poss
-47226 obl
+46814	nmod:poss
+46830	nmod:poss
+46845	nmod:poss
+
+
+
+
+nmod:poss
+46882	nmod:poss
+46929	nmod:poss
+
+
+
+
+
+obj
+46974	obl
+46981	obl
+46990	nmod:poss
+47002	obl
+
+obl
+
+
+
+
+nmod:poss
+47016	obj
+47024	ccomp
+
+
+obl
+47034	obl
+
+obj
+47056	obj
+
+
+
+
+nmod:poss
+47074	parataxis
+
+
+obl
+
+
+
+
+
+obl
+47091	nmod:poss
+
+nmod:poss
+47108	nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+47142	nmod:poss
+47150	nmod:poss
+
+
+nmod:poss
+
+
+
+obl
+47183	nmod:poss
+47201	obl
+47208	nmod:poss
+
+
+
+obj
+
+
+nmod:poss
+47226	obl
 obj
 
 nmod:poss
-47240 obl
+47240	obl
 
 nmod:poss
 
@@ -12224,17 +12224,17 @@ nsubj
 
 obl
 nmod:poss
-47302 nmod:poss
+47302	nmod:poss
 obj
 
 
 
 nmod:poss
-47337 nmod:poss
-47344 obj
-47365 nmod:poss
+47337	nmod:poss
+47344	obj
+47365	nmod:poss
 orphan
-47384 nmod:poss
+47384	nmod:poss
 
 obj
 
@@ -12254,20 +12254,20 @@ obl
 
 
 nmod:poss
-47415 obl
-47427 obl
-47461 nmod:poss
+47415	obl
+47427	obl
+47461	nmod:poss
 
 
 
 
 
 nsubj
-47512 nmod:poss
-47526 nmod:poss
-47533 nmod:poss
-47552 obl
-47562 obl
+47512	nmod:poss
+47526	nmod:poss
+47533	nmod:poss
+47552	obl
+47562	obl
 
 
 
@@ -12276,8 +12276,8 @@ obl
 
 
 obj
-47578 nmod:poss
-47586 nmod:poss
+47578	nmod:poss
+47586	nmod:poss
 obj
 
 
@@ -12293,7 +12293,7 @@ nmod:poss
 
 
 nmod:poss
-47608 nmod:poss
+47608	nmod:poss
 
 
 
@@ -12307,7 +12307,7 @@ nmod:poss
 
 
 obj
-47633 nmod:poss
+47633	nmod:poss
 
 
 nmod:poss
@@ -12321,7 +12321,7 @@ obl
 
 
 nmod:poss
-47674 nmod:poss
+47674	nmod:poss
 
 obj
 
@@ -12340,16 +12340,16 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-47699 nmod:poss
-47717 nmod:poss
+47699	nmod:poss
+47717	nmod:poss
 
 
 obj
-47730 ccomp
-47740 nmod:poss
+47730	ccomp
+47740	nmod:poss
 
 obj
-47749 nmod:poss
+47749	nmod:poss
 obl
 
 nsubj
@@ -12363,32 +12363,32 @@ nmod:poss
 nmod:poss
 
 nmod:poss
-47771 obl
-47811 obl
-47821 obl
-47868 obj
+47771	obl
+47811	obl
+47821	obl
+47868	obj
 
 
 
 nmod:poss
-47884 obl
-47895 nmod:poss
-47955 nmod:poss
+47884	obl
+47895	nmod:poss
+47955	nmod:poss
 
 
 
 
 
 nmod:poss
-47970 nmod:poss
+47970	nmod:poss
 
 
 nmod:poss
 
 obj
-47984 nmod:poss
-48007 nmod:poss
-48017 obl
+47984	nmod:poss
+48007	nmod:poss
+48017	obl
 
 obl
 
@@ -12401,8 +12401,8 @@ nsubj
 
 
 nmod:poss
-48049 obl
-48060 obl
+48049	obl
+48060	obl
 
 
 
@@ -12420,8 +12420,8 @@ nmod:poss
 
 
 nmod:poss
-48088 nmod:poss
-48102 nmod:poss
+48088	nmod:poss
+48102	nmod:poss
 
 
 
@@ -12455,12 +12455,12 @@ nmod:poss
 
 
 obl
-48146 obj
-48163 root
+48146	obj
+48163	root
 
 
 nmod:poss
-48183 obj
+48183	obj
 
 
 nmod:poss
@@ -12469,9 +12469,9 @@ nmod:poss
 
 
 nmod:poss
-48215 obl
-48233 nmod:poss
-48245 nmod:poss
+48215	obl
+48233	nmod:poss
+48245	nmod:poss
 
 
 
@@ -12490,8 +12490,8 @@ nsubj
 
 
 nmod:poss
-48274 nmod:poss
-48287 nmod:poss
+48274	nmod:poss
+48287	nmod:poss
 
 
 
@@ -12502,14 +12502,14 @@ nmod:poss
 
 
 nmod:poss
-48304 obl
-48318 obl
-48369 nsubj
-48380 nmod:poss
+48304	obl
+48318	obl
+48369	nsubj
+48380	nmod:poss
 
 nsubj
 obl
-48397 nmod:poss
+48397	nmod:poss
 
 
 
@@ -12522,38 +12522,38 @@ obl
 
 
 obl
-48421 obl
-48430 obj
+48421	obl
+48430	obj
 
 
 
 
 
 obl
-48445 obl
+48445	obl
 
 
 
 nmod:poss
-48460 obl
+48460	obl
 
 
 
 
 
 nsubj
-48496 nmod:poss
+48496	nmod:poss
 
 nsubj
 
 
 obl
-48512 obl
-48521 obj
-48533 conj
-48542 obl
-48550 nmod:poss
-48575 obl
+48512	obl
+48521	obj
+48533	conj
+48542	obl
+48550	nmod:poss
+48575	obl
 
 
 
@@ -12561,8 +12561,8 @@ obl
 
 nmod:poss
 obj
-48645 nmod
-48658 nmod:poss
+48645	nmod
+48658	nmod:poss
 
 
 nmod:poss
@@ -12584,25 +12584,19 @@ nmod:poss
 
 
 nmod:poss
-48693 nmod:poss
+48693	nmod:poss
 
 
 
 nmod:poss
-48710 nmod:poss
+48710	nmod:poss
 
 
 nmod:poss
-48726 nmod:poss
-48756 acl:relcl
+48726	nmod:poss
+48756	acl:relcl
 
 nmod:poss
-
-
-
-nmod:poss
-
-
 
 
 
@@ -12615,10 +12609,16 @@ nmod:poss
 nmod:poss
 
 
+
+
+
 nmod:poss
-48795 nmod:poss
-48816 nmod:poss
-48834 obj
+
+
+nmod:poss
+48795	nmod:poss
+48816	nmod:poss
+48834	obj
 nmod:poss
 
 
@@ -12626,86 +12626,42 @@ nmod:poss
 
 nmod:poss
 obj
-48853 nmod:poss
-48894 obl
-48927 obl
-48942 nmod:poss
-48968 nmod:poss
+48853	nmod:poss
+48894	obl
+48927	obl
+48942	nmod:poss
+48968	nmod:poss
 obj
-49022 nmod:poss
+49022	nmod:poss
 obj
-49065 obj
-49117 nmod:poss
-49127 obj
-49214 nmod:poss
+49065	obj
+49117	nmod:poss
+49127	obj
+49214	nmod:poss
 
 
 obj
 nmod:poss
-49226 obj
-49248 obj
+49226	obj
+49248	obj
 
 
 
 obl
-49276 nmod:poss
-49303 obj
-49336 nmod:poss
-49343 obj
-49373 obj
-49507 obj
-49677 nmod:poss
-49688 nmod:poss
-49704 nmod:poss
-49752 nmod:poss
-49761 obl
-49771 nmod:poss
-49846 nmod:poss
-49876 obj
-
-
-
-obl
-
-
-
-
-obj
-
-nmod:poss
-
-
-
-obl
-49915 nmod:poss
-
-
-
-nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-
-
-nmod:poss
-49941 nmod:poss
-
-
-
-
-nmod:poss
-
-
-
-
-nmod:poss
-
-obj
-49963 obl
-
-
+49276	nmod:poss
+49303	obj
+49336	nmod:poss
+49343	obj
+49373	obj
+49507	obj
+49677	nmod:poss
+49688	nmod:poss
+49704	nmod:poss
+49752	nmod:poss
+49761	obl
+49771	nmod:poss
+49846	nmod:poss
+49876	obj
 
 
 
@@ -12714,25 +12670,14 @@ obl
 
 
 
+obj
 
 nmod:poss
 
 
 
-
-nmod:poss
-49987 nmod:poss
-49997 obj
-50024 nmod:poss
-
-
-
-
-nmod:poss
-50037 obj
-50065 nmod:poss
-50076 nmod:poss
-
+obl
+49915	nmod:poss
 
 
 
@@ -12740,7 +12685,14 @@ nmod:poss
 
 
 nmod:poss
-50100 nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+49941	nmod:poss
+
+
 
 
 nmod:poss
@@ -12749,9 +12701,10 @@ nmod:poss
 
 
 nmod:poss
-
 
 obj
+49963	obl
+
 
 
 
@@ -12762,23 +12715,70 @@ obl
 
 
 
-obl
-50131 nmod:poss
+nmod:poss
 
 
 
-obl
-50151 nmod:poss
-50177 obj
-50194 nmod:poss
+
+nmod:poss
+49987	nmod:poss
+49997	obj
+50024	nmod:poss
+
+
+
+
+nmod:poss
+50037	obj
+50065	nmod:poss
+50076	nmod:poss
+
+
 
 
 nmod:poss
 
 
 nmod:poss
-50207 obl
-50222 nmod:poss
+50100	nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+
+obl
+
+
+
+
+
+obl
+50131	nmod:poss
+
+
+
+obl
+50151	nmod:poss
+50177	obj
+50194	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+50207	obl
+50222	nmod:poss
 
 nmod:poss
 nmod:poss
@@ -12786,38 +12786,38 @@ nmod:poss
 
 nmod:poss
 parataxis
-50236 nmod:poss
+50236	nmod:poss
 
 
 
 
 nmod:poss
-50249 nmod:poss
-50290 nmod:poss
+50249	nmod:poss
+50290	nmod:poss
 
 nmod:poss
-50299 nmod
-50306 nmod
-50313 nmod
-50320 obl
+50299	nmod
+50306	nmod
+50313	nmod
+50320	obl
 nmod:poss
 
 nmod:poss
 root
 
 nmod:poss
-50334 nmod:poss
+50334	nmod:poss
 
 
 nmod:poss
 
 nmod:poss
-50346 obj
+50346	obj
 
 
 
 nmod:poss
-50360 nmod:poss
+50360	nmod:poss
 
 
 nmod:poss
@@ -12845,7 +12845,7 @@ nmod:poss
 
 
 obl
-50396 obl
+50396	obl
 
 
 
@@ -12856,10 +12856,10 @@ nmod:poss
 
 
 nmod:poss
-50413 obj
+50413	obj
 obl
-50424 obj
-50451 nmod:poss
+50424	obj
+50451	nmod:poss
 
 
 
@@ -12881,75 +12881,75 @@ nmod:poss
 
 
 obj
-50500 nmod:poss
-50513 nmod:poss
+50500	nmod:poss
+50513	nmod:poss
 
 
 
 
 nmod:poss
-50544 obj
-50560 obj
+50544	obj
+50560	obj
 obl
 
 
 
 obj
-50574 nmod:poss
-50603 nmod:poss
+50574	nmod:poss
+50603	nmod:poss
 
 
 nmod:poss
-50613 nmod:poss
-50623 nmod:poss
+50613	nmod:poss
+50623	nmod:poss
 
 
 nmod:poss
-50633 nmod:poss
-50644 nmod:poss
-
-
-nmod:poss
-
-
-
-
-
-nmod:poss
-50669 nmod:poss
-
-
-nmod:poss
-50693 nmod:poss
-
-
-nmod:poss
-50716 nmod:poss
-
-
-
-nmod:poss
-50762 nmod:poss
-
-
-nmod:poss
+50633	nmod:poss
+50644	nmod:poss
 
 
 nmod:poss
 
 
 
+
+
+nmod:poss
+50669	nmod:poss
+
+
+nmod:poss
+50693	nmod:poss
+
+
+nmod:poss
+50716	nmod:poss
+
+
+
+nmod:poss
+50762	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
 nmod:poss
 
 nmod:poss
-50829 obl
-50992 nmod:poss
+50829	obl
+50992	nmod:poss
 
 
 obj
-51010 obl
-51027 acl:relcl
-51143 obl
+51010	obl
+51027	acl:relcl
+51143	obl
 
 
 
@@ -12964,8 +12964,8 @@ root
 
 
 nmod:poss
-51192 obj
-51236 nmod:poss
+51192	obj
+51236	nmod:poss
 
 
 nmod:poss
@@ -12973,53 +12973,47 @@ nmod:poss
 
 
 obl
-51287 nmod:poss
-51299 nmod:poss
+51287	nmod:poss
+51299	nmod:poss
 
 
 
 
 nmod:poss
-51368 obj
-51375 nmod:poss
-51389 nmod:poss
-51402 obj
-51413 nmod:poss
+51368	obj
+51375	nmod:poss
+51389	nmod:poss
+51402	obj
+51413	nmod:poss
 
 
 nmod:poss
-51429 nmod:poss
-51473 nmod:poss
+51429	nmod:poss
+51473	nmod:poss
 
 
-
-
-
-nmod:poss
-51551 nmod:poss
-51602 obl
-51611 obl
-51661 nmod:poss
-nmod:poss
-nmod:poss
-nmod:poss
-
-nmod:poss
-
-nmod:poss
-51694 nmod:poss
-51704 nmod:poss
-51716 nmod:poss
-51723 nmod:poss
-51760 acl:relcl
-
-nmod:poss
 
 
 
 nmod:poss
+51551	nmod:poss
+51602	obl
+51611	obl
+51661	nmod:poss
+nmod:poss
+nmod:poss
+nmod:poss
 
+nmod:poss
 
+nmod:poss
+51694	nmod:poss
+51704	nmod:poss
+51716	nmod:poss
+51723	nmod:poss
+51760	acl:relcl
+
+nmod:poss
 
 
 
@@ -13032,16 +13026,22 @@ nmod:poss
 nmod:poss
 
 
-nmod:poss
-51791 nmod:poss
+
+
 
 nmod:poss
-51824 nmod:poss
-51852 obj
-51861 obj
-51909 nmod:poss
-51918 nmod:poss
-51997 acl:relcl
+
+
+nmod:poss
+51791	nmod:poss
+
+nmod:poss
+51824	nmod:poss
+51852	obj
+51861	obj
+51909	nmod:poss
+51918	nmod:poss
+51997	acl:relcl
 
 
 obj
@@ -13049,14 +13049,14 @@ obj
 
 
 nmod:poss
-52017 nmod:poss
-52036 nmod:poss
+52017	nmod:poss
+52036	nmod:poss
 
 
 obj
-52046 nmod:poss
-52053 obj
-52067 obj
+52046	nmod:poss
+52053	obj
+52067	obj
 
 
 obj
@@ -13093,8 +13093,8 @@ nmod:poss
 
 
 nmod:poss
-52112 obj
-52144 nmod:poss
+52112	obj
+52144	nmod:poss
 
 
 
@@ -13107,11 +13107,11 @@ nmod:poss
 
 
 nmod:poss
-52171 obl
-52256 obl
-52312 obl
-52342 obl
-52376 obl
+52171	obl
+52256	obl
+52312	obl
+52342	obl
+52376	obl
 
 
 
@@ -13130,27 +13130,27 @@ nsubj
 
 
 nsubj
-52456 obl
-52480 nmod:poss
-52492 nsubj
-52504 conj
-52512 nmod:poss
-355822 nmod:poss
+52456	obl
+52480	nmod:poss
+52492	nsubj
+52504	conj
+52512	nmod:poss
+355822	nmod:poss
 
 
 nmod:poss
-355833 nmod:poss
+355833	nmod:poss
 
 
 
 
 nmod:poss
-355863 nmod:poss
+355863	nmod:poss
 
 
 obl
-355887 nsubj
-355897 nmod:poss
+355887	nsubj
+355897	nmod:poss
 
 
 nmod:poss
@@ -13159,13 +13159,13 @@ nmod:poss
 
 
 nmod:poss
-355920 nmod:poss
+355920	nmod:poss
 
 
 obl
-355935 nmod:poss
+355935	nmod:poss
 conj
-355952 nmod:poss
+355952	nmod:poss
 
 
 
@@ -13175,7 +13175,7 @@ nmod:poss
 
 
 obl
-355970 nmod:poss
+355970	nmod:poss
 
 
 obl
@@ -13222,8 +13222,8 @@ obl
 
 
 nmod:poss
-356027 obl
-356054 nmod:poss
+356027	obl
+356054	nmod:poss
 
 
 obl
@@ -13237,7 +13237,7 @@ obl
 
 
 nmod:poss
-356075 nmod:poss
+356075	nmod:poss
 
 
 
@@ -13267,16 +13267,16 @@ obj
 
 
 obl
-356115 nmod:poss
+356115	nmod:poss
 nmod:poss
 
 nmod:poss
 nmod:poss
-356130 obl
-356138 obl
+356130	obl
+356138	obl
 
 conj
-356148 obl
+356148	obl
 
 
 
@@ -13299,7 +13299,7 @@ nsubj
 
 
 obl
-356178 obl
+356178	obl
 
 
 obl
@@ -13331,18 +13331,18 @@ obl
 
 
 obl
-356217 nmod:poss
+356217	nmod:poss
 orphan
-356237 nmod:poss
-356245 nmod:poss
-356268 nmod:poss
+356237	nmod:poss
+356245	nmod:poss
+356268	nmod:poss
 
 
 obl
 
 nmod:poss
-356288 nmod:poss
-356310 ccomp
+356288	nmod:poss
+356310	ccomp
 
 
 obl
@@ -13353,13 +13353,13 @@ obj
 
 
 nmod:poss
-356377 nsubj
-356389 nmod:poss
-356407 nmod:poss
+356377	nsubj
+356389	nmod:poss
+356407	nmod:poss
 nmod:poss
-356416 obl
-356425 obj
-356443 nmod:poss
+356416	obl
+356425	obj
+356443	nmod:poss
 
 
 
@@ -13373,7 +13373,7 @@ obl
 nmod:poss
 
 obj
-356465 obl
+356465	obl
 
 
 obl
@@ -13393,11 +13393,11 @@ nmod:poss
 
 
 nmod:poss
-356496 nmod:poss
+356496	nmod:poss
 
 
 nmod:poss
-356511 nmod:poss
+356511	nmod:poss
 
 
 
@@ -13423,18 +13423,18 @@ nmod:poss
 
 
 obl
-356551 nmod:poss
-356563 obl
-356579 nmod:poss
-356589 obj
+356551	nmod:poss
+356563	obl
+356579	nmod:poss
+356589	obj
 
 
 
 
 obl
-356605 obl
-356632 nmod:poss
-356640 obl
+356605	obl
+356632	nmod:poss
+356640	obl
 
 
 
@@ -13444,7 +13444,7 @@ nmod:poss
 
 obl
 nmod:poss
-356658 nmod:poss
+356658	nmod:poss
 
 
 
@@ -13454,10 +13454,10 @@ nmod:poss
 
 
 obl
-356675 obl
-356683 nmod:poss
-356691 nmod:poss
-356701 obl
+356675	obl
+356683	nmod:poss
+356691	nmod:poss
+356701	obl
 
 
 nmod
@@ -13465,13 +13465,13 @@ nmod
 
 
 nmod:poss
-356718 obl
+356718	obl
 
 
 
 
 acl:relcl
-356733 acl:relcl
+356733	acl:relcl
 
 
 
@@ -13488,7 +13488,7 @@ nmod:poss
 
 
 obl
-356772 nmod:poss
+356772	nmod:poss
 
 
 obl
@@ -13513,43 +13513,11 @@ nmod:poss
 
 
 nmod:poss
-356812 nmod:poss
+356812	nmod:poss
 obl
-356824 nsubj
-356833 nsubj
-356846 nmod:poss
-
-
-
-
-
-obl
-
-
-
-
-
-obl
-
-
-
-obl
-356873 obj
-nmod:poss
-356882 nmod:poss
-356898 nmod:poss
-356917 nmod:poss
-356926 nmod:poss
-
-
-nmod:poss
-
-nmod:poss
-356941 nmod:poss
-
-nmod:poss
-356962 nmod:poss
-
+356824	nsubj
+356833	nsubj
+356846	nmod:poss
 
 
 
@@ -13560,15 +13528,47 @@ obl
 
 
 
+
+obl
+
+
+
+obl
+356873	obj
 nmod:poss
-356991 nmod
-357001 obj
-357009 obj
+356882	nmod:poss
+356898	nmod:poss
+356917	nmod:poss
+356926	nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+356941	nmod:poss
+
+nmod:poss
+356962	nmod:poss
+
+
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+356991	nmod
+357001	obj
+357009	obj
 
 obj
-357021 nmod:poss
-357032 nmod:poss
-357049 acl:relcl
+357021	nmod:poss
+357032	nmod:poss
+357049	acl:relcl
 
 
 obl
@@ -13582,7 +13582,7 @@ obl
 
 
 obl
-357070 nmod:poss
+357070	nmod:poss
 
 
 
@@ -13596,7 +13596,7 @@ obl
 
 
 obl
-357094 obl
+357094	obl
 
 
 obl
@@ -13609,10 +13609,10 @@ nmod:poss
 
 
 nmod:poss
-357176 nmod:poss
-357190 nmod:poss
-357200 nmod:poss
-357209 obl
+357176	nmod:poss
+357190	nmod:poss
+357200	nmod:poss
+357209	obl
 
 
 
@@ -13623,9 +13623,9 @@ nmod:poss
 
 
 conj
-357229 nsubj
-357251 nmod:poss
-357260 obl
+357229	nsubj
+357251	nmod:poss
+357260	obl
 
 
 
@@ -13635,27 +13635,27 @@ obl
 
 
 nmod:poss
-357294 nmod:poss
+357294	nmod:poss
 
 
 
 nmod:poss
-357312 obl
+357312	obl
 
 
 nmod:poss
-357357 obl
-357366 nmod:poss
-357375 nmod:poss
+357357	obl
+357366	nmod:poss
+357375	nmod:poss
 
 
 
 nmod:poss
-357405 nmod:poss
-357413 nsubj
-357429 nmod:poss
-357444 obl
-357457 obl
+357405	nmod:poss
+357413	nsubj
+357429	nmod:poss
+357444	obl
+357457	obl
 
 
 
@@ -13665,7 +13665,7 @@ obl
 
 
 obl
-357482 obl
+357482	obl
 
 
 
@@ -13677,7 +13677,7 @@ nmod:poss
 
 
 obl
-357501 nmod:poss
+357501	nmod:poss
 
 nmod:poss
 
@@ -13687,7 +13687,7 @@ obj
 
 
 obl
-357521 obj
+357521	obj
 
 nmod:poss
 
@@ -13698,4 +13698,4 @@ obl
 
 
 obl
-357543 nmod:poss
+357543	nmod:poss
