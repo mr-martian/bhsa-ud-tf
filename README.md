@@ -25,3 +25,16 @@ It adds the following features:
   - MACULA assigns non-numeric values to function words (conjunctions, prefixed prepositions) which are not listed in the original concordance
 - `upos`
   - [Universal part-of-speech tag](https://universaldependencies.org/u/pos/)
+
+To use this data in a script or notebook, run
+
+```python
+from tf.app import use
+A = use("ETCBC/bhsa", mod="mr-martian/bhsa-ud-tf/tf")
+```
+
+Or from the command line
+
+```bash
+$ tf ETCBC/bhsa --mod=mr-martian/bhsa-ud-tf/tf
+```
