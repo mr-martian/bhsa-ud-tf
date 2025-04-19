@@ -6,7 +6,7 @@
 @valueType=str
 @version=2021
 @writtenBy=hbo-UD/export_tf.py
-@dateWritten=2025-03-11T22:11:42Z
+@dateWritten=2025-04-19T20:04:29Z
 
 194	nmod:poss
 
@@ -13135,6 +13135,4236 @@ nsubj
 52492	nsubj
 52504	conj
 52512	nmod:poss
+52520	obl
+52532	obl
+
+
+
+nsubj
+52552	nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+obj
+
+
+
+
+
+obj
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+52582	obl
+
+
+obl
+52624	obj
+
+nmod:poss
+52671	nmod:poss
+
+nmod:poss
+52698	nmod:poss
+52710	obj
+
+
+obj
+52729	nmod:poss
+52736	obj
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+obj
+52795	nmod:poss
+52809	nmod:poss
+
+obj
+52820	nmod:poss
+52827	nmod:poss
+52835	nmod:poss
+
+nmod:poss
+
+
+obj
+52851	obj
+
+nmod:poss
+
+
+
+
+obj
+52887	nmod:poss
+
+
+obl
+
+
+
+obl
+
+
+obj
+52908	nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+52940	nmod:poss
+52973	nmod:poss
+52982	obj
+
+
+
+obl
+52994	nmod:poss
+53012	obj
+
+
+
+
+obj
+53029	nmod:poss
+53049	nmod:poss
+53073	obl
+53080	obj
+53095	nmod:poss
+53105	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+53131	nmod:poss
+
+
+obl
+
+
+
+obl
+53147	nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+53163	nmod:poss
+53175	obj
+
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+obj
+53239	acl:relcl
+53254	obj
+
+
+obj
+53283	nmod:poss
+53293	obj
+
+
+
+
+
+nmod:poss
+
+
+obj
+53309	nmod:poss
+
+
+nmod:poss
+
+
+obj
+53325	nmod:poss
+53339	nmod:poss
+53347	obj
+53376	acl:relcl
+53391	obj
+
+obj
+53405	nmod:poss
+
+obj
+53414	nmod:poss
+
+nmod:poss
+
+
+obj
+53429	nmod:poss
+53436	obl
+nmod:poss
+53468	acl:relcl
+53483	obj
+
+obj
+53502	nmod:poss
+
+
+nmod:poss
+53557	nmod:poss
+53583	nmod:poss
+53608	obj
+53617	nmod:poss
+53680	obl
+53708	acl:relcl
+53723	obj
+53733	obj
+53748	nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+53779	obj
+53821	obl
+53833	obj
+53844	nmod:poss
+53877	nmod:poss
+53927	nmod:poss
+
+obl
+53948	obl
+
+
+obl
+
+
+
+
+obl
+53970	obj
+53993	nmod:poss
+54003	obl
+nmod:poss
+
+
+obl
+
+
+
+nmod:poss
+54018	nmod:poss
+54025	obj
+54047	nmod:poss
+54057	nmod:poss
+54067	nmod:poss
+54078	obl
+
+
+
+nmod:poss
+
+
+obl
+54098	obj
+54110	obl
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+54147	nmod:poss
+
+nmod:poss
+54160	nmod:poss
+54169	nmod:poss
+54193	obl
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+
+
+obj
+
+
+
+nmod:poss
+54219	obj
+54238	nmod:poss
+54249	nmod:poss
+54258	nmod:poss
+54274	obj
+54282	obl
+
+
+
+nmod:poss
+
+
+
+
+obl
+54312	nmod:poss
+54338	obl
+54352	nmod:poss
+
+
+obl
+
+
+obl
+54387	obl
+54409	obl
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+54432	obl
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+54467	obj
+54482	nmod:poss
+
+
+nmod:poss
+54523	obl
+
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+54549	nmod:poss
+54560	obl
+
+
+
+
+obl
+
+
+
+
+
+obj
+54579	obl
+
+nmod:poss
+54595	obl
+
+
+
+nmod:poss
+54608	obl
+54638	nmod:poss
+54647	nmod:poss
+54666	obj
+
+obl
+
+
+obj
+54679	obl
+54686	obl
+54709	nmod:poss
+54718	nmod:poss
+54726	obl
+
+
+
+nmod:poss
+54739	obl
+54764	nmod:poss
+54777	nmod:poss
+
+
+
+
+
+obl
+54825	obl
+54837	obl
+
+
+
+
+
+obj
+
+nmod:poss
+
+obj
+
+obl
+
+
+
+acl:relcl
+obj
+
+
+nmod:poss
+
+
+nmod:poss
+54870	nmod:poss
+54878	obl
+54886	obl
+54895	obl
+54908	nmod:poss
+54934	obl
+
+
+
+
+nmod:poss
+54946	nmod:poss
+54963	obj
+54970	nmod:poss
+54996	obl
+
+
+
+
+obl
+55013	obl
+
+
+
+
+obl
+55036	obj
+55048	obl
+
+nmod:poss
+55057	nmod:poss
+55073	nmod:poss
+
+
+
+
+
+obl
+
+
+
+nmod:poss
+55093	obj
+
+
+
+nmod:poss
+
+obl
+
+nmod:poss
+55117	obj
+
+
+
+nmod:poss
+55128	obl
+55141	nmod:poss
+55149	nsubj
+55156	nmod:poss
+
+
+
+
+nmod:poss
+55172	obj
+55186	nmod:poss
+
+nmod:poss
+
+obj
+55217	nmod:poss
+55243	obj
+obj
+55257	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+obl
+55279	obl
+55300	obj
+55310	nmod:poss
+55346	nmod:poss
+55355	nmod:poss
+
+obl
+55380	acl:relcl
+55395	obj
+
+
+obj
+55413	obj
+55429	parataxis
+
+
+
+
+obl
+parataxis
+55453	appos
+55477	obj
+appos
+55496	nmod:poss
+55510	obj
+55543	nmod:poss
+
+
+
+nmod:poss
+
+
+obl
+55567	parataxis
+
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+obl
+55589	nmod:poss
+
+
+nsubj
+
+nmod:poss
+55602	obl
+55627	nmod:poss
+55637	obj
+
+
+obl
+55648	obl
+nmod:poss
+55686	nmod:poss
+conj
+55695	nmod:poss
+55732	nmod:poss
+55768	obj
+55778	obl
+55789	nmod:poss
+55797	nmod:poss
+55818	nmod:poss
+55836	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+nmod:poss
+55858	obj
+
+
+
+
+
+obj
+55886	nmod:poss
+55899	nmod:poss
+55913	root
+55937	nmod:poss
+
+
+obj
+55947	nmod:poss
+55960	nmod:poss
+55967	obj
+55977	obl
+
+
+nsubj
+obj
+55989	nmod:poss
+56026	nsubj
+56033	nmod:poss
+56051	nmod:poss
+nmod
+56094	obj
+56124	nmod:poss
+
+
+obj
+
+
+
+
+
+obl
+
+
+
+
+
+obj
+
+
+
+
+
+obj
+
+
+
+
+
+obl
+
+
+
+
+
+obj
+56164	obl
+obl
+
+
+obl
+56190	nmod:poss
+56198	nmod:poss
+56228	acl:relcl
+
+
+obj
+
+
+obl
+56248	nmod:poss
+56255	nmod:poss
+
+obj
+56269	obj
+
+obj
+56279	obj
+
+
+
+obj
+
+
+
+obl
+56305	nmod:poss
+
+nmod:poss
+56329	nmod:poss
+56345	obj
+
+
+obl
+56371	nmod:poss
+56383	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+56415	nmod:poss
+
+nmod:poss
+56440	nmod:poss
+56505	nmod:poss
+
+nmod:poss
+56518	nmod:poss
+56530	nmod:poss
+
+
+
+
+
+nmod:poss
+56552	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+56607	nmod:poss
+56655	nmod:poss
+
+
+obj
+56666	obj
+
+
+nmod:poss
+56693	obj
+56733	nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+nmod
+
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+nmod
+56763	nmod:poss
+56774	obj
+56791	nmod:poss
+obj
+56820	nmod:poss
+
+
+
+
+
+nmod:poss
+56841	obl
+56867	nmod:poss
+56891	nmod:poss
+56901	obl
+56960	obl
+56993	obl
+57008	nmod:poss
+
+
+nmod:poss
+
+
+obl
+57027	obl
+57045	acl:relcl
+57053	obl
+
+
+nmod:poss
+57128	obl
+
+
+
+
+obj
+57143	obl
+
+nmod:poss
+57188	obj
+
+obj
+57200	obj
+57211	nmod:poss
+obl
+57247	obl
+
+obj
+57314	nmod:poss
+
+
+
+
+obj
+57384	nmod:poss
+57393	nmod:poss
+
+
+obl
+
+
+
+obl
+57412	obj
+57422	obj
+57440	nmod:poss
+57466	obl
+
+
+
+nmod:poss
+57485	obj
+
+nmod:poss
+57509	nmod:poss
+nmod:poss
+
+
+
+nmod:poss
+57527	nmod:poss
+57551	advcl
+57571	nmod:poss
+nmod
+
+nsubj
+57584	nmod:poss
+57616	obl
+57631	nmod:poss
+57644	obj
+57655	obj
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+57687	nmod:poss
+
+nmod:poss
+nmod
+
+nmod:poss
+
+
+nmod:poss
+57722	conj
+
+
+nmod:poss
+nmod
+57773	obj
+
+obl
+57784	obl
+57792	nmod:poss
+57799	obj
+57816	nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+obj
+57844	nmod:poss
+57855	obl
+57887	obj
+57912	nsubj
+
+
+
+obl
+57931	obl
+57946	obl
+57966	obl
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+57990	acl:relcl
+58004	obj
+
+
+
+
+
+obl
+58038	obl
+
+
+
+obl
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+58063	obl
+58095	nmod:poss
+
+
+
+
+nmod:poss
+58119	nmod:poss
+58151	nmod:poss
+58170	obl
+58185	acl:relcl
+
+
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+58230	acl:relcl
+
+
+
+
+obl
+58244	nmod:poss
+58254	nmod:poss
+
+nmod:poss
+58272	nsubj
+
+
+
+nsubj
+
+
+
+obl
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+58301	obl
+
+
+
+
+nmod:poss
+58315	nmod:poss
+
+nmod:poss
+58325	obl
+
+
+obl
+58348	nmod:poss
+58367	obl
+58375	obl
+
+nmod:poss
+58386	obl
+nsubj
+
+nmod:poss
+58406	obl
+58424	nsubj
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+obj
+58443	obl
+58460	nmod:poss
+obl
+58472	obl
+58484	nmod:poss
+
+
+
+
+
+nmod:poss
+58508	nmod:poss
+obl
+
+
+obl
+58521	acl:relcl
+
+
+
+
+
+nmod:poss
+58536	nmod:poss
+
+nmod:poss
+58548	nmod:poss
+
+nmod:poss
+58592	obj
+58599	nmod:poss
+58609	obl
+
+
+obl
+
+
+
+nmod:poss
+58629	nmod:poss
+58644	obj
+
+
+
+
+
+obl
+58733	nsubj
+58743	nmod:poss
+58768	nmod:poss
+58777	nmod:poss
+58792	nmod:poss
+58801	nmod:poss
+58819	obj
+
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+58846	nmod:poss
+58866	obl
+58886	nmod:poss
+58896	nmod:poss
+58910	nmod:poss
+58938	nmod:poss
+
+
+
+
+obj
+
+
+
+
+obj
+58956	nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+58979	obj
+58993	nmod:poss
+59002	obj
+59012	obj
+59033	obj
+59040	nmod:poss
+59053	nsubj
+
+
+
+
+nmod:poss
+59078	obj
+59122	nmod:poss
+
+obj
+
+
+
+obj
+59151	nmod:poss
+
+
+nmod:poss
+59172	nmod:poss
+
+
+
+
+
+nmod:poss
+59187	obl
+59201	obj
+59227	obj
+59250	root
+
+nmod:poss
+59279	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+obj
+59301	obj
+
+
+
+
+
+obl
+
+
+
+
+nsubj
+59320	obj
+59336	obj
+
+
+
+
+nmod:poss
+59352	obj
+59360	nmod:poss
+59375	obj
+59387	nmod:poss
+59400	obj
+59408	obj
+59421	nsubj
+59429	obj
+
+
+
+
+
+obj
+59453	obj
+
+
+
+
+
+nmod:poss
+59476	obj
+59490	root
+59506	nmod:poss
+
+
+
+
+
+conj
+
+
+
+
+
+obj
+59542	nmod:poss
+59551	obl
+59583	conj
+59635	nmod:poss
+nsubj
+59643	obj
+
+
+
+
+nmod:poss
+59661	nmod:poss
+
+obj
+59688	nmod:poss
+59696	obl
+59703	obj
+59714	nmod:poss
+59726	nmod:poss
+59742	nmod:poss
+59751	nmod:poss
+
+nmod:poss
+59775	nmod:poss
+
+
+nmod:poss
+
+
+obj
+59792	nmod:poss
+
+
+nmod:poss
+59807	obj
+
+
+
+nmod:poss
+nmod:poss
+
+
+
+
+acl:relcl
+
+
+nmod:poss
+
+
+
+nmod:poss
+59840	acl:relcl
+59851	nmod:poss
+
+
+
+
+
+root
+60008	acl:relcl
+60054	acl:relcl
+
+
+
+obj
+60078	nmod:poss
+60089	obj
+
+
+
+nmod:poss
+
+
+nmod:poss
+60109	nsubj
+
+
+obj
+60153	obj
+
+
+acl:relcl
+60177	obl
+60206	obj
+
+
+obj
+60224	nmod:poss
+60297	obj
+60314	obj
+60343	obj
+60360	nmod:poss
+
+
+
+
+nmod:poss
+60384	nmod:poss
+60397	nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+60439	nmod:poss
+60466	conj
+60484	obj
+60494	obj
+60554	nmod:poss
+
+
+
+
+
+nmod:poss
+60584	nmod:poss
+60592	nmod:poss
+60601	nmod:poss
+60614	nmod:poss
+60628	nmod:poss
+
+
+
+
+
+nmod:poss
+60659	obl
+60678	nmod:poss
+60700	obl
+60711	nmod:poss
+60722	obl
+60745	nmod:poss
+60756	obj
+60763	nmod:poss
+60789	obj
+60822	nmod:poss
+
+
+
+
+
+nmod:poss
+60849	nmod:poss
+60857	nmod:poss
+60874	nmod:poss
+60885	nmod:poss
+
+
+
+
+
+nmod:poss
+60917	obl
+60937	nmod:poss
+
+
+
+nmod:poss
+60967	acl:relcl
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+60994	obl
+61004	nmod:poss
+
+
+
+csubj
+61021	obl
+61081	nmod:poss
+61134	acl:relcl
+
+
+
+
+obj
+61244	nmod:poss
+
+
+nmod:poss
+61274	obj
+61287	nmod:poss
+61296	nmod:poss
+61383	obj
+61526	obl
+61533	nmod:poss
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+nmod:poss
+61559	obl
+61569	obl
+61576	nmod:poss
+
+nmod:poss
+61597	obl
+
+
+
+nmod:poss
+61620	nmod:poss
+61641	nmod:poss
+61658	obl
+61670	nmod:poss
+61678	obj
+
+nmod:poss
+61695	obl
+
+
+
+nmod:poss
+61707	nmod:poss
+61723	obl
+61741	nmod:poss
+
+
+obl
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+61767	obl
+61784	obj
+
+
+
+
+
+obj
+61801	obl
+61808	nmod:poss
+
+
+
+
+obl
+61823	nmod:poss
+61837	acl:relcl
+61855	obl
+61875	nmod:poss
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+61896	obl
+
+nmod:poss
+
+
+
+
+
+obl
+61911	nmod:poss
+
+nmod:poss
+61933	obl
+
+nmod:poss
+61959	obl
+
+nsubj
+obl
+61972	obl
+
+
+nmod:poss
+conj
+61987	obl
+61994	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+62021	obl
+
+
+nmod:poss
+
+
+nmod:poss
+
+obl
+62036	obl
+
+
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+
+nmod:poss
+62065	nmod:poss
+
+
+obl
+62081	obl
+62090	obj
+62113	obl
+62121	nmod:poss
+62128	nmod:poss
+
+
+
+
+nmod:poss
+
+nsubj
+
+nmod:poss
+
+
+nmod:poss
+62148	obl
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+62189	nsubj
+62203	nmod:poss
+62263	nmod:poss
+62283	nmod:poss
+
+obj
+62311	acl:relcl
+
+
+obl
+
+
+nmod:poss
+62326	obj
+62358	obl
+
+
+
+
+
+obj
+62371	obl
+62383	obl
+
+
+obj
+62399	acl:relcl
+
+
+obl
+
+
+nmod:poss
+62413	acl:relcl
+62431	nmod:poss
+62477	nmod:poss
+62495	nmod:poss
+62509	nmod:poss
+62519	nmod:poss
+62529	obj
+62549	nmod:poss
+
+
+nmod:poss
+62561	obl
+
+
+nmod:poss
+62574	nsubj
+62581	nsubj
+
+
+obl
+
+
+nmod:poss
+62604	obl
+62625	obl
+
+
+
+
+nmod:poss
+
+
+
+obj
+
+obj
+62668	nmod:poss
+62677	obl
+62686	nmod:poss
+
+
+nmod:poss
+
+
+obj
+62709	obl
+
+
+nmod:poss
+62739	nsubj
+
+
+
+
+obj
+
+
+
+
+nmod:poss
+62759	nmod:poss
+
+
+
+
+
+nmod:poss
+62773	obl
+62795	nmod:poss
+
+
+
+nmod:poss
+62823	nmod:poss
+62842	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+obj
+
+nmod:poss
+
+
+
+nmod:poss
+62871	obl
+62888	nmod:poss
+62902	nmod:poss
+62910	obl
+
+
+obj
+
+
+nmod:poss
+62924	obl
+
+
+
+nmod:poss
+62937	obj
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+62985	obl
+62996	nmod:poss
+63021	nmod:poss
+63029	obl
+63067	obj
+63094	nmod:poss
+63101	nmod:poss
+63110	obj
+63126	obj
+63154	nmod:poss
+63161	obl
+
+
+
+
+obl
+
+nmod:poss
+
+obl
+63184	nmod:poss
+63196	obj
+
+
+obj
+63209	nmod:poss
+63223	nmod:poss
+63230	nmod:poss
+63241	obj
+
+
+nmod:poss
+63255	obj
+obl
+63263	nmod:poss
+63280	nmod
+63290	nmod:poss
+63307	nmod:poss
+63319	nmod:poss
+
+obj
+63329	nmod:poss
+
+nmod:poss
+63347	nmod:poss
+
+
+obj
+63369	nmod:poss
+63387	nmod:poss
+
+
+
+
+nmod:poss
+63406	obl
+
+
+nmod:poss
+63416	obl
+63427	obj
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+obl
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+obj
+
+
+
+
+obl
+63471	nmod:poss
+63480	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+63513	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+nmod:poss
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+63608	nmod:poss
+63615	nmod:poss
+obl
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+nmod:poss
+63657	nmod:poss
+63675	nmod:poss
+
+
+obl
+63687	obj
+63706	nmod:poss
+63713	nmod:poss
+obl
+
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+63746	nmod:poss
+63760	nmod:poss
+63770	obj
+
+nsubj
+obj
+63782	nmod:poss
+63801	nmod:poss
+
+
+
+nmod:poss
+63816	nmod:poss
+
+
+
+obl
+
+
+nmod:poss
+63839	obl
+63846	nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+63869	obl
+
+
+nmod:poss
+63881	nmod:poss
+obj
+
+
+nmod:poss
+63915	obj
+nmod:poss
+63930	nmod:poss
+
+
+nsubj
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+63965	obj
+
+
+nmod:poss
+63979	nmod:poss
+
+
+
+
+nmod:poss
+63992	nmod:poss
+
+
+
+
+
+nmod:poss
+64006	obl
+64022	nmod:poss
+64043	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+obl
+64078	nmod:poss
+
+
+
+nmod:poss
+obl
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+nmod:poss
+64103	obl
+64126	obl
+64137	nmod:poss
+64148	obl
+64159	nmod:poss
+
+
+
+
+obl
+
+nmod:poss
+64182	nmod:poss
+
+nmod:poss
+
+
+
+obl
+64200	nmod:poss
+64213	nmod:poss
+
+
+obl
+nmod:poss
+
+
+nmod:poss
+64234	nmod:poss
+
+
+
+
+
+nmod:poss
+64248	nmod:poss
+
+
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+
+obj
+64274	nmod:poss
+
+
+nmod:poss
+64294	obl
+
+
+nmod:poss
+64309	nmod:poss
+
+
+
+
+
+obl
+
+
+nmod:poss
+
+
+obj
+
+
+nmod
+
+obl
+
+
+
+
+obl
+
+
+obl
+obl
+64344	nmod:poss
+64371	root
+
+
+nmod:poss
+
+
+obj
+64385	nmod:poss
+
+
+
+nmod:poss
+
+
+obj
+64423	nmod:poss
+64432	obj
+64440	nmod:poss
+64448	obj
+
+
+nmod:poss
+
+
+nmod:poss
+64462	nmod:poss
+
+
+
+
+
+nmod:poss
+64477	nmod:poss
+64484	nsubj
+
+nmod:poss
+64493	obj
+
+
+
+
+nmod:poss
+64506	nmod:poss
+
+
+obj
+
+
+
+
+
+obl
+64523	nmod:poss
+64538	obl
+
+
+
+nmod:poss
+64550	obj
+
+
+nmod:poss
+64562	nmod:poss
+
+
+
+nmod:poss
+
+
+obj
+
+
+obj
+64579	nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+parataxis
+64602	nmod:poss
+64616	nmod:poss
+
+nmod:poss
+
+
+
+nsubj
+nmod:poss
+parataxis
+
+
+
+
+
+nmod:poss
+
+
+nsubj
+
+
+nmod:poss
+parataxis
+64648	nsubj
+
+
+nmod:poss
+parataxis
+64661	nmod:poss
+64668	obj
+
+conj
+
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+64700	obl
+64712	nmod:poss
+parataxis
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+64741	nmod:poss
+
+nmod:poss
+
+nmod:poss
+64757	nmod:poss
+
+nmod:poss
+64766	nmod:poss
+
+
+nsubj
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+nmod:poss
+64793	nmod:poss
+
+nmod:poss
+
+nmod:poss
+64807	nmod:poss
+
+
+
+nmod:poss
+64819	nmod:poss
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+obj
+
+
+
+
+
+obj
+
+
+
+obl
+64852	nmod:poss
+64860	obl
+
+
+obl
+
+
+
+nmod:poss
+
+
+obj
+obl
+
+
+obj
+64882	nmod:poss
+
+
+obj
+64912	nmod:poss
+64929	obl
+
+
+
+
+obl
+64942	obj
+
+
+
+
+
+advcl
+64955	advcl
+64965	obj
+nmod:poss
+parataxis
+64981	obl
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod
+
+
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+
+nsubj
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+65050	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+65077	nmod:poss
+65084	nmod:poss
+
+obj
+
+
+
+nmod:poss
+
+
+
+
+obl
+
+
+
+
+obj
+65110	nmod:poss
+65123	nmod:poss
+
+
+
+nmod:poss
+65134	nmod:poss
+65141	nmod:poss
+
+
+
+nmod:poss
+65156	nmod:poss
+
+
+nmod:poss
+65173	nmod:poss
+
+
+
+
+nmod:poss
+advcl
+65186	nmod:poss
+65202	nmod:poss
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+obj
+65229	nmod:poss
+
+nmod:poss
+
+
+acl:relcl
+65241	nmod:poss
+
+
+
+
+acl:relcl
+65262	acl:relcl
+65275	nmod:poss
+65286	acl:relcl
+65301	parataxis
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+65334	advcl
+
+
+
+
+nmod:poss
+
+
+
+obj
+65351	nmod:poss
+65369	nmod:poss
+65381	nmod:poss
+
+
+
+obl
+
+
+
+obl
+
+nmod:poss
+65398	nmod:poss
+65409	nmod:poss
+conj
+65419	nmod:poss
+65451	obl
+65463	obl
+
+
+
+
+
+obl
+
+
+nmod:poss
+
+
+
+obl
+65491	nmod:poss
+65508	nmod:poss
+65517	obl
+
+
+
+
+
+nmod:poss
+
+
+
+obl
+
+
+
+obl
+
+obj
+
+
+obj
+65556	nmod:poss
+
+
+obl
+
+
+nmod:poss
+
+
+
+nmod:poss
+65593	obl
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+65610	obl
+65620	obj
+obl
+65644	obj
+
+
+
+nsubj
+
+nmod:poss
+
+
+
+obj
+65667	nmod:poss
+65675	obl
+65689	nmod:poss
+
+
+nmod:poss
+
+
+
+nmod:poss
+65704	nmod:poss
+65719	acl:relcl
+65728	obl
+65758	parataxis
+65779	obl
+65794	obj
+65814	nmod:poss
+65826	nmod:poss
+
+
+
+
+nmod:poss
+advcl
+
+parataxis
+
+
+obl
+65857	nmod:poss
+65875	obj
+
+
+nmod:poss
+65892	nmod:poss
+65902	obl
+65909	nmod:poss
+
+
+obj
+65920	nmod:poss
+65929	obj
+
+
+obj
+
+
+
+
+
+obl
+65956	obl
+
+
+
+
+obj
+
+
+
+
+nmod:poss
+65991	nmod:poss
+65999	obj
+
+nmod:poss
+66046	root
+66084	obl
+66093	obl
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+66116	nmod:poss
+
+
+
+
+obj
+66128	nsubj
+66135	nmod:poss
+
+
+
+
+
+nmod:poss
+66155	nmod:poss
+66175	nsubj
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+obl
+66195	nsubj
+66221	nmod:poss
+66258	nmod:poss
+
+nmod:poss
+66285	obj
+66315	parataxis
+66325	nmod:poss
+
+nmod:poss
+
+
+nsubj
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+nsubj
+
+
+nmod:poss
+66353	obj
+
+
+nmod:poss
+66381	obl
+66422	conj
+
+
+
+nmod:poss
+66449	obl
+
+
+
+nmod:poss
+66470	nmod:poss
+66494	nmod:poss
+66502	nmod:poss
+
+
+nmod:poss
+
+
+
+obl
+
+
+
+nmod:poss
+66527	nmod:poss
+66585	conj
+66603	obj
+66620	nmod:poss
+66630	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+66658	nsubj
+66684	obl
+66707	nmod:poss
+
+
+
+
+obj
+66724	nmod:poss
+66731	obj
+66749	nmod:poss
+66759	nsubj
+obj
+
+
+
+
+
+nmod:poss
+66789	obl
+66811	obj
+66824	nmod:poss
+66843	obj
+66856	obj
+66895	obj
+66912	nmod:poss
+
+obj
+66922	obl
+66968	obj
+
+
+
+
+nmod:poss
+66981	obj
+
+
+
+
+
+obl
+67014	nmod:poss
+
+nmod:poss
+
+
+obj
+67034	nmod:poss
+
+
+nmod:poss
+67046	obl
+67057	nsubj
+67073	obj
+67083	nmod:poss
+
+
+
+
+
+obl
+67108	obl
+
+
+
+obj
+67120	root
+67131	nmod:poss
+67151	obj
+67179	obl
+67188	obl
+67199	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+67224	nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+67253	obl
+
+
+parataxis
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+obl
+
+
+nmod:poss
+67281	nmod:poss
+
+
+nmod:poss
+
+
+
+
+obl
+67299	obl
+67332	nmod:poss
+67348	nmod:poss
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+67370	obl
+67377	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+67404	nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+67430	nmod:poss
+
+
+
+
+
+obl
+67443	nmod:poss
+67451	nmod:poss
+
+
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+obj
+67494	nmod:poss
+67503	obl
+67521	nmod:poss
+
+
+
+nmod:poss
+obl
+67561	nmod:poss
+67572	advcl
+67580	nmod:poss
+
+
+
+
+nmod:poss
+67593	nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod
+
+
+
+
+nmod:poss
+
+
+
+
+
+root
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+67639	obl
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+obl
+
+
+nmod:poss
+
+
+
+
+obj
+67672	nmod:poss
+67683	nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+67697	obl
+67709	acl:relcl
+67717	obj
+
+nmod:poss
+67731	obl
+67741	conj
+67753	nmod:poss
+67772	nmod:poss
+67782	nmod:poss
+67790	nmod:poss
+67797	obl
+
+
+
+nmod:poss
+
+
+nmod:poss
+obl
+
+
+obl
+
+
+
+
+
+obl
+
+
+
+obl
+67825	nmod:poss
+
+
+nmod:poss
+obl
+
+nmod:poss
+
+
+obl
+67842	nmod:poss
+
+
+nmod:poss
+
+
+obj
+
+
+
+
+
+obl
+
+
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+obl
+
+
+obl
+
+
+obl
+67881	obl
+
+
+
+
+
+obl
+
+
+
+obl
+
+
+nmod:poss
+nmod
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+obj
+67920	obl
+
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+nmod:poss
+
+
+acl:relcl
+
+
+
+
+
+nmod:poss
+obl
+67953	obl
+obl
+
+
+
+nmod:poss
+
+acl:relcl
+
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+obj
+
+nmod:poss
+nmod
+
+
+
+
+
+obl
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+obl
+68003	nmod
+
+
+nmod:poss
+nmod
+
+
+
+
+
+nmod
+68023	root
+
+
+nmod:poss
+obj
+
+nmod:poss
+
+
+nmod:poss
+obj
+
+
+
+nmod:poss
+
+nmod:poss
+obj
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+nsubj
+obl
+68061	nmod:poss
+68069	obl
+68077	nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+68096	obl
+
+
+nmod:poss
+
+
+nmod:poss
+68109	obl
+
+obj
+
+
+
+nmod:poss
+68130	nmod:poss
+nmod
+
+obl
+
+
+
+nmod:poss
+
+
+
+obj
+
+
+
+
+
+nmod:poss
+
+
+obl
+68158	obl
+68165	nmod:poss
+
+
+obl
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+obj
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+obl
+68221	nmod:poss
+68229	nmod:poss
+68253	nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+
+nmod
+
+
+
+
+nmod
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+
+obl
+
+
+obj
+
+
+obj
+
+
+
+nmod:poss
+obl
+68309	nmod:poss
+
+nmod:poss
+
+
+
+nmod:poss
+obj
+
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+
+
+advcl
+
+
+
+
+nmod:poss
+
+
+obj
+
+
+
+
+
+obl
+68370	nmod:poss
+
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+nsubj
+
+nmod:poss
+
+
+
+
+obl
+
+
+obl
+68414	nmod:poss
+
+obj
+nmod:poss
+
+
+nmod:poss
+obl
+
+
+
+
+nmod:poss
+
+
+obl
+nmod:poss
+
+
+
+
+
+obj
+68443	obl
+
+
+
+
+obj
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+68475	nmod:poss
+
+
+
+nmod:poss
+
+nmod:poss
+68488	nmod:poss
+
+
+
+obl
+68499	obl
+
+
+obl
+
+
+
+nmod:poss
+
+
+obl
+68516	obj
+
+
+
+nmod:poss
+
+
+obj
+
+
+nmod:poss
+68533	obl
+
+
+obl
+
+
+
+
+
+obl
+
+
+
+
+obj
+
+
+
+
+nmod:poss
+
+
+obl
+68563	nmod:poss
+
+
+
+
+nmod:poss
+68575	nsubj
+obl
+68583	nmod:poss
+
+
+
+
+
+nmod:poss
+68604	obl
+
+
+obl
+
+
+
+
+obl
+
+
+
+
+
+obj
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+nmod:poss
+obj
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+68674	obl
+nmod:poss
+
+
+obl
+
+obj
+68687	obl
+
+
+
+nmod:poss
+
+
+nmod:poss
+68702	nmod:poss
+68710	nmod:poss
+68718	nmod:poss
+68728	nmod:poss
+
+nsubj
+obl
+
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+obj
+68763	nmod:poss
+68774	conj
+
+
+
+nmod:poss
+68786	obj
+
+nmod:poss
+
+
+
+obl
+
+
+nmod:poss
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+nmod
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+obl
+
+
+
+
+obl
+
+
+
+
+
+obl
+
+
+
+
+obj
+
+
+nmod:poss
+
+
+
+nmod:poss
+68848	nmod:poss
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+68873	obl
+
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+nmod:poss
+
+nmod:poss
+
+
+
+
+
+nsubj
+
+
+nmod:poss
+
+obj
+
+
+obj
+
+obj
+
+
+nmod:poss
+obl
+
+
+
+nmod:poss
+
+
+obl
+
+
+
+
+obj
+68939	obl
+68956	obl
+68980	obl
+
+
+
+
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+69006	nmod:poss
+69020	nmod:poss
+69036	nmod:poss
+69059	nmod:poss
+69069	nmod:poss
+69085	nmod:poss
+69100	nmod:poss
+
+obj
+69109	obj
+69119	obj
+69127	obl
+69134	obl
+
+
+
+
+
+obj
+
+
+
+obj
+69163	nmod:poss
+69174	obl
+69191	obj
+69198	nmod:poss
+69206	obj
+
+
+obj
+
+nmod:poss
+
+
+
+
+
+nmod:poss
+
+
+
+
+obj
+69233	obj
+69244	nmod:poss
+
+
+
+
+nmod:poss
+obl
+
+
+conj
+
+
+
+
+nmod:poss
+69265	nmod:poss
+
+
+nmod:poss
+69282	nmod:poss
+
+nmod:poss
+69292	nmod:poss
+
+
+obl
+69314	nmod:poss
+69324	obj
+
+
+
+
+nmod:poss
+obl
+
+
+obl
+69358	nsubj
+69373	nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+nmod:poss
+
+
+
+
+
+obl
+
+
+
+
+
+nmod:poss
+69404	nmod:poss
+69422	obj
+
+obl
+
+
+nmod
+
+
+
+
+
+nmod:poss
+69455	obj
+69473	nmod:poss
+
+
+obj
+obl
+69485	nmod:poss
+69497	acl:relcl
+69505	nmod:poss
+69554	nmod:poss
+obj
+
+obl
+69584	obj
+
+
+
+obj
+
+
+
+
+nmod:poss
 355822	nmod:poss
 
 
