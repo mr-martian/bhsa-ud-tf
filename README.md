@@ -20,6 +20,8 @@ It adds the following features:
 - `sdbh`
   - (mostly) disambiguated ID in MARBLE's [Semantic Dictionary of Biblical Hebrew](https://marble.bible/dictionary)
   - this will be a comma-separated list if ambiguity remains
+- `sdbh_dom`
+  - ID of the conceptual domains corresponding to the word IDs in `sdbh`
 - `strongs`
   - Number of the word root in Strong's Concordance
   - MACULA assigns non-numeric values to function words (conjunctions, prefixed prepositions) which are not listed in the original concordance
